@@ -154,5 +154,6 @@ We look to regional peers who have successfully positioned premium rustic/modern
 
 - `[ ]` **Refine Pitch Outlines:** Draft 2-3 specific email pitch templates matching the angles outlined above.
 - `[ ]` **Establish Connections:** Reach out to Erinne Magee and Hilary Nangle to introducing Lantern Camp.
+- `[ ]` **Collaborate on Strategy/Contacts:** Coordinate with Ann and David Swardlick to leverage their Maine media contacts and PR strategy.
 - `[ ]` **Prep Pitch Package:** Ensure we have professional high-resolution photos ready to share (e.g., Michelle Lawrence's select shots and Peter Logue's wide clips).
 - `[ ]` **Target Assistant Tasks:** Work with Lucy Larson (upon onboarding) to build out the contact spreadsheet and track follow-ups.
