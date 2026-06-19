@@ -53,7 +53,7 @@ Use this document to track assignments, to-dos, hygiene, and projects.
 
 ## 🎛️ Meta Ads & GTM Tracking Integration
 
-All technical architecture, infrastructure settings, tags, triggers, and unresolved flags are documented in [lantern-camp-meta-ads-gtm.md](#/docs/lantern-camp-meta-ads-gtm).
+All technical architecture, infrastructure settings, tags, triggers, and unresolved flags are documented in [tracking-and-analytics-setup.md](#/docs/tracking-and-analytics-setup).
 
 ### 📋 Verification & Cleanup Roadmap
 *   [ ] **Mews Backend Housekeeping & Cleanup (High Priority):**
