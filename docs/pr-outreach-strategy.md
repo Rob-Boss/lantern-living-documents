@@ -18,7 +18,7 @@ To manage expectations, value, and placement goals, we slot our pitch angles ont
 1.  **Aspirational (L1):** 
     *   *Purpose:* Establish brand prestige, design credibility, and architectural authority.
     *   *Direct Bookings:* Low/Slow (long-term brand equity; readers dream now and book next season).
-    *   *Targets:* National design, architecture, and luxury travel publications (e.g., *Architectural Digest*, *Dwell*, *Maine Home + Design*, *National Geographic*).
+    *   *Targets:* National design, architecture, and premium travel publications (e.g., *Architectural Digest*, *Dwell*, *Maine Home + Design*, *National Geographic*).
 2.  **Experiential (L2):**
     *   *Purpose:* Provide authentic, trusted reviews of the physical on-site guest experience.
     *   *Direct Bookings:* Moderate/Steady.
@@ -40,7 +40,7 @@ We organize our stories along this spectrum. To ensure a balanced outreach pipel
 *   **Key Themes:**
     *   **Addison the Architect:** The design-thinking mind behind the cabins. Addison's focus is on architectural harmony and low environmental footprint.
     *   **Plain Modern & Scandinavian Design:** Clean lines, large windows framing forest views, and minimalist comfort.
-    *   **Low-Impact & Sustainable Footprint:** Fully off-grid luxury that doesn't compromise on design or comfort, utilizing solar power and low-disturbance foundations.
+    *   **Low-Impact & Sustainable Footprint:** Fully off-grid comfort that doesn't compromise on design or utility, utilizing solar power and low-disturbance foundations.
 *   **Primary Targets:** Design and architecture editors, sustainability writers (*Dwell*, *Maine Home + Design*, *Decor Maine*, national travel magazines).
 
 ### 2. 🌲 The Firsthand Experience (On-Site Stays)
@@ -56,7 +56,7 @@ We organize our stories along this spectrum. To ensure a balanced outreach pipel
 *   **The Hook:** Target parents visiting their children at traditional Maine summer camps. Rather than booking generic hotels far from camp, parents can stay in style and comfort at Lantern Camp.
 *   **Key Themes:**
     *   **Parents' Weekend Retreat:** Offer a peaceful sanctuary for parents seeking a vacation of their own during camp drop-offs or family weekends.
-    *   **Rustic Luxury:** Provide premium bedding, quiet surrounds, and modern amenities that contrast nicely with their children's camp experience.
+    *   **Elevated Comfort:** Provide premium bedding, quiet surrounds, and modern amenities that contrast nicely with their children's camp experience.
 *   **Primary Targets:** Family travel writers, Boston/New England lifestyle sections.
 
 ### 4. 🎪 Blue Hill Peninsula: Festivals, Food, & Culture
@@ -77,7 +77,7 @@ We are focusing our pitching efforts on tier-one regional publications, national
 *   **The Boston Globe (Travel):** The primary regional travel sections covering weekend getaways and New England destinations. Highly influential for the Massachusetts/New England demographic.
 *   **National Geographic (Travel):** High-profile national features focusing on eco-tourism, unique stays, and natural wonders.
 *   **Yankee Magazine:** Deeply focused on New England travel, heritage, and lifestyle.
-*   **Down East Magazine / Decor Maine / Maine Home + Design:** Local authorities on Maine lifestyle, interior design, architecture, and luxury cabin aesthetics.
+*   **Down East Magazine / Decor Maine / Maine Home + Design:** Local authorities on Maine lifestyle, interior design, architecture, and premium cabin aesthetics.
 
 ---
 
