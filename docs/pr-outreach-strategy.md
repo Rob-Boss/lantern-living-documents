@@ -34,13 +34,13 @@ To manage expectations, value, and placement goals, we slot our pitch angles ont
 
 We organize our stories along this spectrum. To ensure a balanced outreach pipeline, we pitch a mix of high-equity brand stories and high-conversion booking campaigns:
 
-### 1. 📐 Landscape Hotels & Architectural Minimalism
+### 1. 📐 Landscape Hotels & Low-Impact Architectural Minimalism
 *   **Spectrum Rating:** `[ Aspirational (L1) — Brand/Prestige ]`
 *   **The Hook:** Pitch Lantern Camp not as a "campground," but as a design-forward, low-impact landscape hotel. Focus on architect Addison Godine's design thinking and his vision to share nature through clean, modern, Scandinavian-influenced cabins.
 *   **Key Themes:**
     *   **Addison the Architect:** The design-thinking mind behind the cabins. Addison's focus is on architectural harmony and low environmental footprint.
     *   **Plain Modern & Scandinavian Design:** Clean lines, large windows framing forest views, and minimalist comfort.
-    *   **Off-Grid & Solar-Powered:** Fully off-grid luxury that doesn't compromise on design or comfort.
+    *   **Low-Impact & Sustainable Footprint:** Fully off-grid luxury that doesn't compromise on design or comfort, utilizing solar power and low-disturbance foundations.
 *   **Primary Targets:** Design and architecture editors, sustainability writers (*Dwell*, *Maine Home + Design*, *Decor Maine*, national travel magazines).
 
 ### 2. 🌲 The Firsthand Experience (On-Site Stays)
