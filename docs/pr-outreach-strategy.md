@@ -131,13 +131,13 @@ Below is a summary of our direct personal connections and warm publication leads
 
 ## 🔍 Industry Benchmarks
 
-We look to regional peers who have successfully positioned premium rustic/modern stays in Maine:
+We look to regional peers who have successfully positioned premium rustic/modern stays:
 
-*   **Nordhavn (Camden, ME):**
-    *   *Developer:* Jim Brady (known for The Press Hotel and Canopy Hotel in Portland).
-    *   *Concept:* High-end, Scandinavian-designed "for sale" cabins.
-    *   *Link:* [Nordhavn Camden](https://nordhavn-camden.com/)
-    *   *Takeaway:* A great benchmark for clean design aesthetics and target audience alignment.
+*   **Piaule Catskill (Catskill, NY):**
+    *   *Developer:* Nolan McHugh & Trevor Briggs (with Garrison Architects).
+    *   *Concept:* Minimalist landscape hotel featuring prefabricated, elevated cabins immersed in nature.
+    *   *Link:* [Piaule](https://piaule.com)
+    *   *Takeaway:* A great benchmark for clean design aesthetics, low-impact site design, and target audience alignment.
 
 ---
 
