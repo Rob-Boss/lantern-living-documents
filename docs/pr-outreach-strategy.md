@@ -26,7 +26,7 @@ To manage expectations, value, and placement goals, we slot our pitch angles ont
 3.  **Booking-Driven (L3):**
     *   *Purpose:* Motivate immediate bookings with high urgency or specific travel triggers.
     *   *Direct Bookings:* High/Fast (converts reader interest directly into cabin bookings).
-    *   *Targets:* Weekend getaway sections, local travel roundups, family/camp blogs.
+    *   *Targets:* Weekend getaway sections, local travel roundups, family/camp blogs, Substack travel newsletters.
 
 ---
 
@@ -57,7 +57,7 @@ We organize our stories along this spectrum. To ensure a balanced outreach pipel
 *   **Key Themes:**
     *   **Parents' Weekend Retreat:** Offer a peaceful sanctuary for parents seeking a vacation of their own during camp drop-offs or family weekends.
     *   **Elevated Comfort:** Provide premium bedding, quiet surrounds, and modern amenities that contrast nicely with their children's camp experience.
-*   **Primary Targets:** Family travel writers, Boston/New England lifestyle sections.
+*   **Primary Targets:** Family travel writers, Boston/New England lifestyle sections, regional travel Substack newsletters.
 
 ### 4. 🎪 Blue Hill Peninsula: Festivals, Food, & Culture
 *   **Spectrum Rating:** `[ Booking-Driven (L3) — Short-Term Action ]`
@@ -66,7 +66,7 @@ We organize our stories along this spectrum. To ensure a balanced outreach pipel
     *   **Donlan Festival of the Arts:** Celebrate local arts, music, and crafts.
     *   **Local Culinary Scene:** Promote Blue Hill’s local food artisans, farm-to-table dining, and seafood.
     *   **Pitching Angles:** Combine upscale rustic glamping with festival-hopping itineraries.
-*   **Primary Targets:** Regional lifestyle editors, freelance food/travel writers.
+*   **Primary Targets:** Regional lifestyle editors, freelance food/travel writers, regional food/travel Substack newsletters.
 
 ---
 
