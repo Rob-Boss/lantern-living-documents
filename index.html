@@ -53,40 +53,93 @@
     }
 
     .sidebar {
-      background-color: rgba(255, 255, 255, 0.9) !important;
+      background-color: rgba(255, 255, 255, 0.93) !important;
       backdrop-filter: blur(20px);
       -webkit-backdrop-filter: blur(20px);
       border-right: 1px solid var(--glass-border) !important;
+      padding-top: 10px;
     }
 
     /* Sidebar Logo/Title */
     .sidebar .app-name {
       font-family: var(--font-title);
-      font-size: 1.4rem;
+      font-size: 1.45rem;
       font-weight: 600;
       color: var(--accent-olive) !important;
-      margin-top: 1.5rem;
+      margin-top: 2rem;
+      margin-bottom: 1.5rem;
       text-align: left;
-      padding-left: 10px;
+      padding-left: 15px;
+      letter-spacing: -0.01em;
     }
 
+    /* Sidebar Navigation container */
+    .sidebar-nav {
+      padding-left: 10px;
+      padding-right: 10px;
+    }
+
+    /* List items formatting */
+    .sidebar-nav ul {
+      margin: 0;
+      padding: 0;
+      list-style: none;
+    }
+
+    /* Sub-menu lists connector line */
+    .sidebar-nav ul ul {
+      border-left: 1px solid var(--glass-border);
+      margin-left: 15px;
+      padding-left: 10px;
+      margin-top: 4px;
+      margin-bottom: 8px;
+    }
+
+    .sidebar-nav li {
+      margin: 4px 0;
+    }
+
+    /* Default Link styling as clean buttons */
     .sidebar-nav li a {
       font-family: var(--font-body);
-      font-size: 14px;
+      font-size: 13.5px;
       font-weight: 500;
       color: var(--text-main) !important;
-      transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+      display: block;
+      padding: 8px 12px !important;
+      border-radius: 4px;
+      text-decoration: none;
+      transition: all 0.25s cubic-bezier(0.4, 0, 0.2, 1);
+      border-left: 3px solid transparent !important;
     }
 
+    /* Hover state button wash */
     .sidebar-nav li a:hover {
       color: var(--accent-orange) !important;
+      background: rgba(194, 94, 58, 0.04) !important;
+      border-left-color: rgba(194, 94, 58, 0.3) !important;
     }
 
+    /* Active leaf node highlight */
     .sidebar-nav li.active > a {
       color: var(--accent-olive) !important;
-      border-left-color: var(--accent-olive) !important;
       font-weight: 600;
-      background: rgba(61, 82, 69, 0.04);
+      background: rgba(61, 82, 69, 0.06) !important;
+      border-left: 3px solid var(--accent-olive) !important;
+      box-shadow: inset 0 1px 4px rgba(61, 82, 69, 0.02);
+    }
+
+    /* Sidebar titles/headers (e.g. * **Launch Strategy**) */
+    .sidebar-nav > ul > li > strong,
+    .sidebar-nav > ul > li > p > strong {
+      font-family: var(--font-title);
+      font-size: 11px;
+      text-transform: uppercase;
+      letter-spacing: 1.2px;
+      color: var(--text-muted);
+      display: block;
+      padding: 15px 12px 6px 12px;
+      font-weight: 600;
     }
 
     .markdown-section {
