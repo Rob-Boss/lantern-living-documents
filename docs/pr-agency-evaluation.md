@@ -16,7 +16,7 @@ This document tracks outreach, pricing, terms, and impressions for potential PR 
 | **[Kubany PR](https://kubany.co)** | $8,000/mo ($24,000 total) | 3 Months (Flexible project) | Travel expenses only | Out. Not re-engaging due to family situation. |
 | **[Marshall PR](https://marshallpr.com)** (Nancy) | N/A | N/A | N/A | Inbound. Call completed June 19. Nancy advised against Upspring (not aligned/doesn't understand Maine hospitality). Connecting us with Carla Tracy. |
 | **Carla Tracy** (Solo Publicist) | ~$5,000–$10,000 (1st month) | TBD | TBD | Portland, ME-based solo publicist. Awaiting intro. Nancy guessed she might be $5k/mo, but suggested doubling to $10k for the first month to guarantee full attention (haven't talked to her yet). |
-| **In-House PR (Ben)** | ~$12,000 (total budget) | Launch sprint | N/A | Under consideration. Ben to run PR directly, combined with direct pitching to Addison's contacts (e.g. Debra Spark, April from Maine Famous). |
+| **In-House PR (Ben)** | $4,000 / mo (additional) | No minimum term | N/A | **Selected.** Ben to run PR directly, leveraging Addison's contacts, Debra Spark's intros, and strategy/contacts from Ann and David Swardlick. Month-to-month trial; pivot/revert if unhappy after 1st month. |
 
 
 
@@ -170,10 +170,10 @@ This document tracks outreach, pricing, terms, and impressions for potential PR 
 ---
 
 ### 9. In-House PR (Ben)
-* **Status:** Under consideration (growing confidence).
-* **Financials:** ~$12,000 launch/press budget (Addison's target limit for press).
-* **Strategy:** Ben would capture the PR budget and run PR directly, managing the pitching, copy, and outreach in-house.
-* **Staffing Implications:** Ben would need to staff up and delegate secondary priorities (such as directory listings and outreach spreadsheet processing) to assistant Lucy Larson to free up capacity.
+* **Status:** Selected / Approved (June 19, 2026).
+* **Financials:** $4,000 / month (additional to existing fee). No minimum term (month-to-month trial; if unhappy after the first month, the team will pivot or revert).
+* **Strategy:** Ben runs the PR sprint directly, leveraging Addison's contacts, getting introductions/support from Debra Spark, and leveraging strategy and contacts from Ann and David Swardlick.
+* **Staffing Implications:** Ben will delegate secondary priorities (such as directory listings and outreach spreadsheet processing) to assistant Lucy Larson to free up capacity.
 
 ---
 
