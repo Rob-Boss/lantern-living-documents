@@ -1,8 +1,8 @@
 # ⛺ Lantern Living Documents
 
-Welcome to the shared workspace and documentation portal for **Lantern Camp**. 
+Welcome to the private workspace and documentation portal for **Lantern Camp**, managed by **Ben Swardlick (Switch Partners)**. 
 
-This space hosts live, client-accessible documents regarding the launch strategy, public relations pipeline, and active campaigns. These files are updated in real-time as strategy shifts.
+This is a private, client-accessible portal hosting live documents regarding our launch strategy, public relations pipeline, and active campaign integrations. These files are updated in real-time as our strategy shifts.
 
 ---
 
@@ -13,4 +13,4 @@ This space hosts live, client-accessible documents regarding the launch strategy
 
 ---
 
-*Note: This portal is a read-only publication of our active local workspace files. If you have questions or feedback, please reach out to the project lead (Ben/Swardy).*
+*Note: This portal is a private, read-only publication of our active internal workspace files. If you have questions or feedback, please reach out to Ben Swardlick.*
