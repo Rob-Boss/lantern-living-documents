@@ -172,7 +172,7 @@ This document tracks outreach, pricing, terms, and impressions for potential PR 
 ### 9. In-House PR (Swardy)
 * **Status:** Under consideration (growing confidence).
 * **Financials:** ~$12,000 launch/press budget (Addison's target limit for press).
-* **Strategy:** Swardy would capture the PR budget and pay Ann and David Swardlick (who ran *Swardlick Marketing Group* and are deeply experienced in Maine tourism, L.L. Bean, Wild Blueberry Association) to collaborate.
+* **Strategy:** Swardy would capture the PR budget and roll in Ann and David Swardlick (who ran *Swardlick Marketing Group* and are deeply experienced in Maine tourism, L.L. Bean, Wild Blueberry Association) to collaborate.
   * **Ann and David's Roles:** Work angles, write copy/pitch materials, package stories, research pitch locations, and leverage their extensive Maine contact list.
   * **Copywriting:** Ann Swardlick (writer) to handle storytelling/copywriting. Although she has reservations about an "old school" style, her authentic voice will stand out in an era of generic generative copy.
 * **Staffing Implications:** Swardy would need to staff up and delegate secondary priorities (such as directory listings and outreach spreadsheet processing) to assistant Lucy Larson to free up capacity.
