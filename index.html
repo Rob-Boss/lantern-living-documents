@@ -105,11 +105,11 @@
       margin: 4px 0;
     }
 
-    /* Default Link styling as clean buttons */
-    .sidebar-nav li a {
+    /* Document Link styling as clean buttons */
+    .sidebar-nav ul:not(.app-sub-sidebar) > li > a {
       font-family: var(--font-body);
-      font-size: 13.5px;
-      font-weight: 500;
+      font-size: 14px;
+      font-weight: 600;
       color: var(--text-main) !important;
       display: block;
       padding: 8px 12px !important;
@@ -120,24 +120,25 @@
     }
 
     /* Hover state button wash */
-    .sidebar-nav li a:hover {
+    .sidebar-nav ul:not(.app-sub-sidebar) > li > a:hover {
       color: var(--accent-orange) !important;
       background: rgba(194, 94, 58, 0.04) !important;
       border-left-color: rgba(194, 94, 58, 0.3) !important;
     }
 
     /* Active page highlight */
-    .sidebar-nav li.active > a {
+    .sidebar-nav ul:not(.app-sub-sidebar) > li.active > a {
       color: var(--accent-olive) !important;
-      font-weight: 600;
+      font-weight: 700;
       background: rgba(61, 82, 69, 0.06) !important;
       border-left: 3px solid var(--accent-olive) !important;
       box-shadow: inset 0 1px 4px rgba(61, 82, 69, 0.02);
     }
 
     /* Sub-menu Link styling (cleaner/smaller text, no border/background blocks) */
-    .sidebar-nav ul ul li a {
+    .sidebar-nav .app-sub-sidebar li a {
       font-size: 12.5px !important;
+      font-weight: 400 !important;
       color: var(--text-muted) !important;
       padding: 5px 12px !important;
       background: transparent !important;
@@ -145,16 +146,16 @@
       box-shadow: none !important;
     }
 
-    .sidebar-nav ul ul li a:hover {
+    .sidebar-nav .app-sub-sidebar li a:hover {
       color: var(--accent-orange) !important;
       background: transparent !important;
       border-left-color: transparent !important;
     }
 
     /* Active sub-link highlight: clean color/weight shift only */
-    .sidebar-nav ul ul li.active > a {
+    .sidebar-nav .app-sub-sidebar li.active > a {
       color: var(--accent-olive) !important;
-      font-weight: 600;
+      font-weight: 600 !important;
       background: transparent !important;
       border-left-color: transparent !important;
       box-shadow: none !important;
