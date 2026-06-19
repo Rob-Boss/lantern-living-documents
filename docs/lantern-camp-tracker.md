@@ -76,11 +76,11 @@ All technical architecture, infrastructure settings, tags, triggers, and unresol
     *   [ ] Plan delegation of tasks (like outreach list processing).
 
 ### 🚀 Projects & Strategy
-*   [x] **PR Strategy & Decision:** Selected the In-House PR (Ben) path. Ben will run the PR sprint directly for $4,000/month (additional to existing fee) on a month-to-month trial with no minimum term. If unhappy after the first month, the team will pivot or revert. Ben will leverage Addison's contacts, Debra Spark's introductions, and strategy/contacts from Ann and David Swardlick.
+*   [/] **PR Strategy & Decision (Evaluating new paths):** After deciding not to proceed with Upspring on June 19, the current focus is on evaluating the in-house proposal (Ben at $4,000/month, month-to-month, leveraging Addison/Ann/David Swardlick/Debra Spark contacts) and preparing for a potential conversation with Carla Tracy.
     *   [x] **Internal Alignment Meeting:** Completed June 19. Decided to pause/cancel Upspring.
     *   [x] **Call with Nancy Marshall (Marshall PR):** Completed June 19. Nancy advised that Upspring is a bad idea and recommended finding someone who understands Maine and Maine hospitality. She is connecting us with Carla Tracy.
-    *   [ ] **Evaluate Carla Tracy:** Paused/On Hold (retaining details as backup). Solo publicist; Nancy guessed $5k/mo, suggested doubling to $10k to guarantee full attention.
-    *   [x] **Evaluate In-House PR:** Selected. Ben approved to run the PR sprint directly for $4,000/month (additional) on a month-to-month basis.
+    *   [ ] **Evaluate Carla Tracy:** Awaiting introduction from Nancy Marshall; preparing for a potential conversation/chat. (Solo publicist; Nancy guessed $5k/mo, suggested doubling to $10k to guarantee full attention).
+    *   [ ] **Evaluate In-House PR:** Under review. Assess Ben's in-house sprint proposal ($4,000/month additional, month-to-month trial, no minimum term, leveraging Addison's contacts, Debra Spark's intros, and strategy/contacts from Ann and David Swardlick).
     *   [ ] **Founder Pitch Package (Debra Spark):** Draft founder-perspective pitch materials (story angle, copy, photos) and review with Debra Spark for feedback and warm intros to editors at *Decor Maine*, *Downeast*, and *Maine Home + Design*.
     *   [ ] **April (Maine Famous):** Await response to outreach to April to discuss potential promotion collaboration.
     *   [x] **Evaluate Caroline/Upspring POC:** Confirmed that Caroline will support strategy, while Delaney will be the day-to-day lead.
