@@ -170,7 +170,7 @@ This document tracks outreach, pricing, terms, and impressions for potential PR 
 ---
 
 ### 9. In-House PR (Ben)
-* **Status:** Selected / Approved (June 19, 2026).
+* **Status:** Under consideration (Proposed / presentation made to Addison & Tony).
 * **Financials:** $4,000 / month (additional to existing fee). No minimum term (month-to-month trial; if unhappy after the first month, the team will pivot or revert).
 * **Strategy:** Ben runs the PR sprint directly, leveraging Addison's contacts, getting introductions/support from Debra Spark, and leveraging strategy and contacts from Ann and David Swardlick.
 * **Staffing Implications:** Ben will delegate secondary priorities (such as directory listings and outreach spreadsheet processing) to assistant Lucy Larson to free up capacity.
