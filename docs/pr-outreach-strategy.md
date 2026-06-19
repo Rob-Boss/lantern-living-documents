@@ -47,7 +47,7 @@ We organize our stories along this spectrum. To ensure a balanced outreach pipel
 *   **Spectrum Rating:** `[ Experiential (L2) — Balanced/Trust ]`
 *   **The Hook:** Host select high-profile writers on-site to experience Lantern Camp firsthand.
 *   **Key Themes:**
-    *   **Lived Storytelling:** *Ann Swardlick's Insight: Most reliability and authentic press coverage comes from journalists recounting their personal, lived experience on-site.*
+    *   **Lived Storytelling:** *Insight: Most reliability and authentic press coverage comes from journalists recounting their personal, lived experience on-site.*
     *   **Immersive Itinerary:** Provide custom itineraries featuring local trails, outdoor dining, and local makers.
 *   **Primary Targets:** Travel columnists, photography-oriented travel journalists.
 
