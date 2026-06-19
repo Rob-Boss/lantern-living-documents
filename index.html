@@ -79,20 +79,26 @@
       padding-right: 10px;
     }
 
-    /* List items formatting */
-    .sidebar-nav ul {
+    /* List items formatting (removes default bullets/hyphens) */
+    .sidebar-nav ul,
+    .sidebar-nav ul li,
+    .sidebar-nav ul ul,
+    .sidebar-nav ul ul li {
+      list-style-type: none !important;
       margin: 0;
       padding: 0;
-      list-style: none;
     }
 
-    /* Sub-menu lists connector line */
+    .sidebar-nav ul ul li::before {
+      content: none !important;
+    }
+
+    /* Sub-menu lists indentation */
     .sidebar-nav ul ul {
-      border-left: 1px solid var(--glass-border);
-      margin-left: 15px;
-      padding-left: 10px;
-      margin-top: 4px;
-      margin-bottom: 8px;
+      margin-left: 12px;
+      padding-left: 0;
+      margin-top: 2px;
+      margin-bottom: 6px;
     }
 
     .sidebar-nav li {
@@ -109,7 +115,7 @@
       padding: 8px 12px !important;
       border-radius: 4px;
       text-decoration: none;
-      transition: all 0.25s cubic-bezier(0.4, 0, 0.2, 1);
+      transition: all 0.22s cubic-bezier(0.4, 0, 0.2, 1);
       border-left: 3px solid transparent !important;
     }
 
@@ -120,13 +126,38 @@
       border-left-color: rgba(194, 94, 58, 0.3) !important;
     }
 
-    /* Active leaf node highlight */
+    /* Active page highlight */
     .sidebar-nav li.active > a {
       color: var(--accent-olive) !important;
       font-weight: 600;
       background: rgba(61, 82, 69, 0.06) !important;
       border-left: 3px solid var(--accent-olive) !important;
       box-shadow: inset 0 1px 4px rgba(61, 82, 69, 0.02);
+    }
+
+    /* Sub-menu Link styling (cleaner/smaller text, no border/background blocks) */
+    .sidebar-nav ul ul li a {
+      font-size: 12.5px !important;
+      color: var(--text-muted) !important;
+      padding: 5px 12px !important;
+      background: transparent !important;
+      border-left: 3px solid transparent !important;
+      box-shadow: none !important;
+    }
+
+    .sidebar-nav ul ul li a:hover {
+      color: var(--accent-orange) !important;
+      background: transparent !important;
+      border-left-color: transparent !important;
+    }
+
+    /* Active sub-link highlight: clean color/weight shift only */
+    .sidebar-nav ul ul li.active > a {
+      color: var(--accent-olive) !important;
+      font-weight: 600;
+      background: transparent !important;
+      border-left-color: transparent !important;
+      box-shadow: none !important;
     }
 
     /* Sidebar titles/headers (e.g. * **Launch Strategy**) */
