@@ -7,72 +7,169 @@
   <meta name="description" content="Live marketing, strategy, and operations trackers for Lantern Camp.">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
   
-  <!-- Fonts -->
+  <!-- Fonts (Fraunces & Inter) -->
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Outfit:wght@500;600;700&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,100..900;1,9..144,100..900&family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
 
   <!-- Themes -->
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
   
   <style>
     :root {
-      /* Palette */
-      --theme-color: #2e5a44; /* Earthy Forest Green matching Lantern Camp */
-      --text-color: #2c3e50;
-      --base-font: 'Inter', sans-serif;
-      --heading-font: 'Outfit', sans-serif;
+      /* Palette from Lucy's Whirled design system */
+      --bg-gradient: linear-gradient(135deg, #FDFBF7 0%, #F5F2EB 100%);
+      --glass-bg: #ffffff;
+      --glass-border: #E5DFD3;
+      --text-main: #2D302E;      /* Charcoal */
+      --text-muted: #8E846A;     /* Muted Sand */
+      --accent-olive: #3D5245;    /* Deep Olive Sage */
+      --accent-orange: #C25E3A;   /* Burnt Orange */
+      --font-title: 'Fraunces', serif;
+      --font-body: 'Inter', sans-serif;
+      --theme-color: #3D5245;
     }
 
     body {
-      font-family: var(--base-font) !important;
+      font-family: var(--font-body) !important;
       -webkit-font-smoothing: antialiased;
-      background-color: #fdfdfb;
-      color: var(--text-color);
+      background: var(--bg-gradient) !important;
+      color: var(--text-main);
     }
 
     h1, h2, h3, h4, h5, h6 {
-      font-family: var(--heading-font) !important;
+      font-family: var(--font-title) !important;
+      font-weight: 500;
+      color: var(--accent-olive) !important;
+    }
+
+    /* Style page titles specifically */
+    .markdown-section h1:first-of-type {
+      font-size: 2.2rem;
       font-weight: 600;
-      color: #1c2e24 !important;
+      margin-bottom: 1.5rem;
+      border-bottom: 1px solid var(--glass-border);
+      padding-bottom: 0.75rem;
     }
 
     .sidebar {
-      background-color: rgba(244, 245, 240, 0.85) !important;
-      backdrop-filter: blur(10px);
-      border-right: 1px solid rgba(46, 90, 68, 0.1);
+      background-color: rgba(255, 255, 255, 0.9) !important;
+      backdrop-filter: blur(20px);
+      -webkit-backdrop-filter: blur(20px);
+      border-right: 1px solid var(--glass-border) !important;
+    }
+
+    /* Sidebar Logo/Title */
+    .sidebar .app-name {
+      font-family: var(--font-title);
+      font-size: 1.4rem;
+      font-weight: 600;
+      color: var(--accent-olive) !important;
+      margin-top: 1.5rem;
+      text-align: left;
+      padding-left: 10px;
     }
 
     .sidebar-nav li a {
+      font-family: var(--font-body);
       font-size: 14px;
       font-weight: 500;
-      color: #3e5a44 !important;
-      transition: color 0.2s ease, border-left-color 0.2s ease;
+      color: var(--text-main) !important;
+      transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+    }
+
+    .sidebar-nav li a:hover {
+      color: var(--accent-orange) !important;
     }
 
     .sidebar-nav li.active > a {
-      color: var(--theme-color) !important;
-      border-left-color: var(--theme-color) !important;
+      color: var(--accent-olive) !important;
+      border-left-color: var(--accent-olive) !important;
       font-weight: 600;
+      background: rgba(61, 82, 69, 0.04);
     }
 
     .markdown-section {
       max-width: 850px !important;
       padding: 40px 30px 60px !important;
-      line-height: 1.6;
+      line-height: 1.62;
     }
 
-    .markdown-section code {
-      background-color: #f3f4ee !important;
-      color: #2e5a44 !important;
+    /* Styled blocks (blockquotes, alert boxes) */
+    .markdown-section blockquote {
+      background-color: #FAF8F5 !important;
+      border-left: 4px solid var(--accent-orange) !important;
       border-radius: 4px;
+      padding: 15px 20px;
+      color: var(--text-main);
+      box-shadow: 0 4px 12px rgba(142, 132, 106, 0.03);
+      margin: 1.5em 0;
+    }
+
+    /* Table styling to look clean and custom */
+    .markdown-section table {
+      border-collapse: collapse;
+      width: 100%;
+      margin: 1.5em 0;
+      background: #ffffff;
+      border: 1px solid var(--glass-border);
+      border-radius: 4px;
+      overflow: hidden;
+      box-shadow: 0 2px 8px rgba(142, 132, 106, 0.02);
+    }
+
+    .markdown-section th {
+      background-color: #FAF8F5 !important;
+      border-bottom: 2px solid var(--glass-border) !important;
+      color: var(--accent-olive);
+      font-family: var(--font-title);
+      font-weight: 600;
+      padding: 12px 15px;
+      text-align: left;
+    }
+
+    .markdown-section td {
+      border-bottom: 1px solid var(--glass-border) !important;
+      padding: 12px 15px;
+      font-size: 0.9rem;
+    }
+
+    .markdown-section tr:last-child td {
+      border-bottom: none !important;
+    }
+
+    /* Inline Code and Code Blocks */
+    .markdown-section code {
+      background-color: #FAF8F5 !important;
+      color: var(--accent-orange) !important;
+      border: 1px solid var(--glass-border);
+      border-radius: 4px;
+      padding: 3px 6px !important;
       font-family: SFMono-Regular, Consolas, Liberation Mono, Menlo, monospace;
+      font-size: 0.85em;
     }
 
     .markdown-section pre {
-      background-color: #f8f9f5 !important;
-      border: 1px solid rgba(46, 90, 68, 0.1);
-      border-radius: 8px;
+      background-color: #FAF8F5 !important;
+      border: 1px solid var(--glass-border);
+      border-radius: 6px;
+      padding: 15px;
+      box-shadow: inset 0 0 10px rgba(142, 132, 106, 0.01);
+    }
+
+    .markdown-section pre code {
+      border: none;
+      padding: 0 !important;
+      background-color: transparent !important;
+      color: var(--text-main) !important;
+    }
+
+    /* Images */
+    .markdown-section img {
+      border: 1px solid var(--glass-border);
+      border-radius: 6px;
+      box-shadow: 0 8px 24px rgba(142, 132, 106, 0.08);
+      margin: 1.5em 0;
     }
 
     /* Custom scrollbars */
@@ -84,11 +181,11 @@
       background: transparent;
     }
     ::-webkit-scrollbar-thumb {
-      background: rgba(46, 90, 68, 0.2);
+      background: var(--glass-border);
       border-radius: 3px;
     }
     ::-webkit-scrollbar-thumb:hover {
-      background: rgba(46, 90, 68, 0.4);
+      background: var(--text-muted);
     }
   </style>
 </head>
@@ -102,7 +199,7 @@
       homepage: 'home.md',
       subMaxLevel: 3,
       auto2top: true,
-      themeColor: '#2e5a44',
+      themeColor: '#3D5245',
       search: {
         maxAge: 86400000,
         paths: 'auto',
