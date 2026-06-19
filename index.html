@@ -15,6 +15,7 @@
 
   <!-- Themes -->
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/sidebar.min.css" />
   
   <style>
     :root {
@@ -280,6 +281,39 @@
     ::-webkit-scrollbar-thumb:hover {
       background: var(--text-muted);
     }
+
+    /* Collapsible Sidebar styling adjustments */
+    .sidebar-nav .folder {
+      cursor: pointer;
+      position: relative;
+    }
+    
+    /* Ensure the caret doesn't overlap the text and looks clean */
+    .sidebar-nav .folder > .sidebar-nav-heading::after,
+    .sidebar-nav .folder > a::after {
+      content: "";
+      background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='24' height='24' viewBox='0 0 24 24' fill='none' stroke='%238E846A' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpolyline points='9 18 15 12 9 6'%3E%3C/polyline%3E%3C/svg%3E") !important;
+      background-size: 14px !important;
+      width: 14px !important;
+      height: 14px !important;
+      position: absolute !important;
+      right: 15px !important;
+      top: 50% !important;
+      transform: translateY(-55%) rotate(0deg) !important;
+      transition: transform 0.22s cubic-bezier(0.4, 0, 0.2, 1) !important;
+      background-repeat: no-repeat !important;
+      background-position: center !important;
+    }
+    
+    .sidebar-nav .folder:not(.collapse) > .sidebar-nav-heading::after,
+    .sidebar-nav .folder:not(.collapse) > a::after {
+      transform: translateY(-55%) rotate(90deg) !important;
+    }
+
+    /* Hide default small arrow since we draw a custom one */
+    .sidebar-nav .folder::after {
+      content: none !important;
+    }
   </style>
 </head>
 <body>
@@ -291,6 +325,7 @@
       repo: '',
       loadSidebar: true,
       homepage: 'home.md',
+      sidebarDisplayLevel: 1,
       subMaxLevel: 3,
       auto2top: true,
       themeColor: '#3D5245',
@@ -308,5 +343,6 @@
   <!-- Plugins -->
   <script src="//cdn.jsdelivr.net/npm/docsify@4/lib/plugins/search.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/zoom-image.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/docsify-sidebar-collapse.min.js"></script>
 </body>
 </html>
