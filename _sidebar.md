@@ -1,5 +1,5 @@
 * **Home**
-  * [Welcome](README.md)
+  * [Welcome](home.md)
 
 * **Launch Strategy**
   * [PR Agency Evaluation](docs/pr-agency-evaluation.md)
