@@ -8,14 +8,14 @@ This document tracks configuration, technical architecture, and verification ste
 
 ### Meta & Assets
 *   **Business Manager (Client):** `"Addison's Businesses"` (Owned by Addison Godine)
-*   **Business Manager (Freelancer):** `"Swardy"` — Portfolio ID: `158371295154274`
+*   **Business Manager (Freelancer):** `"Ben"` — Portfolio ID: `158371295154274`
 *   **Facebook Page:** `"Lantern Camp"` — Page ID: `1201507149693060` (Full control via partner access)
 *   **Ad Account:** `"Lantern Camp"` — ID: `1585226713251054` (Full control)
 *   **Instagram:** `@staylanterncamp` — ID: `17841472888180622` (Content/Ads access)
 *   **Active Meta Pixel:** `"Lantern Camp Pixel"` — ID: `2012732439334242` (Installed natively on Squarespace via Marketing → Meta Pixel & Ads; confirmed firing PageView and Purchase)
 *   **Duplicate Unused Pixels:**
     *   `"Lantern Camp Pixel"` — ID: `1312404570473413`
-    *   Two `"Swardy's Pixel"` instances
+    *   Two `"Ben's Pixel"` instances
     *   *Note:* These are not in use; cleanup is optional.
 
 ### Funding & Daily Guardrails
@@ -146,7 +146,7 @@ This document tracks configuration, technical architecture, and verification ste
 ### Phase 1: Mews Backend Housekeeping & Cleanup
 *   [x] **Inventory Release:** Cancelled all 5 test reservation confirmation numbers (#17, #18, #19, #22, plus the fifth) inside the Mews operations portal to restore cabin inventory availability. (Refunded fully; no fees).
 *   [ ] **Correct System Typo:** Navigate to the Mews Property Configuration settings. Locate the `item_category3` text attribute and change the entry from `"Orlando, FL"` to `"Orland, Maine"` to prevent skewed regional dimensions in upstream Google Analytics data arrays.
-*   [ ] **(Optional) Remove Duplicate Pixels:** Remove duplicate unused pixels in the Meta account (another "Lantern Camp Pixel" ID `1312404570473413` and two "Swardy's Pixel" instances).
+*   [ ] **(Optional) Remove Duplicate Pixels:** Remove duplicate unused pixels in the Meta account (another "Lantern Camp Pixel" ID `1312404570473413` and two "Ben's Pixel" instances).
 
 ### Phase 2: Live Guest Checkout & Campaign Launch Audit
 *   [ ] **Results Column Watch:** Monitor the Ads Manager Results column on the first real booking post-launch. Confirm it increments by 1 Purchase.
