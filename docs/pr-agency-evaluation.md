@@ -15,7 +15,7 @@ This document tracks outreach, pricing, terms, and impressions for potential PR 
 | **[Upspring](https://www.upspringpr.com)** | $6,500/mo ($26,000 total) | 4 Months | Travel expenses only | ❌ **Decided not to move forward.** Internal alignment meeting on June 19 confirmed concerns around brand alignment and value. Decided to pause/cancel. |
 | **[Kubany PR](https://kubany.co)** | $8,000/mo ($24,000 total) | 3 Months (Flexible project) | Travel expenses only | Out. Not re-engaging due to family situation. |
 | **[Marshall PR](https://marshallpr.com)** (Nancy) | N/A | N/A | N/A | Inbound. Call completed June 19. Nancy advised against Upspring (not aligned/doesn't understand Maine hospitality). Connecting us with Carla Tracy. |
-| **Carla Tracy** (Solo Publicist) | ~$10,000 (1st month) | TBD | TBD | Portland, ME-based solo publicist. Awaiting intro from Nancy. Highly recommended/well connected; assumed expensive (~$10k first month). |
+| **Carla Tracy** (Solo Publicist) | ~$5,000–$10,000 (1st month) | TBD | TBD | Portland, ME-based solo publicist. Awaiting intro. Nancy guessed she might be $5k/mo, but suggested doubling to $10k for the first month to guarantee full attention (haven't talked to her yet). |
 | **In-House PR (Swardy)** | ~$12,000 (total budget) | Launch sprint | N/A | Under consideration. Swardy to run PR with Ann and David Swardlick assisting, combined with direct pitching to Addison's contacts (e.g. Debra Spark, April from Maine Famous). |
 
 
@@ -164,7 +164,7 @@ This document tracks outreach, pricing, terms, and impressions for potential PR 
 ### 8. Carla Tracy (Solo Publicist)
 * **Status:** Awaiting introduction from Nancy Marshall.
 * **Location:** Portland, ME.
-* **Financials:** ~$10,000 for the first month (Nancy assumes/suggests).
+* **Financials:** ~$5,000–$10,000 (Nancy guessed she might be $5k/mo, but suggested we double it to $10k to guarantee her full attention for the first month; we haven't talked to her yet).
 * **Vibe/Focus:** Maine-based solo publicist. Highly recommended by Nancy; very well connected with a great client list and deep regional hospitality roots.
 
 ---
