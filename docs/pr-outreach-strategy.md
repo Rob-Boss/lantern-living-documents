@@ -40,7 +40,7 @@ We organize our stories along this spectrum. To ensure a balanced outreach pipel
 *   **Key Themes:**
     *   **Addison the Architect:** The design-thinking mind behind the cabins. Addison's focus is on architectural harmony and low environmental footprint.
     *   **Plain Modern & Scandinavian Design:** Clean lines, large windows framing forest views, and minimalist comfort.
-    *   **Low-Impact & Sustainable Footprint:** Fully off-grid comfort that doesn't compromise on design or utility, utilizing solar power and low-disturbance foundations.
+    *   **Humble Materials & Low-Impact Footprint:** Focus on plain-modern design built with local, humble materials and low-disturbance foundations. Quiet solar power supports the camp while preserving the raw beauty of the Orland forest.
 *   **Primary Targets:** Design and architecture editors, sustainability writers (*Dwell*, *Maine Home + Design*, *Decor Maine*, national travel magazines).
 
 ### 2. 🌲 The Firsthand Experience (On-Site Stays)
