@@ -51,7 +51,7 @@ We organize our stories along this spectrum. To ensure a balanced outreach pipel
     *   **Immersive Itinerary:** Provide custom itineraries featuring local trails, outdoor dining, and local makers.
 *   **Primary Targets:** Travel columnists, photography-oriented travel journalists.
 
-### 3. ⛺ Parents' Weekend: Glamping While Kids are at Summer Camp
+### 3. ⛺ Parents' Weekend: Modern Cabin Getaway While Kids are at Summer Camp
 *   **Spectrum Rating:** `[ Booking-Driven (L3) — Short-Term Action ]`
 *   **The Hook:** Target parents visiting their children at traditional Maine summer camps. Rather than booking generic hotels far from camp, parents can stay in style and comfort at Lantern Camp.
 *   **Key Themes:**
@@ -65,8 +65,17 @@ We organize our stories along this spectrum. To ensure a balanced outreach pipel
 *   **Key Themes:**
     *   **Donlan Festival of the Arts:** Celebrate local arts, music, and crafts.
     *   **Local Culinary Scene:** Promote Blue Hill’s local food artisans, farm-to-table dining, and seafood.
-    *   **Pitching Angles:** Combine upscale rustic glamping with festival-hopping itineraries.
+    *   **Pitching Angles:** Combine design-forward cabin stays with festival-hopping itineraries.
 *   **Primary Targets:** Regional lifestyle editors, freelance food/travel writers, regional food/travel Substack newsletters.
+
+### 5. 🥾 Acadia-Adjacent: The Quiet Gateway to MDI & Bar Harbor
+*   **Spectrum Rating:** `[ Booking-Driven (L3) — Short-Term Action ]`
+*   **The Hook:** Position Lantern Camp as the perfect, peaceful base camp for exploring Acadia National Park without the congestion, traffic, and high lodging rates of Bar Harbor and Mount Desert Island (MDI). Guests get the best of Acadia by day, and a serene, crowd-free forest retreat by night.
+*   **Key Themes:**
+    *   **Skip the Hubbub:** Avoid the gridlock, packed parking lots, and commercial noise of Bar Harbor, while staying just a short drive from the park entrance.
+    *   **The Serene Alternative:** A peaceful forest retreat in Orland, offering space to breathe, starry skies, and quiet cabin comfort after a long hike.
+    *   **True Basecamp Experience:** Clean, modern cabins designed for active travelers who want to rest and recharge in nature, away from the tourist hubs.
+*   **Primary Targets:** Outdoors/travel writers, regional lifestyle publications, hiking blogs, national travel journals, travel Substack newsletters.
 
 ---
 
