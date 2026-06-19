@@ -8,8 +8,9 @@ This is a private, client-accessible portal hosting live documents regarding our
 
 ## 📁 Shared Resources
 
-*   💼 **[PR Agency Evaluation](docs/pr-agency-evaluation.md)** — Outreach details, agency pricing, notes, and strategic feedback.
 *   ⛺ **[Workspace Tracker](docs/lantern-camp-tracker.md)** — Immediate to-dos, ongoing campaigns, metadata configurations, and roadmaps.
+*   💼 **[PR Agency Evaluation](docs/pr-agency-evaluation.md)** — Outreach details, agency pricing, notes, and strategic feedback.
+*   📊 **[Tracking & Analytics Setup](docs/tracking-and-analytics-setup.md)** — Google Tag Manager architecture, pixel variables, campaign results, and dashboard roadmap.
 
 ---
 
