@@ -80,7 +80,7 @@ All technical architecture, infrastructure settings, tags, triggers, and unresol
     *   [x] **Internal Alignment Meeting:** Completed June 19. Decided to pause/cancel Upspring.
     *   [x] **Call with Nancy Marshall (Marshall PR):** Completed June 19. Nancy advised that Upspring is a bad idea and recommended finding someone who understands Maine and Maine hospitality. She is connecting us with Carla Tracy.
     *   [ ] **Evaluate Carla Tracy:** Awaiting introduction from Nancy Marshall. (Maine-based solo publicist; Nancy guessed she might be $5k/mo, but suggested doubling to $10k for the first month to guarantee full attention; we haven't talked to her yet).
-    *   [ ] **Evaluate In-House PR:** Assess feasibility of Swardy handling the PR sprint directly with a ~$12k budget and delegating secondary tasks to Lucy.
+    *   [ ] **Evaluate In-House PR:** Assess feasibility of Ben handling the PR sprint directly with a ~$12k budget and delegating secondary tasks to Lucy.
     *   [ ] **Founder Pitch Package (Debra Spark):** Draft founder-perspective pitch materials (story angle, copy, photos) and review with Debra Spark for feedback and warm intros to editors at *Decor Maine*, *Downeast*, and *Maine Home + Design*.
     *   [ ] **April (Maine Famous):** Await response to outreach to April to discuss potential promotion collaboration.
     *   [x] **Evaluate Caroline/Upspring POC:** Confirmed that Caroline will support strategy, while Delaney will be the day-to-day lead.
