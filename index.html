@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Lantern Living Documents</title>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+  <meta name="description" content="Live marketing, strategy, and operations trackers for Lantern Camp.">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+  
+  <!-- Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Outfit:wght@500;600;700&display=swap" rel="stylesheet">
+
+  <!-- Themes -->
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
+  
+  <style>
+    :root {
+      /* Palette */
+      --theme-color: #2e5a44; /* Earthy Forest Green matching Lantern Camp */
+      --text-color: #2c3e50;
+      --base-font: 'Inter', sans-serif;
+      --heading-font: 'Outfit', sans-serif;
+    }
+
+    body {
+      font-family: var(--base-font) !important;
+      -webkit-font-smoothing: antialiased;
+      background-color: #fdfdfb;
+      color: var(--text-color);
+    }
+
+    h1, h2, h3, h4, h5, h6 {
+      font-family: var(--heading-font) !important;
+      font-weight: 600;
+      color: #1c2e24 !important;
+    }
+
+    .sidebar {
+      background-color: rgba(244, 245, 240, 0.85) !important;
+      backdrop-filter: blur(10px);
+      border-right: 1px solid rgba(46, 90, 68, 0.1);
+    }
+
+    .sidebar-nav li a {
+      font-size: 14px;
+      font-weight: 500;
+      color: #3e5a44 !important;
+      transition: color 0.2s ease, border-left-color 0.2s ease;
+    }
+
+    .sidebar-nav li.active > a {
+      color: var(--theme-color) !important;
+      border-left-color: var(--theme-color) !important;
+      font-weight: 600;
+    }
+
+    .markdown-section {
+      max-width: 850px !important;
+      padding: 40px 30px 60px !important;
+      line-height: 1.6;
+    }
+
+    .markdown-section code {
+      background-color: #f3f4ee !important;
+      color: #2e5a44 !important;
+      border-radius: 4px;
+      font-family: SFMono-Regular, Consolas, Liberation Mono, Menlo, monospace;
+    }
+
+    .markdown-section pre {
+      background-color: #f8f9f5 !important;
+      border: 1px solid rgba(46, 90, 68, 0.1);
+      border-radius: 8px;
+    }
+
+    /* Custom scrollbars */
+    ::-webkit-scrollbar {
+      width: 6px;
+      height: 6px;
+    }
+    ::-webkit-scrollbar-track {
+      background: transparent;
+    }
+    ::-webkit-scrollbar-thumb {
+      background: rgba(46, 90, 68, 0.2);
+      border-radius: 3px;
+    }
+    ::-webkit-scrollbar-thumb:hover {
+      background: rgba(46, 90, 68, 0.4);
+    }
+  </style>
+</head>
+<body>
+  <div id="app">Loading Lantern Living Documents...</div>
+  <script>
+    window.$docsify = {
+      name: 'Lantern Living Docs',
+      repo: '',
+      loadSidebar: true,
+      subMaxLevel: 3,
+      auto2top: true,
+      themeColor: '#2e5a44',
+      search: {
+        maxAge: 86400000,
+        paths: 'auto',
+        placeholder: 'Search documents...',
+        noData: 'No results found',
+        depth: 4
+      }
+    }
+  </script>
+  <!-- Docsify v4 -->
+  <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
+  <!-- Plugins -->
+  <script src="//cdn.jsdelivr.net/npm/docsify@4/lib/plugins/search.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/zoom-image.min.js"></script>
+</body>
+</html>
