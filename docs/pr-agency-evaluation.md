@@ -16,7 +16,7 @@ This document tracks outreach, pricing, terms, and impressions for potential PR 
 | **[Kubany PR](https://kubany.co)** | $8,000/mo ($24,000 total) | 3 Months (Flexible project) | Travel expenses only | Out. Not re-engaging due to family situation. |
 | **[Marshall PR](https://marshallpr.com)** (Nancy) | N/A | N/A | N/A | Inbound. Call completed June 19. Nancy advised against Upspring (not aligned/doesn't understand Maine hospitality). Connecting us with Carla Tracy. |
 | **Carla Tracy** (Solo Publicist) | ~$5,000–$10,000 (1st month) | TBD | TBD | Portland, ME-based solo publicist. Awaiting intro. Nancy guessed she might be $5k/mo, but suggested doubling to $10k for the first month to guarantee full attention (haven't talked to her yet). |
-| **In-House PR (Ben)** | $4,000 / mo (additional) | No minimum term | N/A | **Selected.** Ben to run PR directly, leveraging Addison's contacts, Debra Spark's intros, and strategy/contacts from Ann and David Swardlick. Month-to-month trial; pivot/revert if unhappy after 1st month. |
+| **In-House PR (Ben)** | $4,000 / mo (additional) | No minimum term | N/A | Under consideration (Proposed / presentation made). Ben to run PR directly, leveraging Addison's contacts, Debra Spark's intros, and strategy/contacts from Ann and David Swardlick. Month-to-month trial; pivot/revert if unhappy after 1st month. |
 
 
 
