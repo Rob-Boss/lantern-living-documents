@@ -150,8 +150,34 @@ We look to regional peers who have successfully positioned premium rustic/modern
 
 ---
 
+## 📣 Press Release Distribution (Wire Services)
+
+To support our media pitches with a formal announcement and capture broad syndication and SEO benefits, we will distribute an official launch press release.
+
+### 1. PR Newswire (Primary Path)
+*   **Overview:** The gold standard for national distribution and media room pick-up. Recommended by Nancy Marshall.
+*   **Status:** Account setup initiated. Awaiting verification phone call from a PR Newswire representative (expected week of June 22, 2026) to finalize the account.
+*   **Pros:** Top-tier credibility, widest reach, and direct ingestion by major newsrooms.
+*   **Cons:** Expensive (typically requires a $195–$249 annual membership + $350–$800+ per release depending on the circuit size).
+
+### 2. eReleases (Alternative Path / Back-up)
+*   **Overview:** An authorized PR Newswire reseller designed specifically for small-to-medium businesses.
+*   **Pros:** Distributes directly through the PR Newswire network and targeted journalist databases, but bypasses the annual membership fee and corporate verification hurdles. Flat pricing starting at ~$399.
+*   **Cons:** No direct custom enterprise account dashboard, but offers the same distribution.
+*   **Recommendation:** If the direct PR Newswire account setup is delayed or the pricing is too high, eReleases is the best way to get the release onto the PR Newswire feed.
+
+### 3. EIN Presswire (Budget/SEO Alternative)
+*   **Overview:** A self-serve syndication platform focusing on volume and search visibility.
+*   **Pros:** Low cost (starts at ~$149/release) and fast setup. Excellent for SEO backlinks and Google News indexing.
+*   **Cons:** Very limited direct journalist reach; mostly automated syndication.
+
+---
+
 ## 📋 Immediate Action Items
 
+- `[ ]` **PR Newswire Account Verification:** Complete the verification call with PR Newswire (expecting call week of June 22).
+- `[ ]` **Draft Launch Press Release:** Draft a 400-500 word press release detailing the summer launch, Scandinavian-style cabins, and eco-friendly design-led concept.
+- `[ ]` **Select Distribution Wire:** Decide between PR Newswire direct or eReleases (PR Newswire network reseller) based on account setup timeline and final quotes.
 - `[ ]` **Refine Pitch Outlines:** Draft 2-3 specific email pitch templates matching the angles outlined above.
 - `[ ]` **Establish Connections:** Reach out to Erinne Magee and Hilary Nangle to introducing Lantern Camp.
 - `[ ]` **Collaborate on Strategy/Contacts:** Coordinate with Ann and David Swardlick to leverage their Maine media contacts and PR strategy.
