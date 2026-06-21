@@ -200,16 +200,23 @@
       margin: 1.5em 0;
     }
 
-    /* Table styling to look clean and custom */
+    /* Table styling with wrapper for horizontal scrolling */
+    .table-wrapper {
+      width: 100%;
+      overflow-x: auto;
+      margin: 1.5em 0;
+      border: 1px solid var(--glass-border);
+      border-radius: 4px;
+      box-shadow: 0 2px 8px rgba(142, 132, 106, 0.02);
+      background: #ffffff;
+    }
+
     .markdown-section table {
       border-collapse: collapse;
       width: 100%;
-      margin: 1.5em 0;
+      margin: 0 !important;
       background: #ffffff;
-      border: 1px solid var(--glass-border);
-      border-radius: 4px;
-      overflow: hidden;
-      box-shadow: 0 2px 8px rgba(142, 132, 106, 0.02);
+      border: none !important;
     }
 
     .markdown-section th {
@@ -335,7 +342,17 @@
         placeholder: 'Search documents...',
         noData: 'No results found',
         depth: 4
-      }
+      },
+      plugins: [
+        function(hook, vm) {
+          hook.afterEach(function(html, next) {
+            // Wrap all tables in a scrollable div wrapper
+            var wrappedHtml = html.replace(/<table/g, '<div class="table-wrapper"><table');
+            wrappedHtml = wrappedHtml.replace(/<\/table>/g, '</table></div>');
+            next(wrappedHtml);
+          });
+        }
+      ]
     }
   </script>
   <!-- Docsify v4 -->
