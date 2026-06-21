@@ -31,6 +31,7 @@ Use this document to track assignments, to-dos, hygiene, and projects.
 *   [x] **Create Meta Ad (First Run Completed & Updated):**
     *   **Results (June 15–21):** Spent $179.56, 996 landing page views, $0.18 cost-per-view (excellent CTR/traffic cost). 0 bookings recorded (negative ROAS). 72% of spend was going to Maine locals, so targeting needed adjustment. PayPal payment method resolved the account suspension.
     *   [x] **Geo-Targeting & Creative Budget Split:** Launched a new version of the campaign geo-targeted strictly to drive markets (MA, CT, NY, NJ, NH, VT, RI, PA, MD, DC, FL, and Portland/York ME) with a forced 50/50 budget split between the two main creatives for the first 7 days (deployed June 21).
+    *   [x] **Targeting Parameters Update:** Suggested campaign targeting set to **ages 25-54** with explicit interests in **glamping, Maine, Acadia National Park, ecotourism, and hiking** (implemented June 21).
     *   [ ] **Meta Ads Next Round Updates:**
         *   [ ] **Expanded Creative Assets:** Update creative with 5 photos, 5 primary texts, and 5 headlines from [meta-ad-copy-drafts.md](#/docs/meta-ad-copy-drafts).
         *   [ ] **CTA A/B Test:** Set up A/B test comparing "Book Now" vs. "Learn More".
