@@ -21,13 +21,22 @@ Use this document to track assignments, to-dos, hygiene, and projects.
     *   [x] **Content Preview:** Reviewed her proposed carousel media and copy. Copy is really good, and media is amazing. Identified must-have and favorite media for Tony and Addison.
     *   [x] **Go Live (Wednesday/Thursday):** Media selections and copy tweaks (swapping list items #2 & #4, adding dog-friendly info) approved by Addison and Tony. Agreed on a Collab Post. Sent UTM tracking link (https://bit.ly/3SAb5eZ) to Michelle for her bio link. Post is expected to go live today.
     *   [ ] **Instagram Native Boost (Ad Code Received):** Boost the Collab Post directly using Michelle's partnership ad code (`adcode-Q9jTBBX3MltygKh25ZgBuxJxXEeyUtItDbqs77jKHndCBSE_3X9hmtWVpGaUrueZGBU`) from Meta Ads Manager once organic traffic peters out (1-2 days).
+*   [ ] **Press Release (Wire) Strategy:**
+    *   [ ] **PR Newswire Account Verification:** Wait for incoming verification call from PR Newswire representative (expected week of June 22) to finalize setup.
+    *   [ ] **Draft Press Release Copy:** Draft official launch press release focusing on the summer opening, Scandinavian design aesthetics, and eco-friendly camp concept.
+    *   [ ] **Select Wire Service:** Compare PR Newswire direct vs. eReleases (PR Newswire reseller) and EIN Presswire to select the best outlet.
 *   [x] **First Newsletter Outline:** Sent first concept/outline (*"3 Days in Acadia: A Low(er) Traffic Itinerary"*) to Addison & Tony (approved with notes).
 *   [ ] **Write First Newsletter:** Write first newsletter based on the approved Acadia concept (incorporating notes).
 *   [ ] **Brainstorm Newsletter Topics:** Brainstorm 2-3 additional topics to establish a bi-weekly content pipeline.
-*   [/] **Create Meta Ad (Offline due to Suspension):** Published first standalone static ad (using "Field Cabin 1" photo and safe copy) to test baseline performance. (Ad campaign is currently offline again due to bank payment blockages; waiting on Addison to switch payment to PayPal or contact bank). Plan to add alternative photos and copy variations over time.
+*   [x] **Create Meta Ad (First Run Completed & Updated):**
+    *   **Results (June 15–21):** Spent $179.56, 996 landing page views, $0.18 cost-per-view (excellent CTR/traffic cost). 0 bookings recorded (negative ROAS). 72% of spend was going to Maine locals, so targeting needed adjustment. PayPal payment method resolved the account suspension.
+    *   [x] **Geo-Targeting & Creative Budget Split:** Launched a new version of the campaign geo-targeted strictly to drive markets (MA, CT, NY, NJ, NH, VT, RI, PA, MD, DC, FL, and Portland/York ME) with a forced 50/50 budget split between the two main creatives for the first 7 days (deployed June 21).
+    *   [ ] **Meta Ads Next Round Updates:**
+        *   [ ] **Expanded Creative Assets:** Update creative with 5 photos, 5 primary texts, and 5 headlines from [meta-ad-copy-drafts.md](#/docs/meta-ad-copy-drafts).
+        *   [ ] **CTA A/B Test:** Set up A/B test comparing "Book Now" vs. "Learn More".
+        *   [ ] **Retargeting Conversion Campaign:** Launch a conversion campaign optimizing for bookings targeting homepage visitors.
     *   [x] **Clip Library:** Sourced wide-format video clips from Peter Logue (beautiful clips, but wide framing makes ad reformatting a challenge; great for adding website motion).
     *   [ ] **Video Edit / Recap:** Wait for John (Peter's partner) to create a ~1-minute recap/ad video (delayed a few weeks due to travel).
-    *   [x] **Draft Ads / Static Ad Launch:** Published first standalone ad using "Field Cabin 1" and safe copy to kick off testing. Keep testing/adding alternate copy/creative.
 *   [/] **Centralized Analytics Dashboard:** Build an analytics dashboard integrating GA4, UTM links, GTM, Meta Pixel, Meta Ads campaigns, Mews, Airbnb, and Booking.com to track bookings, ad attribution, and compare spend vs. revenue. (Cloud setup in progress; do not pull local code changes for now).
 
 ### 🧼 Hygiene & Setup

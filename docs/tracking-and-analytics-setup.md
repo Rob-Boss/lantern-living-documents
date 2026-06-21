@@ -74,16 +74,22 @@ This document tracks configuration, technical architecture, and verification ste
 
 ## 3. Campaign Configuration & Launch Status
 
-> **Account status as of June 19, 2026: ACTIVE. Billing resolved. Both active campaigns running.**
+> **Account status as of June 21, 2026: ACTIVE. Billing resolved.**
 
 ### Campaign 1: HOMEPAGE traffic - static single image
-*   **Status:** ACTIVE — $50/day budget (updated June 19)
+*   **Status:** PAUSED (June 21) — replaced by Drive Market campaign below
 *   **Objective:** Traffic / Landing Page Views
-*   **Creative:** Single static image (Field Cabin 1 photo)
-*   **Destination:** lanterncamp.com homepage
-*   **UTM Link:** `http://www.lanterncamp.com?utm_source=instagram&utm_medium=ad&utm_campaign=single+static&utm_id=homepage+single+static+1`
-*   **GA4 attribution:** shows as `instagram / ad`
-*   **Performance (lifetime as of June 19):** $63.45 spend, 7,117 impressions, 627 clicks, 360 landing page views at $0.18 CPR
+*   **Performance (lifetime):** $63.45 spend, 7,117 impressions, 627 clicks, 360 landing page views @ $0.18 CPR
+*   **Geographic issue:** ~72% of spend went to Maine locals. Replaced by Drive Market campaign with corrected geo targeting.
+
+### Campaign 1b: HOMEPAGE traffic - static single image - [Drive Market]
+*   **Status:** In review / active (June 21)
+*   **Objective:** Traffic / Landing Page Views
+*   **Creative:** Two static images, 50/50 budget split enforced for 7 days before Meta optimizes
+*   **Geo targeting:** MA, CT, NY, NJ, NH, VT, RI, PA, MD, DC, FL + York County ME + Cumberland County ME
+*   **Budget:** $50/day
+*   **UTM Link:** `https://www.lanterncamp.com?utm_source=Instagram&utm_medium=feed%2C+static&utm_campaign=drive_market_traffic&utm_id=HOMEPAGE+traffic+-+static+single+image+-+%5BDrive+Market%5D`
+*   **GA4 attribution:** will show as `Instagram / feed, static` (note: capital I — case sensitive in GA4)
 
 ### Campaign 2: Michelle Lawrence Partner Conversion (Sales)
 *   **Status:** PAUSED (turned off June 19 — 0 attributed purchases, not viable until conversion data proves out)
