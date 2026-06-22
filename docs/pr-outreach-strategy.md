@@ -87,6 +87,9 @@ We are focusing our pitching efforts on tier-one regional publications, national
 *   **National Geographic (Travel):** High-profile national features focusing on eco-tourism, unique stays, and natural wonders.
 *   **Yankee Magazine:** Deeply focused on New England travel, heritage, and lifestyle.
 *   **Down East Magazine / Decor Maine / Maine Home + Design:** Local authorities on Maine lifestyle, interior design, architecture, and premium cabin aesthetics.
+*   **The Ellsworth American / Mount Desert Islander:** Prominent local publications covering business, planning, and municipal developments near Orland and the DownEast Acadia region.
+*   **Bangor Daily News:** Major regional daily newspaper covering municipal development and tourism growth in Hancock County and Northern/Eastern Maine.
+*   **Portland Press Herald / Maine Trust for Local News:** The largest daily newspaper in Maine, featuring offbeat and in-depth stories on local tourism, hospitality trends, and community highlights.
 ---
 
 For practical guidelines on writing, formatting, and structural press templates, refer to the dedicated [PR Writing & Formatting Guide](#/docs/pr-writing-and-formatting-guide).
@@ -106,6 +109,7 @@ Below is our running list of travel writers, freelancers, and staff editors, alo
 | **Jon Gorey** | Freelance Writer (Boston Globe / Globe Magazine) | Family travel, real estate, home improvement, lifestyle | Boston-based. Focuses on family-oriented excursions. |
 | **Sandra Ebejer** | Freelance Writer (Boston Globe, Washington Post) | Lifestyle, regional travel features | Based in Albany, NY. |
 | **Chris Tree** | Regular Contributor (The Boston Globe) | New England travel, New Hampshire, Vermont, Maine | Longtime contributor with extensive regional focus. |
+| **Leslie Bridgers** | Feature Writer (Portland Press Herald / Maine Trust for Local News) | Offbeat features, local news, travel and community interest profiles in Maine | Maine-based. Focuses on unique local business proposals and local lodging. <br>• [Portland Press Herald Profile](https://www.pressherald.com/) |
 
 ---
 
