@@ -109,6 +109,7 @@ When pasting the press release below the pitch, keep the formatting clean, stand
 *   **Headline & Subhead:** Use Title Case for the main headline. Use sentence format for an optional, descriptive subhead.
 *   **Dateline Prefix:** Start the body text with a bold dateline (e.g., **ORLAND, Maine, [Date] –**).
 *   **Inverted Pyramid:** Place the most critical facts (the 5 Ws) in the lead paragraph. Arrange the remaining 3–6 paragraph body from most important details to least important background. Keep the total length under 500 words.
+*   **Event-Specific Releases (e.g., Grand Opening):** If announcing a launch event, explicitly detail the schedule/activities, ticketing/registration links, special guests/speakers, and any sponsors/partners.
 *   **Evocative Quotes:** Only use quotes from Addison that are fresh, opinion-led, or state something that would be difficult to paraphrase. Avoid cliches or dry facts.
 *   **Boilerplate & Contact Info:** Conclude with a short, 3-sentence company overview ("About Lantern Camp") and direct media contact details.
 *   **End Marker:** Place centered `# # #` or `###` at the very bottom to signal the end of the release.
