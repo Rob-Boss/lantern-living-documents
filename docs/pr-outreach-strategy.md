@@ -87,6 +87,52 @@ We are focusing our pitching efforts on tier-one regional publications, national
 *   **National Geographic (Travel):** High-profile national features focusing on eco-tourism, unique stays, and natural wonders.
 *   **Yankee Magazine:** Deeply focused on New England travel, heritage, and lifestyle.
 *   **Down East Magazine / Decor Maine / Maine Home + Design:** Local authorities on Maine lifestyle, interior design, architecture, and premium cabin aesthetics.
+---
+
+## ✉️ Modern Pitching Playbook (Founder-Led & Logistically Frictionless)
+
+To cut through the noise of modern newsrooms (where editors are bombarded and often filter inboxes using AI), we follow a strict two-tier pitch format: **conversational, founder-led personal note on top, and a standardized, third-person press release pasted below the signature.**
+
+### 📋 The Logistics (Saving Writers the Trouble)
+*   **Zero Attachments:** Never attach PDFs, Word documents, or image files. They trigger email spam filters and are inconvenient for writers reading on mobile.
+*   **The "Paste Below" Rule:** Write the brief, personalized pitch note on top, sign off, insert a clear divider (`---`), and paste the complete press release in plain text directly below.
+*   **Centralized Media Kit Link:** Include a single link to an organized cloud folder (Dropbox, Google Drive, or an unlisted website page) containing high-res cabin drawings, lifestyle/property photos, founder headshots, and a quick-specs sheet.
+
+### 🌟 The Founder-Led Advantage
+*   **Own the Direct Connection:** Send the email directly from Addison. Open with transparency: *"I wanted to reach out directly rather than going through a PR agency because..."* Writers value direct developer/architect access as it cuts out the middleman.
+*   **Mission & Philosophy Over Specs:** Do not focus solely on cabin dimensions or listing counts. Share the core design philosophy: blending clean Scandinavian minimalism with the raw Maine forest, operating on a low-impact solar footprint.
+*   **Exclusive Offerings:** Position Addison as a primary source. Offer a quick 10-minute design interview, an early preview tour, or access to unpublished architectural photography.
+*   **First-Person Pitch, Third-Person Release:** Addison writes the pitch in the first person (`"I designed...", "I'd love to host you..."`). The pasted press release below must remain in the third person (`"Lantern Camp announced...", "The cabins feature..."`) so journalists can copy-paste facts directly into their CMS.
+*   **Rapid Responses:** If an editor replies to a founder-led pitch, Addison must respond within the hour. Slow responses signal unprofessionalism.
+
+### ✉️ Addison's Outreach Pitch Template
+
+**Subject:** `Pitch: New landscape hotel Lantern Camp opening in Orland this [Fall/Month]`
+
+```text
+Hi [Journalist Name],
+
+I’ve been following your travel and design coverage at [Publication], especially your recent piece on [reference a specific article they wrote about sustainable design, remote cabins, or New England travel]. 
+
+I'm reaching out directly because I'm the co-owner and architect of Lantern Camp, a new landscape hotel opening in Orland, Maine. Because you write so deeply about how architecture interacts with raw landscapes, I wanted to share a first look at what we're building. 
+
+We’ve designed the cabins to seamlessly blend minimalist Scandinavian design with the wild Maine woods, operating on a low-impact solar footprint. Our official launch is [Date], but we are hosting a select few writers for early stays next month. 
+
+I know you're busy, but if this sounds like a fit for upcoming travel or design features, I’d love to host you or hop on a quick 10-minute call to share the story behind the design. 
+
+I've pasted our official announcement below, along with a link to our digital lookbook. 
+
+Warmly,
+
+Addison Godine
+Co-Owner & Architect, Lantern Camp
+[Addison's Mobile Number]
+[Link to Digital Press Kit / Lookbook Folder]
+
+--------------------------------------------------
+FOR IMMEDIATE RELEASE
+[Pasted Press Release Begins Here]
+```
 
 ---
 
@@ -135,7 +181,7 @@ Below is a summary of our direct personal connections and warm publication leads
 | **Midcoast Villager** | Will Bleakely (CEO) | Direct Connection | Local Midcoast Maine exposure. |
 | **New England Monthly** | Danny Okrent | Personal Network / Direct Access | Regional monthly lifestyle perspective. |
 | **Maine Famous** | April | Professional Lead (Tailwind referral) | Former NYC ad agency veteran; authority on Maine business promo. Addison has initiated outreach. |
-| **Carla Tracy** (Solo Publicist) | Carla Tracy | Connected via Nancy Marshall | Not taking clients. Scheduling a call for learning & asking about lump-sum prestigious article placement. |
+| **Carla Tracy** (Solo Publicist) | Carla Tracy | Connected via Nancy Marshall | Not taking clients. Scheduled learning call for Wednesday, June 24, 2026 @ 1:00 PM EDT to learn & ask about lump-sum prestigious article placement. |
 | **Press for Success** (PR Coaching) | Press for Success Team | Connected via Nancy Marshall | DIY PR classes/community (~$80/mo). Website reviewed; looks interesting. |
 
 ---
@@ -183,7 +229,7 @@ To support our media pitches with a formal announcement and capture broad syndic
 - `[ ]` **Refine Pitch Outlines:** Draft 2-3 specific email pitch templates matching the angles outlined above.
 - `[ ]` **Establish Connections:** Reach out to Erinne Magee and Hilary Nangle to introducing Lantern Camp.
 - `[ ]` **Collaborate on Strategy/Contacts:** Coordinate with Ann and David Swardlick to leverage their Maine media contacts and PR strategy.
-- `[ ]` **Prep Pitch Package:** Ensure we have professional high-resolution photos ready to share (e.g., Michelle Lawrence's select shots and Peter Logue's wide clips).
+- `[ ]` **Prep Pitch Package (Media Kit):** Set up a clean, structured Google Drive/Dropbox folder containing high-res photos (Michelle Lawrence's selects, cabin renderings, landscape shots, Addison headshot) and share link.
 - `[ ]` **Target Assistant Tasks:** Work with Lucy Larson (upon onboarding) to build out the contact spreadsheet and track follow-ups.
-- `[ ]` **Carla Tracy Learning Call:** Have learning call with Carla Tracy; ask about lump-sum sourcing options for a prestigious article placement.
+- [/] **Carla Tracy Learning Call:** Scheduled learning call with Carla Tracy for Wednesday, June 24, 2026 @ 1:00 PM EDT; ask about lump-sum sourcing options for a prestigious article placement.
 - `[ ]` **Press for Success Evaluation:** Decide if we want to sign up for Press for Success ($80/mo) for DIY PR coaching and community.
