@@ -104,6 +104,15 @@ To cut through the noise of modern newsrooms (where editors are bombarded and of
 *   **Exclusive Offerings:** Position Addison as a primary source. Offer a quick 10-minute design interview, an early preview tour, or access to unpublished architectural photography.
 *   **First-Person Pitch, Third-Person Release:** Addison writes the pitch in the first person (`"I designed...", "I'd love to host you..."`). The pasted press release below must remain in the third person (`"Lantern Camp announced...", "The cabins feature..."`) so journalists can copy-paste facts directly into their CMS.
 
+### ✍️ Press Release Formatting (The Bottom-Half Anatomy)
+When pasting the press release below the pitch, keep the formatting clean, standardized, and ready to extract:
+*   **Headline & Subhead:** Use Title Case for the main headline. Use sentence format for an optional, descriptive subhead.
+*   **Dateline Prefix:** Start the body text with a bold dateline (e.g., **ORLAND, Maine, [Date] –**).
+*   **Inverted Pyramid:** Place the most critical facts (the 5 Ws) in the lead paragraph. Arrange the remaining 3–6 paragraph body from most important details to least important background. Keep the total length under 500 words.
+*   **Evocative Quotes:** Only use quotes from Addison that are fresh, opinion-led, or state something that would be difficult to paraphrase. Avoid cliches or dry facts.
+*   **Boilerplate & Contact Info:** Conclude with a short, 3-sentence company overview ("About Lantern Camp") and direct media contact details.
+*   **End Marker:** Place centered `# # #` or `###` at the very bottom to signal the end of the release.
+
 ### ✉️ Addison's Outreach Pitch Template
 
 **Subject:** `Pitch: New landscape hotel Lantern Camp opening in Orland this [Fall/Month]`
