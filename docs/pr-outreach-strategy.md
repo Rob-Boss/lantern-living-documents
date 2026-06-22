@@ -238,7 +238,9 @@ To support our media pitches with a formal announcement and capture broad syndic
 - `[ ]` **Refine Pitch Outlines:** Draft 2-3 specific email pitch templates matching the angles outlined above.
 - `[ ]` **Establish Connections:** Reach out to Erinne Magee and Hilary Nangle to introducing Lantern Camp.
 - `[ ]` **Collaborate on Strategy/Contacts:** Coordinate with Ann and David Swardlick to leverage their Maine media contacts and PR strategy.
-- `[ ]` **Prep Pitch Package (Media Kit):** Set up a clean, structured Google Drive/Dropbox folder containing high-res photos (Michelle Lawrence's selects, cabin renderings, landscape shots, Addison headshot) and share link.
+- `[ ]` **Prep Pitch Package (Media Kit):**
+    - `[ ]` Weigh hosting options: unlisted Squarespace page (branded look) vs. public Google Drive/Dropbox folder (frictionless download).
+    - `[ ]` Select and package photos: follow up on Addison's headshot, select cabin/landscape rendering selects, and logo files.
 - `[ ]` **Target Assistant Tasks:** Work with Lucy Larson (upon onboarding) to build out the contact spreadsheet and track follow-ups.
 - [/] **Carla Tracy Learning Call:** Scheduled learning call with Carla Tracy for Wednesday, June 24, 2026 @ 1:00 PM EDT; ask about lump-sum sourcing options for a prestigious article placement.
 - `[ ]` **Press for Success Evaluation:** Decide if we want to sign up for Press for Success ($80/mo) for DIY PR coaching and community.
