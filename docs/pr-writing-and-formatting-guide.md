@@ -44,7 +44,7 @@ I'm reaching out directly because I'm the co-owner and architect of Lantern Camp
 
 We’ve designed the cabins to seamlessly blend minimalist Scandinavian design with the wild Maine woods, operating on a low-impact solar footprint. Our official launch is [Date], but we are hosting a select few writers for early stays next month. 
 
-I know you're busy, but if this sounds like a fit for upcoming travel or design features, I’d love to host you or hop on a quick 10-minute call to share the story behind the design. 
+If this looks like a fit for your upcoming travel or design coverage, I’d love to host you or hop on a quick 10-minute call to share the story behind the design. 
 
 I've pasted our official announcement below, along with a link to our digital lookbook. 
 
