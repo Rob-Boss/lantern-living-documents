@@ -14,9 +14,10 @@ This document tracks outreach, pricing, terms, and impressions for potential PR 
 | **[Agency PR](https://agencypr.co)** | N/A (No capacity) | N/A | N/A | Saratoga/Boise-based. Declined to propose due to capacity constraints. |
 | **[Upspring](https://www.upspringpr.com)** | $6,500/mo ($26,000 total) | 4 Months | Travel expenses only | ❌ **Decided not to move forward.** Internal alignment meeting on June 19 confirmed concerns around brand alignment and value. Decided to pause/cancel. |
 | **[Kubany PR](https://kubany.co)** | $8,000/mo ($24,000 total) | 3 Months (Flexible project) | Travel expenses only | Out. Not re-engaging due to family situation. |
-| **[Marshall PR](https://marshallpr.com)** (Nancy) | N/A | N/A | N/A | Inbound. Call completed June 19. Nancy advised against Upspring (not aligned/doesn't understand Maine hospitality). Connecting us with Carla Tracy. |
-| **Carla Tracy** (Solo Publicist) | ~$5,000–$10,000 (1st month) | TBD | TBD | Portland, ME-based solo publicist. Awaiting intro. Nancy guessed she might be $5k/mo, but suggested doubling to $10k for the first month to guarantee full attention (haven't talked to her yet). |
+| **Marshall PR** (Nancy) | N/A | N/A | N/A | Inbound. Call completed June 19. Nancy advised against Upspring (not aligned/doesn't understand Maine hospitality). Connected us with Carla Tracy and recommended checking out Tides and Pines and Press for Success. |
+| **Carla Tracy** (Solo Publicist) | N/A (No new clients) | N/A | N/A | Portland, ME-based solo publicist. Connected; not taking new clients, but scheduling a call to learn/ask about one-off prestigious article sourcing. |
 | **In-House PR (Ben)** | $4,000 / mo (additional) | No minimum term | N/A | Under consideration (Proposed / presentation made). Ben to run PR directly, leveraging Addison's contacts, and Debra Spark's intros. Month-to-month trial; pivot/revert if unhappy after 1st month. |
+| **[Press for Success](https://www.pressforsuccess.com)** | ~$80/mo | Month-to-month | None | DIY PR coaching, classes, and community. Cost-effective option if running PR ourselves; looks interesting. |
 
 
 
@@ -155,16 +156,16 @@ This document tracks outreach, pricing, terms, and impressions for potential PR 
     * Bangor TV stations: Pitch opening/launch angles.
     * Pay-to-play: Mentioned some firms can work on a pay-to-play model.
   * **Targeting/Personas:** Recommended building a "Marshall plan" with 4–5 personas (e.g., *"This is Susie, 34, from MA—this is what they're looking for"*). Stressed defining what is there for a family (referencing *Papoose Pond* campground for child-friendly inspiration).
-  * **Local Integration:** Look at *Tides2Pines* concierge service to see if Lantern Camp can be added to their portfolio (Nancy noted they just took over 500 Vacasa properties).
+  * **Local Integration / Partnerships:** Connected to **Tides and Pines** (vacation rentals aggregator specializing in white glove experiences, stocking food/beverage, organizing drivers). Proposed a phone call, waiting to hear back. (Nancy noted they just took over 500 Vacasa properties).
   * **In-House Option:** Mentioned that relying on Addison's connections "depends" on the specifics.
-* **Next Steps:** She is connecting us with Carla Tracy, a Portland-based solo publicist.
+* **Next Steps:** Connected with Carla Tracy (not taking new clients, but scheduling a learning call) and Press for Success (coaching platform).
 
 ---
 
 ### 8. Carla Tracy (Solo Publicist)
-* **Status:** Awaiting introduction from Nancy Marshall.
+* **Status:** Connected via Nancy Marshall. Understanding is she is not taking on new clients, but a phone call has been proposed for learning purposes.
 * **Location:** Portland, ME.
-* **Financials:** ~$5,000–$10,000 (Nancy guessed she might be $5k/mo, but suggested we double it to $10k to guarantee her full attention for the first month; we haven't talked to her yet).
+* **Financials:** N/A (Not taking new clients). Want to ask if she would ever source a single prestigious article for a lump sum.
 * **Vibe/Focus:** Maine-based solo publicist. Highly recommended by Nancy; very well connected with a great client list and deep regional hospitality roots.
 
 ---
@@ -186,3 +187,10 @@ This document tracks outreach, pricing, terms, and impressions for potential PR 
   * **Strategic Action:** Plan to draft an authentic founder-perspective pitch package (story angle, custom copy, and select photos) and share it with Debra for feedback and intro coordination. (Note: A pre-written article pitch was ruled out due to editor constraints on word counts).
 * **Other Local References:**
   * **April (Maine Famous):** Recommended by John Shelley (videographer from Tailwind). Former NYC ad agency veteran and local promotion expert. Addison has reached out to her.
+
+---
+
+### 11. [Press for Success](https://www.pressforsuccess.com)
+* **Status:** Website reviewed; looks interesting. Haven't reached back out yet.
+* **Financials:** ~$80 / month.
+* **Vibe/Focus:** PR coaching, classes, and community designed to help run PR for oneself. Very cost-effective.
