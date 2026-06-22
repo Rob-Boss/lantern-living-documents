@@ -13,6 +13,7 @@ This is a private, client-accessible portal hosting live documents regarding our
 *   📣 **[PR Outreach & Strategy](docs/pr-outreach-strategy.md)** — In-house PR pitch angles, writer database, and warm personal leads.
 *   📊 **[Tracking & Analytics Setup](docs/tracking-and-analytics-setup.md)** — Google Tag Manager architecture, pixel variables, campaign results, and dashboard roadmap.
 *   📂 **[Startup Documents](docs/startup-documents.md)** — Pitch decks, appendices, and operational plans.
+*   ⛺ **[Meta Ad Copy](docs/meta-ad-copy.md)** — Active and launch testing creative variations and copy options.
 
 ---
 
