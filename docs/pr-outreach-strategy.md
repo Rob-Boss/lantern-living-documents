@@ -103,7 +103,6 @@ To cut through the noise of modern newsrooms (where editors are bombarded and of
 *   **Mission & Philosophy Over Specs:** Do not focus solely on cabin dimensions or listing counts. Share the core design philosophy: blending clean Scandinavian minimalism with the raw Maine forest, operating on a low-impact solar footprint.
 *   **Exclusive Offerings:** Position Addison as a primary source. Offer a quick 10-minute design interview, an early preview tour, or access to unpublished architectural photography.
 *   **First-Person Pitch, Third-Person Release:** Addison writes the pitch in the first person (`"I designed...", "I'd love to host you..."`). The pasted press release below must remain in the third person (`"Lantern Camp announced...", "The cabins feature..."`) so journalists can copy-paste facts directly into their CMS.
-*   **Rapid Responses:** If an editor replies to a founder-led pitch, Addison must respond within the hour. Slow responses signal unprofessionalism.
 
 ### ✉️ Addison's Outreach Pitch Template
 
