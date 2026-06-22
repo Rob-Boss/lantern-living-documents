@@ -16,7 +16,7 @@ Use this document to track assignments, to-dos, hygiene, and projects.
 *   [x] **Invoice Payment:** June retainer invoice paid (received today).
 *   [x] **PR Outreach & Evaluation:** Track and evaluate agencies in [pr-agency-evaluation.md](#/docs/pr-agency-evaluation) (completed initial calls and received all final pricing/capacity updates).
 *   [ ] **Tides and Pines Call:** Proposed a phone call, waiting to hear back. (Booking partnership: vacation rental aggregator specializing in white glove experiences).
-*   [ ] **Carla Tracy Call:** Schedule call for learning/lump-sum article query (understanding is she is not taking new clients).
+*   [/] **Carla Tracy Call:** Scheduled for Wednesday, June 24, 2026 @ 1:00 PM EDT (10:00 AM PDT) for learning/lump-sum article query.
 *   [ ] **Press for Success Review:** Evaluate PR coaching platform ($80/mo) for running PR ourselves.
 *   [x] **Upspring Team Call:** Follow-up call completed. Tony is ready to move forward; Addison is investigating further with reservations around how closely aligned the PR agency needs to be with our rustic glamping concept.
 *   [x] **Michelle Lawrence Visit & Shot List:** Refined shot list and completed her visit (real-time stories posted successfully).
@@ -28,6 +28,9 @@ Use this document to track assignments, to-dos, hygiene, and projects.
     *   [ ] **PR Newswire Account Verification:** Wait for incoming verification call from PR Newswire representative (expected week of June 22) to finalize setup.
     *   [ ] **Draft Press Release Copy:** Draft official launch press release focusing on the summer opening, Scandinavian design aesthetics, and eco-friendly camp concept.
     *   [ ] **Select Wire Service:** Compare PR Newswire direct vs. eReleases (PR Newswire reseller) and EIN Presswire to select the best outlet.
+    *   [ ] **Digital Press Kit Setup:**
+        *   [ ] Weigh hosting options: unlisted Squarespace page (branded look) vs. public Google Drive/Dropbox folder (simple, frictionless download).
+        *   [ ] Select and package media kit photos (follow up on Addison's headshot, select cabin/landscape rendering selects, and logos).
 *   [x] **First Newsletter Outline:** Sent first concept/outline (*"3 Days in Acadia: A Low(er) Traffic Itinerary"*) to Addison & Tony (approved with notes).
 *   [ ] **Write First Newsletter:** Write first newsletter based on the approved Acadia concept (incorporating notes).
 *   [ ] **Brainstorm Newsletter Topics:** Brainstorm 2-3 additional topics to establish a bi-weekly content pipeline.
@@ -72,7 +75,7 @@ All technical architecture, infrastructure settings, tags, triggers, and unresol
     *   [x] **Locate and cancel test reservations:** Cancelled all 5 test reservations (#17, #18, #19, #22, plus the fifth) in the Mews operations portal to restore cabin inventory. (Used refundable option; fully refunded).
     *   [ ] Fix system configuration typo: Change `item_category3` layout attribute from "Orlando, FL" to "Orland, Maine".
     *   [ ] (Optional) Remove duplicate unused pixels in the Meta account.
-*   [/] **Mews Booking Notifications:** Resolve issue where booking notifications are silent. Addison connected Ben with the MEWS account manager (William) on June 16; Ben sent an initial email troubleshooting the access constraints and is waiting for a response.
+*   [/] **Mews Booking Notifications:** Resolve issue where booking notifications are silent. Addison connected Ben with MEWS account manager (William) on June 16. Ben followed up, and followed up again on June 22, and Addison also bumped the thread; still waiting for a response. Goal: troubleshooting silent email notifications, exploring Zapier integrations, and getting API/backend access to make changes to MEWS.
 *   [x] **Fix Meta Purchase Value & Currency:** Resolved GTM mapping issue. Replaced the Meta Pixel Purchase tag with a Custom HTML tag that scrapes the Mews dataLayer directly at runtime. Verified USD currency and purchase values are passing correctly via Facebook Pixel Helper.
 *   [ ] **Live Guest Checkout Audit & Tracking Verification:**
     *   [ ] Monitor the Ads Manager Results column on the first real booking post-launch. Confirm it increments by 1 Purchase (verifying value-less Purchase conversion counting).
@@ -92,7 +95,7 @@ All technical architecture, infrastructure settings, tags, triggers, and unresol
 *   [/] **PR Strategy & Decision (Evaluating new paths):** After deciding not to proceed with Upspring on June 19, the current focus is on evaluating the in-house proposal (Ben at $4,000/month, month-to-month, leveraging Addison/Ann/David Swardlick/Debra Spark contacts), Carla Tracy learning call, and Press for Success.
     *   [x] **Internal Alignment Meeting:** Completed June 19. Decided to pause/cancel Upspring.
     *   [x] **Call with Nancy Marshall (Marshall PR):** Completed June 19. Nancy advised that Upspring is a bad idea and recommended finding someone who understands Maine and Maine hospitality. She is connecting us with Carla Tracy.
-    *   [ ] **Evaluate Carla Tracy:** Connected. Understanding is she is not taking new clients, but scheduling a call for learning and to ask about lump-sum prestigious article sourcing.
+    *   [/] **Evaluate Carla Tracy:** Connected. Scheduled learning call for Wednesday, June 24, 2026 @ 1:00 PM EDT (10:00 AM PDT) to learn and ask about lump-sum prestigious article sourcing.
     *   [ ] **Evaluate Press for Success:** Take a look at Press for Success (PR coaching and community for ~$80/month) for self-run PR coaching.
     *   [ ] **Evaluate In-House PR:** Under review. Assess Ben's in-house sprint proposal ($4,000/month additional, month-to-month trial, no minimum term, leveraging Addison's contacts, Debra Spark's intros, and strategy/contacts from Ann and David Swardlick).
     *   [ ] **Founder Pitch Package (Debra Spark):** Draft founder-perspective pitch materials (story angle, copy, photos) and review with Debra Spark for feedback and warm intros to editors at *Decor Maine*, *Downeast*, and *Maine Home + Design*.
