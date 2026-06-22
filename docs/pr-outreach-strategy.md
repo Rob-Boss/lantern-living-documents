@@ -135,6 +135,8 @@ Below is a summary of our direct personal connections and warm publication leads
 | **Midcoast Villager** | Will Bleakely (CEO) | Direct Connection | Local Midcoast Maine exposure. |
 | **New England Monthly** | Danny Okrent | Personal Network / Direct Access | Regional monthly lifestyle perspective. |
 | **Maine Famous** | April | Professional Lead (Tailwind referral) | Former NYC ad agency veteran; authority on Maine business promo. Addison has initiated outreach. |
+| **Carla Tracy** (Solo Publicist) | Carla Tracy | Connected via Nancy Marshall | Not taking clients. Scheduling a call for learning & asking about lump-sum prestigious article placement. |
+| **Press for Success** (PR Coaching) | Press for Success Team | Connected via Nancy Marshall | DIY PR classes/community (~$80/mo). Website reviewed; looks interesting. |
 
 ---
 
@@ -183,3 +185,5 @@ To support our media pitches with a formal announcement and capture broad syndic
 - `[ ]` **Collaborate on Strategy/Contacts:** Coordinate with Ann and David Swardlick to leverage their Maine media contacts and PR strategy.
 - `[ ]` **Prep Pitch Package:** Ensure we have professional high-resolution photos ready to share (e.g., Michelle Lawrence's select shots and Peter Logue's wide clips).
 - `[ ]` **Target Assistant Tasks:** Work with Lucy Larson (upon onboarding) to build out the contact spreadsheet and track follow-ups.
+- `[ ]` **Carla Tracy Learning Call:** Have learning call with Carla Tracy; ask about lump-sum sourcing options for a prestigious article placement.
+- `[ ]` **Press for Success Evaluation:** Decide if we want to sign up for Press for Success ($80/mo) for DIY PR coaching and community.
