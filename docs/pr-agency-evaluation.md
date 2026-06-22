@@ -15,7 +15,7 @@ This document tracks outreach, pricing, terms, and impressions for potential PR 
 | **[Upspring](https://www.upspringpr.com)** | $6,500/mo ($26,000 total) | 4 Months | Travel expenses only | ❌ **Decided not to move forward.** Internal alignment meeting on June 19 confirmed concerns around brand alignment and value. Decided to pause/cancel. |
 | **[Kubany PR](https://kubany.co)** | $8,000/mo ($24,000 total) | 3 Months (Flexible project) | Travel expenses only | Out. Not re-engaging due to family situation. |
 | **Marshall PR** (Nancy) | N/A | N/A | N/A | Inbound. Call completed June 19. Nancy advised against Upspring (not aligned/doesn't understand Maine hospitality). Connected us with Carla Tracy and recommended checking out Tides and Pines and Press for Success. |
-| **Carla Tracy** (Solo Publicist) | N/A (No new clients) | N/A | N/A | Portland, ME-based solo publicist. Connected; not taking new clients, but scheduling a call to learn/ask about one-off prestigious article sourcing. |
+| **Carla Tracy** (Solo Publicist) | N/A (No new clients) | N/A | N/A | Portland, ME-based solo publicist. Connected; not taking new clients, but scheduled learning call for Wednesday, June 24, 2026 @ 1:00 PM EDT to learn/ask about one-off prestigious article sourcing. |
 | **In-House PR (Ben)** | $4,000 / mo (additional) | No minimum term | N/A | Under consideration (Proposed / presentation made). Ben to run PR directly, leveraging Addison's contacts, and Debra Spark's intros. Month-to-month trial; pivot/revert if unhappy after 1st month. |
 | **[Press for Success](https://www.pressforsuccess.com)** | ~$80/mo | Month-to-month | None | DIY PR coaching, classes, and community. Cost-effective option if running PR ourselves; looks interesting. |
 
@@ -163,7 +163,7 @@ This document tracks outreach, pricing, terms, and impressions for potential PR 
 ---
 
 ### 8. Carla Tracy (Solo Publicist)
-* **Status:** Connected via Nancy Marshall. Understanding is she is not taking on new clients, but a phone call has been proposed for learning purposes.
+* **Status:** Connected via Nancy Marshall. Scheduled learning call for Wednesday, June 24, 2026 @ 1:00 PM EDT to learn and ask about lump-sum prestigious article sourcing.
 * **Location:** Portland, ME.
 * **Financials:** N/A (Not taking new clients). Want to ask if she would ever source a single prestigious article for a lump sum.
 * **Vibe/Focus:** Maine-based solo publicist. Highly recommended by Nancy; very well connected with a great client list and deep regional hospitality roots.
