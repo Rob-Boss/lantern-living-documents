@@ -15,6 +15,9 @@ Use this document to track assignments, to-dos, hygiene, and projects.
 *   [x] **Contract Signature:** Addison and Tony signed; contract is finalized.
 *   [x] **Invoice Payment:** June retainer invoice paid (received today).
 *   [x] **PR Outreach & Evaluation:** Track and evaluate agencies in [pr-agency-evaluation.md](#/docs/pr-agency-evaluation) (completed initial calls and received all final pricing/capacity updates).
+*   [ ] **Tides and Pines Call:** Proposed a phone call, waiting to hear back. (Booking partnership: vacation rental aggregator specializing in white glove experiences).
+*   [ ] **Carla Tracy Call:** Schedule call for learning/lump-sum article query (understanding is she is not taking new clients).
+*   [ ] **Press for Success Review:** Evaluate PR coaching platform ($80/mo) for running PR ourselves.
 *   [x] **Upspring Team Call:** Follow-up call completed. Tony is ready to move forward; Addison is investigating further with reservations around how closely aligned the PR agency needs to be with our rustic glamping concept.
 *   [x] **Michelle Lawrence Visit & Shot List:** Refined shot list and completed her visit (real-time stories posted successfully).
 *   [ ] **Michelle Lawrence Wednesday Post Campaign:**
@@ -86,10 +89,11 @@ All technical architecture, infrastructure settings, tags, triggers, and unresol
     *   [ ] Plan delegation of tasks (like outreach list processing).
 
 ### 🚀 Projects & Strategy
-*   [/] **PR Strategy & Decision (Evaluating new paths):** After deciding not to proceed with Upspring on June 19, the current focus is on evaluating the in-house proposal (Ben at $4,000/month, month-to-month, leveraging Addison/Ann/David Swardlick/Debra Spark contacts) and preparing for a potential conversation with Carla Tracy.
+*   [/] **PR Strategy & Decision (Evaluating new paths):** After deciding not to proceed with Upspring on June 19, the current focus is on evaluating the in-house proposal (Ben at $4,000/month, month-to-month, leveraging Addison/Ann/David Swardlick/Debra Spark contacts), Carla Tracy learning call, and Press for Success.
     *   [x] **Internal Alignment Meeting:** Completed June 19. Decided to pause/cancel Upspring.
     *   [x] **Call with Nancy Marshall (Marshall PR):** Completed June 19. Nancy advised that Upspring is a bad idea and recommended finding someone who understands Maine and Maine hospitality. She is connecting us with Carla Tracy.
-    *   [ ] **Evaluate Carla Tracy:** Awaiting introduction from Nancy Marshall; preparing for a potential conversation/chat. (Solo publicist; Nancy guessed $5k/mo, suggested doubling to $10k to guarantee full attention).
+    *   [ ] **Evaluate Carla Tracy:** Connected. Understanding is she is not taking new clients, but scheduling a call for learning and to ask about lump-sum prestigious article sourcing.
+    *   [ ] **Evaluate Press for Success:** Take a look at Press for Success (PR coaching and community for ~$80/month) for self-run PR coaching.
     *   [ ] **Evaluate In-House PR:** Under review. Assess Ben's in-house sprint proposal ($4,000/month additional, month-to-month trial, no minimum term, leveraging Addison's contacts, Debra Spark's intros, and strategy/contacts from Ann and David Swardlick).
     *   [ ] **Founder Pitch Package (Debra Spark):** Draft founder-perspective pitch materials (story angle, copy, photos) and review with Debra Spark for feedback and warm intros to editors at *Decor Maine*, *Downeast*, and *Maine Home + Design*.
     *   [ ] **April (Maine Famous):** Await response to outreach to April to discuss potential promotion collaboration.
@@ -110,3 +114,4 @@ All technical architecture, infrastructure settings, tags, triggers, and unresol
 ### 🚀 Projects & Strategy
 *   [ ] **Launch Marketing Campaign:** Plan and execute the launch marketing campaign with the $50-75k budget.
 *   [ ] **Community Relationship Tracking:** Maintain and expand the LC Community Relationships database.
+*   [ ] **Website Redesign (Homepage):** Long-term project to redesign the homepage. Chipping away at it in free time; currently mapping out initial ideas (not sharing with the team yet).
