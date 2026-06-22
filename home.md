@@ -12,6 +12,7 @@ This is a private, client-accessible portal hosting live documents regarding our
 *   💼 **[PR Agency Evaluation](docs/pr-agency-evaluation.md)** — Outreach details, agency pricing, notes, and strategic feedback.
 *   📣 **[PR Outreach & Strategy](docs/pr-outreach-strategy.md)** — In-house PR pitch angles, writer database, and warm personal leads.
 *   📊 **[Tracking & Analytics Setup](docs/tracking-and-analytics-setup.md)** — Google Tag Manager architecture, pixel variables, campaign results, and dashboard roadmap.
+*   📂 **[Startup Documents](docs/startup-documents.md)** — Pitch decks, appendices, and operational plans.
 
 ---
 
