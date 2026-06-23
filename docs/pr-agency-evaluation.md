@@ -12,7 +12,7 @@ This document tracks outreach, pricing, terms, and impressions for potential PR 
 | **[M18](https://m18pr.com)** | $8,000/mo | 6 Months | TBD | Corporate, real estate/hospitality strong, conversion/modern platform focused (Substack). |
 | **[Chapter](https://chapteragency.us)** | $6,500/mo | 6 Months (flexibility possible) | Travel expenses only | Genuinely strategic, design/architecture focus. Weak on social/influencer. Better long-term than for immediate launch. |
 | **[Agency PR](https://agencypr.co)** | N/A (No capacity) | N/A | N/A | Saratoga/Boise-based. Declined to propose due to capacity constraints. |
-| **[Upspring](https://www.upspringpr.com)** | $6,500/mo ($26,000 total) | 4 Months | Travel expenses only | ❌ **Decided not to move forward.** Internal alignment meeting on June 19 confirmed concerns around brand alignment and value. Decided to pause/cancel. |
+| **[Upspring](https://www.upspringpr.com)** | $6,500/mo ($19,500 total) | 3 Months | Travel expenses only | ⚠️ **Back under evaluation.** Offered 3-month min at $19,500 total. Decision paused pending Carla Tracy call (June 24) and reference checks. |
 | **[Kubany PR](https://kubany.co)** | $8,000/mo ($24,000 total) | 3 Months (Flexible project) | Travel expenses only | Out. Not re-engaging due to family situation. |
 | **Marshall PR** (Nancy) | N/A | N/A | N/A | Inbound. Call completed June 19. Nancy advised against Upspring (not aligned/doesn't understand Maine hospitality). Connected us with Carla Tracy and recommended checking out Tides to Pines and Press for Success. |
 | **Carla Tracy** (Solo Publicist) | N/A (No new clients) | N/A | N/A | Portland, ME-based solo publicist. Connected; not taking new clients, but scheduled learning call for Wednesday, June 24, 2026 @ 1:00 PM EDT to learn/ask about one-off prestigious article sourcing. |
@@ -100,10 +100,10 @@ This document tracks outreach, pricing, terms, and impressions for potential PR 
 ### 5. [Upspring](https://www.upspringpr.com)
 * **Date of Call:** June 5, 2026
 * **Second Meeting:** June 16, 2026 (Met with Delaney and Catherine, who will lead our account. Vibe was good and we feel in tune with their direction. They are expected to deliver strong quantity; quality remains to be seen. They shared some solid ideas; meeting notes will be copied here shortly.)
-* **Status Update (June 19, 2026):** Decided **not** to move forward with Upspring. Following an internal meeting on June 19, Addison, Tony, and Ben agreed that Upspring's approach did not align closely enough with the rustic glamping concept and that we need a publicist who deeply understands Maine hospitality. Paperwork will not be submitted.
+* **Status Update (June 23, 2026):** Back under evaluation. Upspring offered to reduce their monthly minimum from 4 months to 3 months ($19,500 total investment). A final decision is needed within 24-48 hours (by June 25) and is paused pending the Carla Tracy call tomorrow and feedback from their references.
 * **Financials:**
   * **Pricing:** $6,500 / month.
-  * **Term:** 4-month minimum.
+  * **Term:** 3-month minimum ($19,500 total).
   * **Expenses:** No hard/administrative fees. Only travel-related costs are billed additionally.
 * **Scope & Logistics:**
   * **Onboarding & Speed:** They move extremely fast. Setup requires just a 1-hour kickoff conversation, answering a standard set of questions, and sharing photos. They get started immediately after.
@@ -114,7 +114,10 @@ This document tracks outreach, pricing, terms, and impressions for potential PR 
 * **Relevant Client Experience / Comps:**
   * AutoCamp (specifically worked on this; designed by M-Rad)
   * "Three Ducks" (recent property; launched for co-founders who left a different hotel group to start something goal-oriented from scratch with no prior brand name or media footprint)
-* **Our Take:** ❌ Decided not to move forward. Concerns over general brand alignment and ROI, compounded by direct advice from Nancy Marshall who warned Upspring was a bad idea for our specific niche.
+* **References Contacted (June 23):** 
+  * **Three Ducks** (Lizzie Bakhash-Izbicki): `516-849-9073` / `lizzy.bakhash@gmail.com` (Addison sent a text inquiry on June 23; awaiting response).
+  * **The Bradley Projects** (Jared Bradley): `619-319-2242` / `j@thebdg.com` (Addison sent a text inquiry on June 23; awaiting response).
+* **Our Take:** ⚠️ Currently re-evaluating their proposal ($19.5k for 3 months). We are checking with their references to evaluate their service quality and launch effectiveness, and will make a final decision after speaking with Carla Tracy tomorrow.
 
 ---
 
