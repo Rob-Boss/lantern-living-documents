@@ -40,10 +40,16 @@ A compiled list of status updates, active campaigns, scheduled calls, and recent
 ## 📊 Paid Ads & Analytics
 
 ### 📱 Meta Ads (Facebook/Instagram)
-*   **Traffic Campaign (Initial Run)**: Spent $179.56 (996 clicks, $0.18 cost-per-view). Groundwork was verified, but 72% of traffic went to locals, producing 0 bookings.
-*   **Active Traffic Campaign Optimization (Demographics & Geography)**:
-    *   **Current Progress**: Deployed changes limiting ads to out-of-state drive markets (MA, CT, NY, NJ, NH, VT, RI, PA, MD, DC, FL, and Portland/York ME), age 25–54, with glamping/ecotourism interests. A 50/50 creative split was forced.
-    *   **Performance Metrics (Latest Update: ~$97 spend, 633 LPVs)**:
+
+#### 📊 Campaign Progression: Initial vs. Optimized Run
+| Campaign Stage | Targeting Strategy | Spend / Volume | Cost Per View (CPV) | Key Observations |
+|---|---|---|---|---|
+| **Stage 1: Initial Run** | Broad (No demographic/geographic restrictions) | $179.56 (996 clicks) | **$0.18** | Groundwork verified; however, **72% of traffic went to locals**, producing 0 bookings. |
+| **Stage 2: Optimized Run** (Active) | Strict out-of-state drive markets (MA, CT, NY, etc.) & age 25–54 focus | ~$97 (633 views) | **$0.15** | **CPV decreased to $0.15** despite tighter, higher-quality targeting. |
+
+*   **Active Traffic Campaign Optimization Details**:
+    *   **Current Settings**: Ads restricted to out-of-state drive markets (MA, CT, NY, NJ, NH, VT, RI, PA, MD, DC, FL, and Portland/York ME) and age 25–54, with a forced 50/50 creative budget split.
+    *   **Performance Metrics (Optimized Run Breakdown)**:
         
         #### Age Performance:
         | Age | LPVs | Spend | CPV | Notes |
