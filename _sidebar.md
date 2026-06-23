@@ -1,12 +1,18 @@
 * **Home**
   * [Welcome](home.md)
 
-* **Launch Strategy**
+* **Roadmap & Alignment**
   * [Workspace Tracker](docs/lantern-camp-tracker.md)
-  * [Airbnb Tracker & Strategy](docs/airbnb-tracker-and-strategy.md)
-  * [Marketing Meeting Updates (June 23)](docs/marketing-meeting-updates.md)
+  * [Marketing Decisions (June 23)](docs/marketing-meeting-updates.md)
+  * [Foundational Startup Docs](docs/startup-documents.md)
+
+* **Booking Operations**
+  * [Airbnb Operations & Strategy](docs/airbnb-tracker-and-strategy.md)
+
+* **Public Relations (PR)**
   * [PR Agency Evaluation](docs/pr-agency-evaluation.md)
-  * [PR Outreach & Strategy](docs/pr-outreach-strategy.md)
-  * [Tracking & Analytics Setup](docs/tracking-and-analytics-setup.md)
-  * [Startup Documents](docs/startup-documents.md)
-  * [Meta Ad Copy](docs/meta-ad-copy.md)
+  * [In-House PR & Media Strategy](docs/pr-outreach-strategy.md)
+
+* **Paid Ads & Technical Setup**
+  * [Meta Ad Creative & Copy](docs/meta-ad-copy.md)
+  * [GTM & Analytics Architecture](docs/tracking-and-analytics-setup.md)
