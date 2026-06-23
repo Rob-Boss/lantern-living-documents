@@ -14,7 +14,7 @@ The introductory call with Paige at Tides to Pines provided professional vacatio
 ### Key Advisory Takeaways
 
 #### 1. Airbnb Listing Optimization & Individual Cabins (High Confidence)
-* **Individual Listing Setup**: Paige was extremely confident that we should list and market each cabin individually on Airbnb and VRBO, rather than taking a multi-unit "hotel" page route.
+* **Individual Listing Setup**: Paige was extremely confident that we should list and market each cabin individually on Airbnb, rather than taking a multi-unit "hotel" page route.
 * **Cabin Naming & Customer Loyalty**: Each cabin needs to be uniquely named or numbered with a specific marketing identifier (e.g., "Cabin 1: Nature Lover's Dream"). This allows guests to return and book the *exact same cabin* for repeat visits, building trust in a specific cabin. People develop strong preferences for one cabin over another, even if the cabins are virtually identical, for reasons we might not fully know.
 * **Shared Photos**: We should share the group site/layout photos across all individual listings so guests get the context of the whole property and how the cabins are situated.
 * **Description Limits**: Airbnb summaries are limited (under 500 characters). We must bury detail in the structured amenities list to maximize visibility and inform guests fully.
@@ -36,7 +36,7 @@ The introductory call with Paige at Tides to Pines provided professional vacatio
 *   [ ] **Individual Cabin Naming & Listing Structure:** Approve listing cabins individually vs. a multi-unit "hotel route" and outline the unique naming conventions/identifiers for each cabin to build repeat-guest trust.
 
 ### 🏪 Setup & Listing Optimization
-*   [ ] **Create Individual Listings:** If individual listing structure is approved, spin up separate listings for each of the initial cabins on Airbnb and VRBO.
+*   [ ] **Create Individual Listings:** If individual listing structure is approved, spin up separate listings for each of the initial cabins on Airbnb.
 *   [ ] **Optimize Descriptions & Amenities:** Draft concise summaries under 500 characters and thoroughly check all appropriate filters/boxes in the amenities lists (especially pet-friendly status, sauna access, hiking, and stargazing).
 *   [ ] **Populate Media & Layout Photos:** Curate and upload the photo suite, ensuring group/site photos are included across all individual listings.
 *   [ ] **Listing Copy Refresh:** Periodically refresh and rearrange the written description copy to trigger Airbnb's search algorithm to "reindex" the listings, helping to boost organic visibility (since there is no native pay-to-play advertising on Airbnb).
