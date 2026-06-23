@@ -15,15 +15,12 @@ Use this document to track assignments, to-dos, hygiene, and projects.
 *   [x] **Contract Signature:** Addison and Tony signed; contract is finalized.
 *   [x] **Invoice Payment:** June retainer invoice paid (received today).
 *   [x] **PR Outreach & Evaluation:** Track and evaluate agencies in [pr-agency-evaluation.md](#/docs/pr-agency-evaluation) (completed initial calls and received all final pricing/capacity updates).
-*   [/] **Tides to Pines Call:** Scheduled for Tuesday, June 23, 2026 @ 11:30 AM EDT. (Booking partnership: vacation rental aggregator specializing in white glove experiences).
-*   [/] **Carla Tracy Call:** Scheduled for Wednesday, June 24, 2026 @ 1:00 PM EDT (10:00 AM PDT) for learning/lump-sum article query.
+*   [/] **Tides to Pines Call:** Scheduled for Tuesday, June 23, 2026 @ 11:30 AM EDT. Ben joining, Addison skipping. (Booking partnership: vacation rental aggregator specializing in white glove experiences).
+*   [/] **Carla Tracy Call:** Scheduled for Wednesday, June 24, 2026 @ 1:00 PM EDT (10:00 AM PDT). Addison & Ben joining.
 *   [ ] **Press for Success Review:** Evaluate PR coaching platform ($80/mo) for running PR ourselves.
 *   [x] **Upspring Team Call:** Follow-up call completed. Tony is ready to move forward; Addison is investigating further with reservations around how closely aligned the PR agency needs to be with our rustic glamping concept.
-*   [x] **Michelle Lawrence Visit & Shot List:** Refined shot list and completed her visit (real-time stories posted successfully).
-*   [ ] **Michelle Lawrence Wednesday Post Campaign:**
-    *   [x] **Content Preview:** Reviewed her proposed carousel media and copy. Copy is really good, and media is amazing. Identified must-have and favorite media for Tony and Addison.
-    *   [x] **Go Live (Wednesday/Thursday):** Media selections and copy tweaks (swapping list items #2 & #4, adding dog-friendly info) approved by Addison and Tony. Agreed on a Collab Post. Sent UTM tracking link (https://bit.ly/3SAb5eZ) to Michelle for her bio link. Post is expected to go live today.
-    *   [ ] **Instagram Native Boost (Ad Code Received):** Boost the Collab Post directly using Michelle's partnership ad code (`adcode-Q9jTBBX3MltygKh25ZgBuxJxXEeyUtItDbqs77jKHndCBSE_3X9hmtWVpGaUrueZGBU`) from Meta Ads Manager once organic traffic peters out (1-2 days).
+*   [x] **Michelle Lawrence Campaign (Main Posts & Boost):** Organic carousel and paid boost completed successfully.
+    *   [ ] **Follow up on Promised Reel:** Addison to pay outstanding invoice and nudge Michelle about the promised Reel.
 *   [ ] **Press Release (Wire) Strategy:**
     *   [ ] **PR Newswire Account Verification:** Wait for incoming verification call from PR Newswire representative (expected week of June 22) to finalize setup.
     *   [ ] **Draft Press Release Copy:** Draft official launch press release focusing on the summer opening, Scandinavian design aesthetics, and eco-friendly camp concept.
@@ -44,7 +41,7 @@ Use this document to track assignments, to-dos, hygiene, and projects.
         *   [ ] **Retargeting Conversion Campaign:** Launch a conversion campaign optimizing for bookings targeting homepage visitors.
     *   [x] **Clip Library:** Sourced wide-format video clips from Peter Logue (beautiful clips, but wide framing makes ad reformatting a challenge; great for adding website motion).
     *   [ ] **Video Edit / Recap:** Wait for John (Peter's partner) to create a ~1-minute recap/ad video (delayed a few weeks due to travel).
-*   [/] **Centralized Analytics Dashboard:** Build an analytics dashboard integrating GA4, UTM links, GTM, Meta Pixel, Meta Ads campaigns, Mews, Airbnb, and Booking.com to track bookings, ad attribution, and compare spend vs. revenue. (Cloud setup in progress; do not pull local code changes for now).
+*   [/] **Centralized Analytics Dashboard:** Build an analytics dashboard integrating GA4, UTM links, GTM, Meta Pixel, Meta Ads campaigns, Mews, Airbnb, and Booking.com. (High priority: team is enthusiastic, Ben scheduling time to build).
 
 ### 🧼 Hygiene & Setup
 *   [x] **Dropbox Folder Access:** Accessed `"Photos + Videos_Working"` Dropbox folder.
@@ -63,6 +60,7 @@ Use this document to track assignments, to-dos, hygiene, and projects.
     *   [x] **Create Lantern Camp Ad Account (High Priority):** Spin up an ad account associated with Lantern Camp (ID: 1585226713251054).
     *   [x] **Install Meta Pixel:** Installed Base Meta Pixel (ID: 2012732439334242) and integrated custom Purchase events via GTM on Mews Booking Engine.
     *   [x] **Select AI Ad Platform (MCP vs. Ryze):** Selected Meta's native MCP (Advantage+) to run the ad account. (Confirmed working fine; not using Ryze).
+*   [ ] **Google Ads Account:** Addison to create the Google Ads account so we can transition to strategy.
 
 ---
 
@@ -75,7 +73,8 @@ All technical architecture, infrastructure settings, tags, triggers, and unresol
     *   [x] **Locate and cancel test reservations:** Cancelled all 5 test reservations (#17, #18, #19, #22, plus the fifth) in the Mews operations portal to restore cabin inventory. (Used refundable option; fully refunded).
     *   [ ] Fix system configuration typo: Change `item_category3` layout attribute from "Orlando, FL" to "Orland, Maine".
     *   [ ] (Optional) Remove duplicate unused pixels in the Meta account.
-*   [/] **Mews Booking Notifications:** Resolve issue where booking notifications are silent. Addison connected Ben with MEWS account manager (William) on June 16. Ben followed up, and followed up again on June 22, and Addison also bumped the thread; still waiting for a response. Goal: troubleshooting silent email notifications, exploring Zapier integrations, and getting API/backend access to make changes to MEWS.
+*   [/] **Mews Booking Notifications:** Resolve issue where booking notifications are silent. William (MEWS) responded and is checking login permissions for `addison@lanterncamp.com` and `bswardlick@gmail.com`.
+    *   [ ] **Daily Booking Hygiene:** Manually check Mews and Airbnb daily for new bookings to ensure guest outreach isn't missed while notifications are broken.
 *   [x] **Fix Meta Purchase Value & Currency:** Resolved GTM mapping issue. Replaced the Meta Pixel Purchase tag with a Custom HTML tag that scrapes the Mews dataLayer directly at runtime. Verified USD currency and purchase values are passing correctly via Facebook Pixel Helper.
 *   [ ] **Live Guest Checkout Audit & Tracking Verification:**
     *   [ ] Monitor the Ads Manager Results column on the first real booking post-launch. Confirm it increments by 1 Purchase (verifying value-less Purchase conversion counting).
@@ -92,7 +91,7 @@ All technical architecture, infrastructure settings, tags, triggers, and unresol
     *   [ ] Plan delegation of tasks (like outreach list processing).
 
 ### 🚀 Projects & Strategy
-*   [/] **PR Strategy & Decision (Evaluating new paths):** After deciding not to proceed with Upspring on June 19, the current focus is on evaluating the in-house proposal (Ben at $4,000/month, month-to-month, leveraging Addison/Ann/David Swardlick/Debra Spark contacts), Carla Tracy learning call, and Press for Success.
+*   [/] **PR Strategy & Decision:** Upspring is back under evaluation (offered 3-month min at $19,500 total). Paused final decision until after Carla Tracy call on June 24 (which Addison is joining).
     *   [x] **Internal Alignment Meeting:** Completed June 19. Decided to pause/cancel Upspring.
     *   [x] **Call with Nancy Marshall (Marshall PR):** Completed June 19. Nancy advised that Upspring is a bad idea and recommended finding someone who understands Maine and Maine hospitality. She is connecting us with Carla Tracy.
     *   [/] **Evaluate Carla Tracy:** Connected. Scheduled learning call for Wednesday, June 24, 2026 @ 1:00 PM EDT (10:00 AM PDT) to learn and ask about lump-sum prestigious article sourcing.
@@ -117,4 +116,5 @@ All technical architecture, infrastructure settings, tags, triggers, and unresol
 ### 🚀 Projects & Strategy
 *   [ ] **Launch Marketing Campaign:** Plan and execute the launch marketing campaign with the $50-75k budget.
 *   [ ] **Community Relationship Tracking:** Maintain and expand the LC Community Relationships database.
-*   [ ] **Website Redesign (Homepage):** Long-term project to redesign the homepage. Chipping away at it in free time; currently mapping out initial ideas (not sharing with the team yet).
+*   [ ] **Website Redesign (Homepage):** Long-term project to redesign the homepage.
+    *   [ ] **Competitor Research:** Research competitor websites. Addison shared French landscape hotel site **[48° Nord](https://hotel48nord.com/)** as an example of a strong landing page.
