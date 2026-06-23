@@ -15,7 +15,7 @@ Use this document to track assignments, to-dos, hygiene, and projects.
 *   [x] **Contract Signature:** Addison and Tony signed; contract is finalized.
 *   [x] **Invoice Payment:** June retainer invoice paid (received today).
 *   [x] **PR Outreach & Evaluation:** Track and evaluate agencies in [pr-agency-evaluation.md](#/docs/pr-agency-evaluation) (completed initial calls and received all final pricing/capacity updates).
-*   [/] **Tides and Pines Call:** Scheduled for Tuesday, June 23, 2026 @ 11:30 AM EDT. (Booking partnership: vacation rental aggregator specializing in white glove experiences).
+*   [/] **Tides to Pines Call:** Scheduled for Tuesday, June 23, 2026 @ 11:30 AM EDT. (Booking partnership: vacation rental aggregator specializing in white glove experiences).
 *   [/] **Carla Tracy Call:** Scheduled for Wednesday, June 24, 2026 @ 1:00 PM EDT (10:00 AM PDT) for learning/lump-sum article query.
 *   [ ] **Press for Success Review:** Evaluate PR coaching platform ($80/mo) for running PR ourselves.
 *   [x] **Upspring Team Call:** Follow-up call completed. Tony is ready to move forward; Addison is investigating further with reservations around how closely aligned the PR agency needs to be with our rustic glamping concept.
