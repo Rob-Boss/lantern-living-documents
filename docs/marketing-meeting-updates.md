@@ -6,9 +6,9 @@ A compiled list of status updates, active campaigns, scheduled calls, and recent
 
 ## ⚡ Today's Top Priority Events (Time-Sensitive)
 
-### 📞 Tides and Pines Call — TODAY @ 11:30 AM EDT
+### 📞 Tides to Pines Call — TODAY @ 11:30 AM EDT
 *   **Status**: Confirmed call scheduled for today with Paige (`paige@tidestopines.com`).
-*   **Details**: Tides and Pines is a vacation rental aggregator specializing in white-glove guest experiences. They recently acquired 500 Vacasa properties in the area. This is a 30-minute exploratory/introductory call.
+*   **Details**: Tides to Pines is a vacation rental aggregator specializing in white-glove guest experiences. They recently acquired 500 Vacasa properties in the area. This is a 30-minute exploratory/introductory call.
 
 ### ⚖️ Upspring PR Decision Deadline — Decision Needed in 24–48 Hours
 *   **Negotiated Offer**: Tiffany Rafii offered to reduce their commitment minimum from **4 months to 3 months** at the same monthly rate (making the total investment **$19,500**).
