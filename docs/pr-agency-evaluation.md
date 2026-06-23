@@ -14,7 +14,7 @@ This document tracks outreach, pricing, terms, and impressions for potential PR 
 | **[Agency PR](https://agencypr.co)** | N/A (No capacity) | N/A | N/A | Saratoga/Boise-based. Declined to propose due to capacity constraints. |
 | **[Upspring](https://www.upspringpr.com)** | $6,500/mo ($26,000 total) | 4 Months | Travel expenses only | ❌ **Decided not to move forward.** Internal alignment meeting on June 19 confirmed concerns around brand alignment and value. Decided to pause/cancel. |
 | **[Kubany PR](https://kubany.co)** | $8,000/mo ($24,000 total) | 3 Months (Flexible project) | Travel expenses only | Out. Not re-engaging due to family situation. |
-| **Marshall PR** (Nancy) | N/A | N/A | N/A | Inbound. Call completed June 19. Nancy advised against Upspring (not aligned/doesn't understand Maine hospitality). Connected us with Carla Tracy and recommended checking out Tides and Pines and Press for Success. |
+| **Marshall PR** (Nancy) | N/A | N/A | N/A | Inbound. Call completed June 19. Nancy advised against Upspring (not aligned/doesn't understand Maine hospitality). Connected us with Carla Tracy and recommended checking out Tides to Pines and Press for Success. |
 | **Carla Tracy** (Solo Publicist) | N/A (No new clients) | N/A | N/A | Portland, ME-based solo publicist. Connected; not taking new clients, but scheduled learning call for Wednesday, June 24, 2026 @ 1:00 PM EDT to learn/ask about one-off prestigious article sourcing. |
 | **In-House PR (Ben)** | $4,000 / mo (additional) | No minimum term | N/A | Under consideration (Proposed / presentation made). Ben to run PR directly, leveraging Addison's contacts, and Debra Spark's intros. Month-to-month trial; pivot/revert if unhappy after 1st month. |
 | **[Press for Success](https://www.pressforsuccess.com)** | ~$80/mo | Month-to-month | None | DIY PR coaching, classes, and community. Cost-effective option if running PR ourselves; looks interesting. |
@@ -156,7 +156,7 @@ This document tracks outreach, pricing, terms, and impressions for potential PR 
     * Bangor TV stations: Pitch opening/launch angles.
     * Pay-to-play: Mentioned some firms can work on a pay-to-play model.
   * **Targeting/Personas:** Recommended building a "Marshall plan" with 4–5 personas (e.g., *"This is Susie, 34, from MA—this is what they're looking for"*). Stressed defining what is there for a family (referencing *Papoose Pond* campground for child-friendly inspiration).
-  * **Local Integration / Partnerships:** Connected to **Tides and Pines** (vacation rentals aggregator specializing in white glove experiences, stocking food/beverage, organizing drivers). Proposed a phone call, waiting to hear back. (Nancy noted they just took over 500 Vacasa properties).
+  * **Local Integration / Partnerships:** Connected to **Tides to Pines** (vacation rentals aggregator specializing in white glove experiences, stocking food/beverage, organizing drivers). Proposed a phone call, waiting to hear back. (Nancy noted they just took over 500 Vacasa properties).
   * **In-House Option:** Mentioned that relying on Addison's connections "depends" on the specifics.
 * **Next Steps:** Connected with Carla Tracy (not taking new clients, but scheduling a learning call) and Press for Success (coaching platform).
 
