@@ -3,6 +3,7 @@
 
 * **Launch Strategy**
   * [Workspace Tracker](docs/lantern-camp-tracker.md)
+  * [Airbnb Tracker & Strategy](docs/airbnb-tracker-and-strategy.md)
   * [Marketing Meeting Updates (June 23)](docs/marketing-meeting-updates.md)
   * [PR Agency Evaluation](docs/pr-agency-evaluation.md)
   * [PR Outreach & Strategy](docs/pr-outreach-strategy.md)
