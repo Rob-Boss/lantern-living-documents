@@ -56,7 +56,7 @@ This document tracks outreach, pricing, terms, and impressions for potential PR 
 ---
 
 ### 3. Carla Tracy (Solo Publicist)
-* **Status:** Call completed June 24. Outstanding vibe fit, highlighted by her deep understanding of Maine's hospitality, glamping, and resort space. Addison built great local rapport noting that he lives in Rockport and plays tennis with Will Tims and Brett Haynie (owners of The Norumbega in Camden). Under consideration for a summer consulting/advisory role, ramping up to full PR representation in the Fall (September debut).
+* **Status:** Call completed June 24. Outstanding vibe fit, highlighted by her deep understanding of Maine's hospitality, glamping, and resort space. Under consideration for a summer consulting/advisory role, ramping up to full PR representation in the Fall (September debut).
 * **Location:** Portland, ME.
 * **Financials:** Open to a summer consulting/advisory arrangement, potentially transitioning to a full retainer in the Fall (works on a sliding scale with the option to make it up on the back end).
 * **Client List & Experience:**
@@ -69,7 +69,7 @@ This document tracks outreach, pricing, terms, and impressions for potential PR 
   * **Influencers & Digital Reach:** Recommends a "summer of influencers" since online/video content lasts forever. She explicitly recommended hosting **Vanessa Santarelli** (founder of *Your Maine Concierge* and co-host of *Maine Life TV*) first—she offers honest feedback, has a large Maine following, and does posts in exchange for stays (flat fee, no commission).
   * **Guest Experience & Messaging:** Stressed that immediate, automated texting on-site is crucial to make guests feel cared for and attended to even when staff are not physically present.
   * **Fall Debut / Maine Media Marketplace:** Pitching a fall launch window. September hosts the *Maine Media Marketplace* (organized by Visit Maine), which is the perfect venue for a formal debut to pitch publications for fall foliage and the 2027 season (when the State of Maine turns 207).
-* **Our Take:** Highly engaged, interest is high, and she is conflict-free. While she cannot hit the ground running for full execution today (frees up in September), a consulting arrangement for the summer followed by full PR representation starting in the fall is an excellent option, provided we have in-house bandwidth (e.g., Ben) to manage the day-to-day summer legwork.
+* **My Take:** Highly engaged, interest is high, and she is conflict-free. While she cannot hit the ground running for full execution today (frees up in September), a consulting arrangement for the summer followed by full PR representation starting in the fall is an excellent option, provided we have in-house bandwidth (e.g., Ben) to manage the day-to-day summer legwork.
 
 ---
 
