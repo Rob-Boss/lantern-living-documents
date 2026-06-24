@@ -1,5 +1,7 @@
 # Lantern Camp — Meta Ads & GTM Integration Data Sheet
 
+**Last edited:** 2026-06-24 by Claude
+
 This document tracks configuration, technical architecture, and verification steps for the Meta Ads and Google Tag Manager (GTM) tracking pipeline on the Lantern Camp website and Mews booking engine.
 
 ---
@@ -74,16 +76,29 @@ This document tracks configuration, technical architecture, and verification ste
 
 ## 3. Campaign Configuration & Launch Status
 
-> **Account status as of June 19, 2026: ACTIVE. Billing resolved. Both active campaigns running.**
+> **Account status as of June 24, 2026: ACTIVE. Billing resolved. One active traffic campaign (Drive Market).**
 
 ### Campaign 1: HOMEPAGE traffic - static single image
-*   **Status:** ACTIVE — $50/day budget (updated June 19)
+*   **Status:** PAUSED (June 21) — replaced by Campaign 1b (Drive Market) below
 *   **Objective:** Traffic / Landing Page Views
 *   **Creative:** Single static image (Field Cabin 1 photo)
 *   **Destination:** lanterncamp.com homepage
 *   **UTM Link:** `http://www.lanterncamp.com?utm_source=instagram&utm_medium=ad&utm_campaign=single+static&utm_id=homepage+single+static+1`
 *   **GA4 attribution:** shows as `instagram / ad`
-*   **Performance (lifetime as of June 19):** $63.45 spend, 7,117 impressions, 627 clicks, 360 landing page views at $0.18 CPR
+*   **Performance (lifetime):** $179.56 spend, 19,494 impressions, 1,987 clicks, ~996 landing page views @ $0.18 CPV
+*   **Why paused:** Two problems found in the data. (1) **Geo waste** — ~72% of spend went to Maine *locals* (home market, not drive-market guests). (2) **Creative starvation** — Meta picked one of the two creatives within days and starved the other (~$62 vs ~$1–2 spend), so the second never got a fair test. Also skewed heavily **65+** (53% of spend). Replaced with corrected geo + age targeting in Campaign 1b.
+
+### Campaign 1b: HOMEPAGE traffic - static single image - [Drive Market]
+*   **Status:** ACTIVE (launched June 21), $50/day
+*   **Objective:** Traffic / Landing Page Views
+*   **Creative:** `field cabin 2 - 4:5 - traffic`. **Only ONE ad carried over** from the duplication — the intended second creative did not copy. Campaign was duplicated with a 50/50 creative split planned for the first 7 days; re-add the second creative in Ads Manager if running that A/B test.
+*   **Destination:** lanterncamp.com homepage
+*   **Geo targeting:** MA, CT, NY, NJ, NH, VT, RI, PA, MD, DC, FL + Cumberland County ME (Portland). **York County ME could NOT be added** — Meta rejected it as a targetable region. Workaround if ever needed: add York-area cities individually (Kittery, York, Ogunquit, Wells, Kennebunk, Biddeford, Saco). Decided not worth it — that border area is largely covered by the NH/MA targeting.
+*   **Saved audience:** "Drive States + Cumberland County" — refined June 23 with **age min 25** + interests **Ecotourism, hiking trails, Acadia National Park, Maine, Glamping**. Wanted an age *max* of 54, but **Advantage+ audience only allows a minimum-age floor, not a cap**; a hard 25–54 cap requires switching to original audience options (not done — kept Advantage+ for optimization). Age/interest edits are made in the **saved audience** section, not the ad set editor.
+*   **UTM Link:** `https://www.lanterncamp.com?utm_source=Instagram&utm_medium=feed%2C+static&utm_campaign=drive_market_traffic&utm_id=HOMEPAGE+traffic+-+static+single+image+-+%5BDrive+Market%5D`
+*   **GA4 attribution:** shows as `Instagram / feed, static` — **note the capital I** (case-sensitive in GA4; differs from Campaign 1's lowercase `instagram`).
+*   **Age performance (June 24, ~$134 spend, ~948 LPVs):** 65+ keeps climbing (~27% of spend) but is among the *cheapest* CPV (~$0.13). Without switching off Advantage+ it will keep gravitating older. **Open hypothesis (UNPROVEN — do not build strategy on it):** for a traffic campaign, older viewers may still have value if they share the property with adult kids/grandkids. No data supports this.
+*   **Geo performance (June 24):** Maine down from 72% (old campaign) to ~16% — all Cumberland County, intentional. NY ~22%, MA ~20%, FL ~13%. Targeting fix is working.
 
 ### Campaign 2: Michelle Lawrence Partner Conversion (Sales)
 *   **Status:** PAUSED (turned off June 19 — 0 attributed purchases, not viable until conversion data proves out)
@@ -122,6 +137,33 @@ This document tracks configuration, technical architecture, and verification ste
 > *   **Fix:** Replaced the Meta Pixel - Purchase tag with a **Custom HTML tag** that scrapes `window.dataLayer` directly at runtime (iterating backwards through the array to find `ecommerce.value`, `ecommerce.currency`, and `reservationOwnerEmail`), then calls `fbq('track', 'Purchase', {value, currency})` and passes email to `fbq('init')` for Advanced Matching.
 > *   **Verified:** Facebook Pixel Helper confirmed Purchase event with `currency: USD` and `value: 229` on the Mews confirmation page. ✅
 
+> [!NOTE]
+> ### Finding: Purchase tracking — where to look (June 24, 2026)
+> The pixel **is** recording Purchase events. The confusion came from querying the wrong scope:
+> *   **Campaign-attribution field** (`actions:omni_purchase` at campaign level) returns **"Not available"** for our traffic campaign. This is expected — a *traffic* objective isn't optimized for conversions and won't be credited purchases. It is NOT evidence that no purchases happened.
+> *   **Raw dataset event log** (Events Manager → dataset, or MCP `ads_get_dataset_stats` with `aggregation: event`) shows the **actual Purchase events** the pixel fired, from any visitor, regardless of ad attribution. This is the source of truth for "did the pixel fire."
+> *   So far, the Purchase events in the log are all **test bookings** (clustered, ~12 total — see Phase 1 cleanup), not real guests.
+
+> [!NOTE]
+> ### Finding: Reporting timezone is Pacific, not Eastern (June 24, 2026)
+> The pixel/ad-account reporting clock is **Pacific (-0700)**, while the property and bookings are **Eastern**. A late-night Maine booking lands on the *previous calendar day* in Meta's views. Example: a Mews booking created **1:21 AM EDT June 19** appears under **June 18** in Events Manager (10:21 PM PDT). This explains an earlier "missing" purchase that was actually present, just filed a day earlier. **Not changed** — decided not worth adjusting for now; just be aware when matching Mews dates to Meta dates.
+
+> [!WARNING]
+> ### Finding: Event deduplication at 66% — server events from an unconfirmed source (June 24, 2026)
+> Events Manager shows **Total event coverage 66%** (Meta recommends 75%+). The dataset is receiving both **browser events (~433/7d)** and **server events (~498/7d)**, but they aren't consistently sharing an Event ID, so Meta can't cleanly dedupe them.
+> *   **Browser events:** the GTM Custom HTML pixel tag (expected).
+> *   **Server events — source UNCONFIRMED.** Leading hypothesis: **Squarespace's native Meta integration** (Marketing → Meta Pixel & Ads), which sends server-side/CAPI events on its own. It is **NOT Mews** — per [Mews docs](https://docs.mews.com/booking-engine-guide/integrations/google-tag-manager), Mews only integrates via GTM (browser-side), with no native Meta CAPI.
+> *   **Important implication:** if the server feed is Squarespace, it covers **lanterncamp.com only — not app.mews.com**. So a *Purchase* on the Mews confirmation page has **no server-side backup**; it relies entirely on the browser tag firing. If that tag is blocked (e.g. in-app browser), the purchase is lost with no fallback.
+> *   **To confirm:** check Squarespace → Marketing → Meta Pixel & Ads (is it toggled on?), and inspect whether the dataset's server PageViews originate from lanterncamp.com.
+
+> [!NOTE]
+> ### Finding: Traffic campaigns cannot attribute purchases here (June 24, 2026)
+> We cannot tie a booking back to the traffic ad — not even view-through ("was this buyer shown the ad") — and cannot reverse-engineer it manually. Why:
+> *   The traffic ad lands on **lanterncamp.com**; the booking happens on **app.mews.com** (different domain). The click identifier (`fbclid`/`fbc` cookie) is domain-specific and does **not** survive the hop, so click-through matching is broken before checkout.
+> *   The only bridge that survives is the **hashed email** (Advanced Matching) we send on the Purchase event — Meta can match the buyer to an ad exposure that way, but a traffic objective barely populates this and it's unreliable.
+> *   Meta never exposes individual-level "email X saw ad Y," so there's nothing to cross-reference manually.
+> *   **Takeaway:** to actually prove ad→booking attribution, run a **Purchase-optimized conversion campaign** (Meta builds and reports the linkage natively). The traffic campaign will never yield it, no matter how the data is sliced.
+
 > [!WARNING]
 > ### Issue 2: Value-less Purchase Conversion Counting Unverified
 > *   **Problem:** Whether Meta registers a value-less Purchase event as a countable conversion has not yet been confirmed (Test Events check was deferred).
@@ -144,7 +186,7 @@ This document tracks configuration, technical architecture, and verification ste
 ## 6. Immediate Verification & Cleanup Roadmap
 
 ### Phase 1: Mews Backend Housekeeping & Cleanup
-*   [x] **Inventory Release:** Cancelled all 5 test reservation confirmation numbers (#17, #18, #19, #22, plus the fifth) inside the Mews operations portal to restore cabin inventory availability. (Refunded fully; no fees).
+*   [x] **Inventory Release:** Cancelled **all test reservations (~12 total, across two clusters made days apart** — an initial ~5 including #17/#18/#19/#22, then a second wave of ~7) inside the Mews operations portal to restore cabin inventory. (Refunded fully; no fees.) *Note:* these test bookings are the source of the clustered Purchase events visible in the pixel dataset log (see Section 5, "Purchase tracking — where to look") — they are NOT real guest revenue.
 *   [ ] **Correct System Typo:** Navigate to the Mews Property Configuration settings. Locate the `item_category3` text attribute and change the entry from `"Orlando, FL"` to `"Orland, Maine"` to prevent skewed regional dimensions in upstream Google Analytics data arrays.
 *   [ ] **(Optional) Remove Duplicate Pixels:** Remove duplicate unused pixels in the Meta account (another "Lantern Camp Pixel" ID `1312404570473413` and two "Ben's Pixel" instances).
 
@@ -279,15 +321,15 @@ Add ROAS scorecard to Panel 2 in the Looker Studio dashboard now that value/curr
 
 ### 🔴 Blockers & Post-Billing To-Dos
 
-> **STATUS:** Account suspended again on June 17. Addison paid the outstanding balance, but the bank is blocking the payments (likely fraud flag). Ads are offline. Ben advised Addison to switch payment method to PayPal or contact his bank.
+> **STATUS:** ✅ Billing resolved. Account ACTIVE as of June 24. Drive Market traffic campaign running live at $50/day.
 
-- [ ] **Fix Meta billing & suspension** — Addison needs to switch to PayPal or call his bank to unblock payments.
-- [ ] **Refresh Panel 2 data via MCP** — Once billing is resolved, pull live campaign metrics via Meta MCP and overwrite the manual stub data in the Meta Performance tab of `Lantern Camp Dashboard Data` Google Sheet.
+- [x] **Fix Meta billing & suspension** — Resolved.
+- [ ] **Refresh Panel 2 data via MCP** — Pull live campaign metrics via Meta MCP and overwrite the manual stub data in the Meta Performance tab of `Lantern Camp Dashboard Data` Google Sheet. Now unblocked.
 - [ ] **Add Campaign Type column to Panel 2** — Column exists in the local Excel file but Looker Studio isn't reflecting it yet. After MCP refresh, confirm `Campaign Type` (Traffic / Sales) appears as a dimension in the table.
 - [ ] **Rename Conversions → Results in Looker Studio** — The metric label in the Panel 2 table should read "Results" not "Conversions" to avoid confusion with actual purchases. Update after sheet refresh.
 - [ ] **Resume campaign delivery** — Confirm campaigns re-activate automatically once account is unsuspended; if not, manually unpause in Ads Manager.
 
-*Last updated: June 19, 2026*
+*Last updated: June 24, 2026*
 
 ---
 
