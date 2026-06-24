@@ -115,9 +115,9 @@ This document tracks outreach, pricing, terms, and impressions for potential PR 
   * AutoCamp (specifically worked on this; designed by M-Rad)
   * "Three Ducks" (recent property; launched for co-founders who left a different hotel group to start something goal-oriented from scratch with no prior brand name or media footprint)
 * **References Contacted (June 23):**
-  * **Three Ducks** (Lizzie Bakhash-Izbicki): `516-849-9073` / `lizzy.bakhash@gmail.com` (Lizzie responded; scheduled call for tomorrow, Wednesday, June 24 @ 9:30 AM EDT).
-  * **The Bradley Projects** (Jared Bradley): `619-319-2242` / `j@thebdg.com` (Jared responded; call planned for tomorrow, Wednesday, June 24, anytime after 10:00 AM CDT / 11:00 AM EDT).
-* **Our Take:** ⚠️ Currently re-evaluating their proposal ($19.5k for 3 months). We are checking with their references to evaluate their service quality and launch effectiveness, and will make a final decision after speaking with Carla Tracy tomorrow.
+  * **Three Ducks** (Lizzie Bakhash-Izbicki): `516-849-9073` / `lizzy.bakhash@gmail.com` (Lizzie responded; scheduled call for Wednesday, June 24 @ 9:30 AM EDT).
+  * **The Bradley Projects** (Jared Bradley): `619-319-2242` / `j@thebdg.com` (Call completed June 24. Jared gave a glowing endorsement: 5+ years client, creative/progressive, excellent graphic design, pitch deck writing, and biography/submission packaging. Notes: "knock it out of the park... publications across the board... interviews all the time... creative and progressive... art department is great... strong research team... pay for one-off projects").
+* **Our Take:** ⚠️ Currently re-evaluating their proposal ($19.5k for 3 months). Jared's endorsement highlights their high-end creative and corporate agency capabilities (pitch decks, FAIA submissions, website, branding) rather than consumer/hospitality-specific launch media relations. A final decision is paused pending the Carla Tracy call today @ 1:00 PM EDT.
 
 ---
 
