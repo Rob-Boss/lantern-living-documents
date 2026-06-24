@@ -116,7 +116,7 @@ This document tracks outreach, pricing, terms, and impressions for potential PR 
   * "Three Ducks" (recent property; launched for co-founders who left a different hotel group to start something goal-oriented from scratch with no prior brand name or media footprint)
 * **References Contacted (June 23):**
   * **Three Ducks** (Lizzie Bakhash-Izbicki): `516-849-9073` / `lizzy.bakhash@gmail.com` (Lizzie responded; scheduled call for tomorrow, Wednesday, June 24 @ 9:30 AM EDT).
-  * **The Bradley Projects** (Jared Bradley): `619-319-2242` / `j@thebdg.com` (Addison sent a text inquiry on June 23; awaiting response).
+  * **The Bradley Projects** (Jared Bradley): `619-319-2242` / `j@thebdg.com` (Jared responded; call planned for tomorrow, Wednesday, June 24, anytime after 10:00 AM CDT / 11:00 AM EDT).
 * **Our Take:** ⚠️ Currently re-evaluating their proposal ($19.5k for 3 months). We are checking with their references to evaluate their service quality and launch effectiveness, and will make a final decision after speaking with Carla Tracy tomorrow.
 
 ---
