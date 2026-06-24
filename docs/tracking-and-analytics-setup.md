@@ -20,6 +20,14 @@ This document tracks configuration, technical architecture, and verification ste
     *   Two `"Ben's Pixel"` instances
     *   *Note:* These are not in use; cleanup is optional.
 
+### Google Ads & Assets
+*   **Ad Account:** `"Lantern Camp"` — ID: `932-585-7656` (Full control)
+*   **Conversion Action:** `"Mews Purchase"` (Website conversion action for booking checkout)
+*   **Conversion ID:** `18268127910`
+*   **Conversion Label:** `N3p7CPXn58QCeKaF9oZE`
+*   **Enhanced Conversions:** Configured via GTM User-Provided Data
+*   **Developer Token:** `FFMKBX7IZyJ1sexxJJPUxw` (Basic Access, Swardy Manager)
+
 ### Funding & Daily Guardrails
 | Metric | Detail |
 | :--- | :--- |
@@ -71,6 +79,24 @@ This document tracks configuration, technical architecture, and verification ste
     *   *Event:* Standard Page View
     *   *Trigger:* All Pages / Page View
     *   *Note:* Added during troubleshooting; this tag is what successfully loads the pixel base code on the Mews domain (`app.mews.com`).
+*   **Tag 3: Google Ads - Purchase Conversion**
+    *   *Type:* Google Ads Conversion Tracking
+    *   *Trigger:* Custom Event → `Mews Purchase`
+    *   *Settings:*
+        *   **Conversion ID:** `18268127910`
+        *   **Conversion Label:** `N3p7CPXn58QCeKaF9oZE`
+        *   **Conversion Value:** `{{DLV - Booking Value}}`
+        *   **Currency Code:** `{{DLV - Currency}}`
+        *   **Transaction ID:** `{{DLV - Transaction ID}}`
+        *   **Provide User-Provided Data:** Checked → select `{{User-Provided Data}}` (Variable 1)
+*   **Tag 4: Google tag - Google Ads (Base Config)**
+    *   *Type:* Google tag
+    *   *Tag ID:* `AW-18268127910`
+    *   *Trigger:* Initialization - All Pages
+*   **Tag 5: Conversion Linker**
+    *   *Type:* Conversion Linker
+    *   *Trigger:* All Pages
+    *   *Settings:* Enable linking across domains (defaults to true)
 
 ---
 
