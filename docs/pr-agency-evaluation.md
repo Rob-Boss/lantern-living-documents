@@ -8,8 +8,8 @@ This document tracks outreach, pricing, terms, and impressions for potential PR 
 
 | Agency | Min. Budget / Month | Min. Term | Estimated Travel / Admin | Key Focus / Vibe |
 | :--- | :--- | :--- | :--- | :--- |
-| **In-House PR (Ben)** | $4,000 / mo (additional) | No minimum term | N/A | **Under consideration.** Ben to run PR directly, leveraging Addison's contacts, and Debra Spark's intros. Month-to-month trial; pivot/revert if unhappy after 1st month. |
-| **[Upspring](https://www.upspringpr.com)** | $6,500/mo ($19,500 total) | 3 Months | Travel expenses only | **Under evaluation.** Offered 3-month min at $19,500 total. Reference checks completed (Jared & Lizzie gave glowing reviews). Decision paused pending Carla Tracy call (June 24). |
+| **In-House PR (Ben)** | $4,000 / mo (additional) | No minimum term | N/A | **Under consideration.** Ben to run PR directly, leveraging Addison's contacts and Debra Spark's intros. Ben offered to lower his rate by whatever Carla Tracy's consulting fee costs. Month-to-month trial; pivot/revert if unhappy after 1st month. |
+| **[Upspring](https://www.upspringpr.com)** | $6,500/mo ($19,500 total) | 3 Months | Travel expenses only | **Decision Pending.** Team decided to either approve UpSpring tomorrow morning (June 25) OR go with Carla Tracy consulting if she responds with rates in time. |
 | **Carla Tracy** (Solo Publicist) | TBD (Consulting/Retainer) | TBD | Travel expenses only | **Under consideration.** Excellent design/vibe fit. Completed call June 24. No conflict. Open to summer consulting, ramping to full PR in the Fall (September debut). |
 | **[Press for Success](https://www.pressforsuccess.com)** | ~$80/mo | Month-to-month | None | **Under consideration.** DIY PR coaching, classes, and community. Cost-effective option if running PR ourselves. |
 | **[Cinch PR](https://www.cinchpr.com)** | $6,500/mo ($26,000 total) | 4 Months | ~$200/mo admin + $2.5k–5k travel | **Active backup.** Responsive, project-based, regional focus. Lowered fee to stay competitive. |
@@ -25,7 +25,7 @@ This document tracks outreach, pricing, terms, and impressions for potential PR 
 
 ### 1. In-House PR (Ben)
 * **Status:** Under consideration (Proposed / presentation made to Addison & Tony).
-* **Financials:** $4,000 / month (additional to existing fee). No minimum term (month-to-month trial; if unhappy after the first month, the team will pivot or revert).
+* **Financials:** $4,000 / month (additional to existing fee). Ben offered to lower his rate by whatever Carla Tracy's consulting fee costs. No minimum term (month-to-month trial; if unhappy after the first month, the team will pivot or revert).
 * **Strategy:** Ben runs the PR sprint directly, leveraging Addison's contacts, getting introductions/support from Debra Spark, and leveraging strategy and contacts from Ann and David Swardlick.
 * **Staffing Implications:** Ben will delegate secondary priorities (such as directory listings and outreach spreadsheet processing) to assistant Lucy Larson to free up capacity.
 
@@ -34,7 +34,7 @@ This document tracks outreach, pricing, terms, and impressions for potential PR 
 ### 2. [Upspring](https://www.upspringpr.com)
 * **Date of Call:** June 5, 2026
 * **Second Meeting:** June 16, 2026 (Met with Delaney and Catherine, who will lead our account. Vibe was good and we feel in tune with their direction. They are expected to deliver strong quantity; quality remains to be seen. They shared some solid ideas; meeting notes will be copied here shortly.)
-* **Status Update (June 23, 2026):** Back under evaluation. Upspring offered to reduce their monthly minimum from 4 months to 3 months ($19,500 total investment). A final decision is needed within 24-48 hours (by June 25) and is paused pending the Carla Tracy call tomorrow and feedback from their references.
+* **Status Update (June 24, 2026):** Team decision pending. We either tell UpSpring it's a go tomorrow morning (June 25), or we hear back from Carla Tracy with consulting rates and run it in-house with her supporting. UpSpring has a 48-hour deadline from their last call with Addison.
 * **Financials:**
   * **Pricing:** $6,500 / month.
   * **Term:** 3-month minimum ($19,500 total).
@@ -51,12 +51,12 @@ This document tracks outreach, pricing, terms, and impressions for potential PR 
 * **References Contacted (June 23):**
   * **Three Ducks** (Lizzie Bakhash-Izbicki): `516-849-9073` / `lizzy.bakhash@gmail.com` (Call completed June 24. Highly enthusiastic "1000% no-brainer" endorsement. Launched a 12-room boutique property 1 year ago; brought them on 5 months before launch. Placed in 80 publications, including NYT, Goop, and major hotel/travel mags. Once the big ones hit, coverage fed itself. Worked with Kacie and Kathryn. Lizzie noted they are branding-picky but the team was patient and adapted to their writing style (rewrote the first PR, smooth after). Very strict on managing exclusives. Didn't have photography until weeks before launch. Leaned on the long-term design story rather than "motel makeover". No influencers; hosted press visits for Travel & Leisure and Condé Nast. Engagement ended 6-7 months ago as they shifted PR budget to marketing/on-site activations. *Note:* Lizzie doesn't recall the exact timeline details but advised that we need to ramp up quick and get our press release out. She feels PR is crucial for launch, but since they had a 5-month runway, she couldn't speak to a 1-week-out sprint launch. *Future Location Collaboration:* Upon hearing that Lantern Camp has ambitions for a future location in the Adirondacks, Lizzie offhandedly suggested reaching out if we want to team up or do it together).
   * **The Bradley Projects** (Jared Bradley): `619-319-2242` / `j@thebdg.com` (Call completed June 24. Jared gave a glowing endorsement: 5+ years client, creative/progressive, excellent graphic design, pitch deck writing, and biography/submission packaging. Notes: "knock it out of the park... publications across the board... interviews all the time... creative and progressive... art department is great... strong research team... pay for one-off projects").
-* **Our Take:** ⚠️ Currently re-evaluating their proposal ($19.5k for 3 months). Jared's endorsement highlighted high-end corporate/creative design work, but Lizzie's call strongly validated their hospitality-specific launch capabilities (placing a 12-room boutique property in 80 publications, including NYT/Goop). However, Lizzie's launch had a 5-month runway compared to our 1-week timeframe. A final decision is paused pending the Carla Tracy call today @ 1:00 PM EDT.
+* **Our Take:** ⚠️ Decision pending. We will either sign UpSpring's 3-month proposal tomorrow morning (June 25) or run PR in-house with Carla Tracy supporting if she provides consulting rates in time. UpSpring was clear they need an answer within 48 hours of their last call with Addison.
 
 ---
 
 ### 3. Carla Tracy (Solo Publicist)
-* **Status:** Call completed June 24. Outstanding vibe fit, highlighted by her deep understanding of Maine's hospitality, glamping, and resort space. Under consideration for a summer consulting/advisory role, ramping up to full PR representation in the Fall (September debut).
+* **Status:** Call completed June 24. Outstanding vibe fit. Currently waiting on her to share consulting rates. If she gets back to us in time, we plan to run PR in-house with her supporting; otherwise, we will move forward with UpSpring tomorrow morning (June 25).
 * **Location:** Portland, ME.
 * **Financials:** Open to a summer consulting/advisory arrangement, potentially transitioning to a full retainer in the Fall (works on a sliding scale with the option to make it up on the back end).
 * **Client List & Experience:**
@@ -69,7 +69,7 @@ This document tracks outreach, pricing, terms, and impressions for potential PR 
   * **Influencers & Digital Reach:** Recommends a "summer of influencers" since online/video content lasts forever. She explicitly recommended hosting **Vanessa Santarelli** (founder of *Your Maine Concierge* and co-host of *Maine Life TV*) first—she offers honest feedback, has a large Maine following, and does posts in exchange for stays (flat fee, no commission).
   * **Guest Experience & Messaging:** Stressed that immediate, automated texting on-site is crucial to make guests feel cared for and attended to even when staff are not physically present.
   * **Fall Debut / Maine Media Marketplace:** Pitching a fall launch window. September hosts the *Maine Media Marketplace* (organized by Visit Maine), which is the perfect venue for a formal debut to pitch publications for fall foliage and the 2027 season (when the State of Maine turns 207).
-* **My Take:** Highly engaged, interest is high, and she is conflict-free. While she cannot hit the ground running for full execution today (frees up in September), a consulting arrangement for the summer followed by full PR representation starting in the fall is an excellent option, provided we have in-house bandwidth (e.g., Ben) to manage the day-to-day summer legwork.
+* **My Take:** Highly engaged, interest is high, and she is conflict-free. While she cannot hit the ground running for full execution today (frees up in September), a consulting arrangement for the summer followed by full PR representation starting in the fall is our preferred option (provided she sends her rates in time and we have in-house bandwidth like Ben to manage the day-to-day summer legwork); otherwise, we will go with UpSpring.
 
 ---
 
@@ -204,6 +204,6 @@ This document tracks outreach, pricing, terms, and impressions for potential PR 
     * Bangor TV stations: Pitch opening/launch angles.
     * Pay-to-play: Mentioned some firms can work on a pay-to-play model.
   * **Targeting/Personas:** Recommended building a "Marshall plan" with 4–5 personas (e.g., *"This is Susie, 34, from MA—this is what they're looking for"*). Stressed defining what is there for a family (referencing *Papoose Pond* campground for child-friendly inspiration).
-  * **Local Integration / Partnerships:** Connected to **Tides to Pines** (vacation rentals aggregator specializing in white glove experiences, stocking food/beverage, organizing drivers). Proposed a phone call, waiting to hear back. (Nancy noted they just took over 500 Vacasa properties).
+  * **Local Integration / Partnerships:** Connected to **Tides to Pines** (vacation rentals aggregator specializing in white glove experiences, stocking food/beverage, organizing drivers). Phone call completed on June 23, 2026. Follow-up details received: they offer full-service management (25% commission) or a hybrid "Tide's Edge" marketing model (20% commission) (Nancy noted they just took over 500 Vacasa properties).
   * **In-House Option:** Mentioned that relying on Addison's connections "depends" on the specifics.
 * **Next Steps:** Connected with Carla Tracy (not taking new clients, but scheduling a learning call) and Press for Success (coaching platform).
