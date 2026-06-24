@@ -45,7 +45,7 @@ This document tracks and organizes copywriting assets for the Lantern Camp Googl
 ---
 
 ## 2. Ad Group 2: Regional Cabins & Boutique Lodging
-**Target Audience:** Users searching for lodging near Acadia (e.g., "cabins near Acadia", "luxury cabins Maine").
+**Target Audience:** Users searching for lodging near Acadia (e.g., "cabins near Acadia", "boutique cabins Maine").
 **Goal:** Win non-branded search queries by matching their search terms and introducing the premium Lantern Camp experience.
 
 ### Headlines (Choose up to 15)
@@ -56,7 +56,7 @@ This document tracks and organizes copywriting assets for the Lantern Camp Googl
 | `Cabins Near Acadia Nat'l Park` | 30 | Search Term |
 | `Modern Cabins Near Acadia` | 26 | Search Term |
 | `Boutique Cabin Lodging Maine` | 28 | Search Term |
-| `Luxury Cabin Rental Maine` | 25 | Search Term |
+| `Premium Cabin Rental Maine` | 26 | Search Term |
 | `Stay in Mid-Coast Maine` | 24 | Search Term |
 | `This Is Not A Hotel` | 19 | Creative |
 | `Grown-Ups Love Camp, Too` | 24 | Creative |
