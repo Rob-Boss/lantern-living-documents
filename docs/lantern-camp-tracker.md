@@ -92,7 +92,7 @@ All technical architecture, infrastructure settings, tags, triggers, and unresol
     *   [ ] Plan delegation of tasks (like outreach list processing).
 
 ### 🚀 Projects & Strategy
-*   [/] **PR Strategy & Decision:** Upspring is back under evaluation (offered 3-month min at $19,500 total). Paused final decision until after Carla Tracy call on June 24 (which Addison is joining).
+*   [/] **PR Strategy & Decision:** Upspring is back under evaluation (offered 3-month min at $19,500 total). Reference checks completed June 24 (Jared and Lizzie gave glowing reviews). Paused final decision until after Carla Tracy call today @ 1:00 PM EDT (which Addison is joining).
     *   [x] **Internal Alignment Meeting:** Completed June 19. Decided to pause/cancel Upspring.
     *   [x] **Call with Nancy Marshall (Marshall PR):** Completed June 19. Nancy advised that Upspring is a bad idea and recommended finding someone who understands Maine and Maine hospitality. She is connecting us with Carla Tracy.
     *   [/] **Evaluate Carla Tracy:** Connected. Scheduled learning call for Wednesday, June 24, 2026 @ 1:00 PM EDT (10:00 AM PDT) to learn and ask about lump-sum prestigious article sourcing.
