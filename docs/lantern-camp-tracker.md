@@ -17,7 +17,7 @@ Use this document to track assignments, to-dos, hygiene, and projects.
 *   [x] **PR Outreach & Evaluation:** Track and evaluate agencies in [pr-agency-evaluation.md](#/docs/pr-agency-evaluation) (completed initial calls and received all final pricing/capacity updates).
 *   [x] **Tides to Pines Call:** Completed Tuesday, June 23, 2026. Decided to keep property management in-house via MEWS/Airbnb. Full call notes and follow-up strategy documented in [airbnb-tracker-and-strategy.md](#/docs/airbnb-tracker-and-strategy).
 *   [ ] **Airbnb Setup & Listing Strategy:** Coordinate ownership review and execute listing optimizations as detailed in [airbnb-tracker-and-strategy.md](#/docs/airbnb-tracker-and-strategy).
-*   [/] **Carla Tracy Call:** Scheduled for Wednesday, June 24, 2026 @ 1:00 PM EDT (10:00 AM PDT). Addison & Ben joining.
+*   [x] **Carla Tracy Call:** Completed June 24. Outstanding vibe/design fit. She has no client conflict and is open to summer consulting + Fall retainer campaign.
 *   [ ] **Press for Success Review:** Evaluate PR coaching platform ($80/mo) for running PR ourselves.
 *   [x] **Upspring Team Call:** Follow-up call completed. Tony is ready to move forward; Addison is investigating further with reservations around how closely aligned the PR agency needs to be with our rustic glamping concept.
 *   [x] **Michelle Lawrence Campaign (Main Posts & Boost):** Organic carousel and paid boost completed successfully.
@@ -92,10 +92,10 @@ All technical architecture, infrastructure settings, tags, triggers, and unresol
     *   [ ] Plan delegation of tasks (like outreach list processing).
 
 ### 🚀 Projects & Strategy
-*   [/] **PR Strategy & Decision:** Upspring is back under evaluation (offered 3-month min at $19,500 total). Reference checks completed June 24 (Jared and Lizzie gave glowing reviews). Paused final decision until after Carla Tracy call today @ 1:00 PM EDT (which Addison is joining).
+*   [/] **PR Strategy & Decision:** Decision paused for final partner alignment. Reference checks completed (Jared & Lizzie gave glowing reviews). Carla Tracy call completed June 24 (excellent vibe fit, open to summer consulting + Fall ramp-up). Decision is now between Upspring (immediate sprint), In-House PR (Ben), or Carla Tracy.
     *   [x] **Internal Alignment Meeting:** Completed June 19. Decided to pause/cancel Upspring.
     *   [x] **Call with Nancy Marshall (Marshall PR):** Completed June 19. Nancy advised that Upspring is a bad idea and recommended finding someone who understands Maine and Maine hospitality. She is connecting us with Carla Tracy.
-    *   [/] **Evaluate Carla Tracy:** Connected. Scheduled learning call for Wednesday, June 24, 2026 @ 1:00 PM EDT (10:00 AM PDT) to learn and ask about lump-sum prestigious article sourcing.
+    *   [x] **Evaluate Carla Tracy:** Completed call June 24. Vibe fit is outstanding. She has no client conflict and is open to a summer consulting arrangement transitioning to full PR representation in the Fall (September debut).
     *   [ ] **Evaluate Press for Success:** Take a look at Press for Success (PR coaching and community for ~$80/month) for self-run PR coaching.
     *   [ ] **Evaluate In-House PR:** Under review. Assess Ben's in-house sprint proposal ($4,000/month additional, month-to-month trial, no minimum term, leveraging Addison's contacts, Debra Spark's intros, and strategy/contacts from Ann and David Swardlick).
     *   [ ] **Founder Pitch Package (Debra Spark):** Draft founder-perspective pitch materials (story angle, copy, photos) and review with Debra Spark for feedback and warm intros to editors at *Decor Maine*, *Downeast*, and *Maine Home + Design*.
