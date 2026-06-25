@@ -142,7 +142,7 @@ Below is a summary of our direct personal connections and warm publication leads
 | **Midcoast Villager** | Will Bleakely (CEO) | Direct Connection | Local Midcoast Maine exposure. |
 | **New England Monthly** | Danny Okrent | Personal Network / Direct Access | Regional monthly lifestyle perspective. |
 | **Maine Famous** | April | Professional Lead (Tailwind referral) | Former NYC ad agency veteran; authority on Maine business promo. Addison has initiated outreach. |
-| **Carla Tracy** (Solo Publicist) | Carla Tracy | Connected via Nancy Marshall | Not taking clients. Scheduled learning call for Wednesday, June 24, 2026 @ 1:00 PM EDT to learn & ask about lump-sum prestigious article placement. |
+| **Carla Tracy** (Solo Publicist) | Carla Tracy | Selected for Summer Consulting | **Selected**. Approved for summer consulting starting July at $1,000/mo. Expecting a delayed start as she is currently on the road. |
 | **Press for Success** (PR Coaching) | Press for Success Team | Connected via Nancy Marshall | DIY PR classes/community (~$80/mo). Website reviewed; looks interesting. |
 
 ---
