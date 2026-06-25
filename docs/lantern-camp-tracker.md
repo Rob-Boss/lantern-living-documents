@@ -92,13 +92,17 @@ All technical architecture, infrastructure settings, tags, triggers, and unresol
     *   [ ] Plan delegation of tasks (like outreach list processing).
 
 ### 🚀 Projects & Strategy
-*   [/] **PR Strategy & Decision:** Decision paused for final partner alignment. Reference checks completed (Jared & Lizzie gave glowing reviews). Carla Tracy call completed June 24 (excellent vibe fit, open to summer consulting + Fall ramp-up). Decision is now between Upspring (immediate sprint), In-House PR (Ben), or Carla Tracy.
+*   [x] **PR Strategy & Decision:** Completed. Selected In-House PR (Ben, $3,000/mo extra) with Carla Tracy summer consulting support ($1,000/mo). Expecting a delayed start as Carla is currently on the road.
     *   [x] **Internal Alignment Meeting:** Completed June 19. Decided to pause/cancel Upspring.
     *   [x] **Call with Nancy Marshall (Marshall PR):** Completed June 19. Nancy advised that Upspring is a bad idea and recommended finding someone who understands Maine and Maine hospitality. She is connecting us with Carla Tracy.
     *   [x] **Evaluate Carla Tracy:** Completed call June 24. Vibe fit is outstanding. She has no client conflict and is open to a summer consulting arrangement transitioning to full PR representation in the Fall (September debut).
-    *   [ ] **Evaluate Press for Success:** Take a look at Press for Success (PR coaching and community for ~$80/month) for self-run PR coaching.
-    *   [ ] **Evaluate In-House PR:** Under review. Assess Ben's in-house sprint proposal ($4,000/month additional, month-to-month trial, no minimum term, leveraging Addison's contacts, Debra Spark's intros, and strategy/contacts from Ann and David Swardlick).
-    *   [ ] **Founder Pitch Package (Debra Spark):** Draft founder-perspective pitch materials (story angle, copy, photos) and review with Debra Spark for feedback and warm intros to editors at *Decor Maine*, *Downeast*, and *Maine Home + Design*.
+    *   [x] **Evaluate In-House PR:** Completed. Approved Ben's in-house sprint proposal ($3,000/month additional, month-to-month trial, no minimum term, leveraging Addison's contacts, Debra Spark's intros, and strategy/contacts from Ann and David Swardlick).
+    *   [ ] **Evaluate Press for Success:** Keep in reserve for DIY PR coaching resources.
+    *   [ ] **Founder Pitch Package & Consultation (Debra Spark):** Draft founder-perspective pitch materials (story angle, copy, photos) and review with Debra Spark for feedback and warm intros to editors at *Decor Maine*, *Downeast*, and *Maine Home + Design*. Evaluate whether to roll in her free consultation support.
+    *   [ ] **PR Prep & Launch Support (Ben & Carla):**
+        *   [ ] Build the digital press kit (select media photos, cabin renderings, founder bio, rate sheets).
+        *   [ ] Begin drafting the grand opening press release.
+        *   [ ] Coordinate onboarding and start date with Carla Tracy upon her return.
     *   [ ] **April (Maine Famous):** Await response to outreach to April to discuss potential promotion collaboration.
     *   [x] **Evaluate Caroline/Upspring POC:** Confirmed that Caroline will support strategy, while Delaney will be the day-to-day lead.
     *   [x] **Hospitality PR Consultation (Allie Gill):** Spoke with Allie Gill (Marketing at Uncommon Hospitality / Longfellow Hotel). She confirmed that sector overlap is not a concern (PR is a megaphone/relationship engine, not the brand voice) and strongly endorsed PR as the top priority for a hospitality launch (citing their success with writers/visitor stays). Recommended a light negotiation on the fee.
