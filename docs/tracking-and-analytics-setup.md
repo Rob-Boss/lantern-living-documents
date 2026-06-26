@@ -1,6 +1,6 @@
 # Lantern Camp — Meta Ads & GTM Integration Data Sheet
 
-**Last edited:** 2026-06-24 by Claude
+**Last edited:** 2026-06-24 by Claude (Purchase-trigger-revisit finding added)
 
 This document tracks configuration, technical architecture, and verification steps for the Meta Ads and Google Tag Manager (GTM) tracking pipeline on the Lantern Camp website and Mews booking engine.
 
@@ -26,7 +26,10 @@ This document tracks configuration, technical architecture, and verification ste
 *   **Conversion ID:** `18268127910`
 *   **Conversion Label:** `N3p7CPXn58QCeKaF9oZE`
 *   **Enhanced Conversions:** Configured via GTM User-Provided Data
-*   **Developer Token:** `FFMKBX7IZyJ1sexxJJPUxw` (Basic Access, Swardy Manager)
+*   **Developer Token:** `[REDACTED - Saved locally in google-ads.yaml]`
+*   **OAuth Client ID:** `[REDACTED - Saved locally in google-ads.yaml]`
+*   **OAuth Client Secret:** `[REDACTED - Saved locally in google-ads.yaml]`
+*   **OAuth Refresh Token:** `[REDACTED - Saved locally in google-ads.yaml]`
 
 ### Funding & Daily Guardrails
 | Metric | Detail |
@@ -189,6 +192,16 @@ This document tracks configuration, technical architecture, and verification ste
 > *   The only bridge that survives is the **hashed email** (Advanced Matching) we send on the Purchase event — Meta can match the buyer to an ad exposure that way, but a traffic objective barely populates this and it's unreliable.
 > *   Meta never exposes individual-level "email X saw ad Y," so there's nothing to cross-reference manually.
 > *   **Takeaway:** to actually prove ad→booking attribution, run a **Purchase-optimized conversion campaign** (Meta builds and reports the linkage natively). The traffic campaign will never yield it, no matter how the data is sliced.
+
+> [!WARNING]
+> ### Issue 5: Purchase event may fire on confirmation-page revisits (June 24, 2026)
+> Two Purchase events fired on **June 24 (~9 PM ET / 6 PM PT)** with **no matching new booking in Mews**. Diagnosed in Events Manager → Purchase event:
+> *   **Event source = "Website"** (browser); **Event Match Quality 7.7/10** (healthy); 13 browser + 1 server events total. NOT a rogue integration or offline upload.
+> *   Could not see the exact URL or per-event params — Meta redacts them in Sampled Activities ("_removed_") and the Event Source view only shows source *type*, not domain.
+> *   **Leading theory (not proven):** a re-fired **Mews confirmation page** — a past guest reopening their confirmation (from email or a reloaded tab) re-fires the `Mews Purchase` trigger without a new booking. "Website" source + no new Mews booking + healthy match quality all fit this; nothing points to a broken trigger.
+> *   **Why low-stakes now:** the live campaign is *Traffic*, which doesn't optimize on or count Purchase events.
+> *   **Why it matters later:** before running any **conversion/Sales campaign**, verify the Purchase trigger fires only on a genuine first-time confirmation, not on revisits — otherwise it inflates/pollutes conversion data.
+> *   **To confirm definitively:** use the **Test Events** tab (live, shows full URL + params) to catch one in the act, or watch whether total Purchase events keep outpacing real Mews bookings over time.
 
 > [!WARNING]
 > ### Issue 2: Value-less Purchase Conversion Counting Unverified
