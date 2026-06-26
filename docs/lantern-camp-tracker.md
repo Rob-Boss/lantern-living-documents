@@ -15,6 +15,8 @@ Use this document to track assignments, to-dos, hygiene, and projects.
 *   [x] **Contract Signature:** Addison and Tony signed; contract is finalized.
 *   [x] **Invoice Payment:** June retainer invoice paid (received today).
 *   [x] **PR Outreach & Evaluation:** Track and evaluate agencies in [pr-agency-evaluation.md](#/docs/pr-agency-evaluation) (completed initial calls and received all final pricing/capacity updates).
+*   [x] **Hire PR Assistant (Erinne Magee):** Hired Erinne Magee for a $700 Media Pitch Package to assist with first press release. Deployed payment on June 25, 2026.
+*   [/] **Media Pitch Package Questionnaire:** Erinne is drafting a questionnaire. Ben/Addison preparing media photos.
 *   [x] **Tides to Pines Call:** Completed Tuesday, June 23, 2026. Decided to keep property management in-house via MEWS/Airbnb. Full call notes and follow-up strategy documented in [airbnb-tracker-and-strategy.md](#/docs/airbnb-tracker-and-strategy).
 *   [ ] **Airbnb Setup & Listing Strategy:** Coordinate ownership review and execute listing optimizations as detailed in [airbnb-tracker-and-strategy.md](#/docs/airbnb-tracker-and-strategy).
 *   [x] **Carla Tracy Call:** Completed June 24. Outstanding vibe/design fit. She has no client conflict and is open to summer consulting + Fall retainer campaign.
@@ -26,9 +28,9 @@ Use this document to track assignments, to-dos, hygiene, and projects.
     *   [ ] **PR Newswire Account Verification:** Wait for incoming verification call from PR Newswire representative (expected week of June 22) to finalize setup.
     *   [ ] **Draft Press Release Copy:** Draft official launch press release focusing on the summer opening, Scandinavian design aesthetics, and eco-friendly camp concept.
     *   [ ] **Select Wire Service:** Compare PR Newswire direct vs. eReleases (PR Newswire reseller) and EIN Presswire to select the best outlet.
-    *   [ ] **Digital Press Kit Setup:**
-        *   [ ] Weigh hosting options: unlisted Squarespace page (branded look) vs. public Google Drive/Dropbox folder (simple, frictionless download).
-        *   [ ] Select and package media kit photos (follow up on Addison's headshot, select cabin/landscape rendering selects, and logos).
+    *   [/] **Digital Press Kit Setup:**
+        *   [x] **Weigh hosting options:** Created a shared Google Drive folder for immediate image coordination: [Lantern Camp - Media Photos (PR) Google Drive Folder](https://drive.google.com/drive/folders/10QUZxVMM-0cdX-1o2NkVvbro_u8xNLmu).
+        *   [ ] Select and package media kit photos (upload Addison's headshot, cabin/landscape rendering selects, and logos to the Drive folder).
 *   [x] **First Newsletter Outline:** Sent first concept/outline (*"3 Days in Acadia: A Low(er) Traffic Itinerary"*) to Addison & Tony (approved with notes).
 *   [ ] **Write First Newsletter:** Write first newsletter based on the approved Acadia concept (incorporating notes).
 *   [ ] **Brainstorm Newsletter Topics:** Brainstorm 2-3 additional topics to establish a bi-weekly content pipeline.
@@ -99,9 +101,9 @@ All technical architecture, infrastructure settings, tags, triggers, and unresol
     *   [x] **Evaluate In-House PR:** Completed. Approved Ben's in-house sprint proposal ($3,000/month additional, month-to-month trial, no minimum term, leveraging Addison's contacts, Debra Spark's intros, and strategy/contacts from Ann and David Swardlick).
     *   [ ] **Evaluate Press for Success:** Keep in reserve for DIY PR coaching resources.
     *   [ ] **Founder Pitch Package & Consultation (Debra Spark):** Draft founder-perspective pitch materials (story angle, copy, photos) and review with Debra Spark for feedback and warm intros to editors at *Decor Maine*, *Downeast*, and *Maine Home + Design*. Evaluate whether to roll in her free consultation support.
-    *   [ ] **PR Prep & Launch Support (Ben & Carla):**
-        *   [ ] Build the digital press kit (select media photos, cabin renderings, founder bio, rate sheets).
-        *   [ ] Begin drafting the grand opening press release.
+    *   [/] **PR Prep & Launch Support (Ben & Carla):**
+        *   [/] Build the digital press kit (created Google Drive folder for coordinating/sharing media photos: [Lantern Camp - Media Photos (PR)](https://drive.google.com/drive/folders/10QUZxVMM-0cdX-1o2NkVvbro_u8xNLmu)).
+        *   [/] Begin drafting the grand opening press release (hired Erinne Magee to assist with this; she's working on a questionnaire).
         *   [ ] Coordinate onboarding and start date with Carla Tracy upon her return.
     *   [ ] **April (Maine Famous):** Await response to outreach to April to discuss potential promotion collaboration.
     *   [x] **Evaluate Caroline/Upspring POC:** Confirmed that Caroline will support strategy, while Delaney will be the day-to-day lead.
