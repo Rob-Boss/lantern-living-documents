@@ -44,7 +44,7 @@ A curated directory and high-level roadmap of active clients, personal projects,
     *   [/] **Attribution & ROAS:** Continue trying to attribute direct Mews bookings to paid channels to justify ROAS.
 *   [/] **Videographer / Recap Video:** John delivered the ~1-minute recap/ad video. (Ben to review and provide feedback).
 *   [ ] **Sonia Email Reply:** Email Sonia back to inform her that Ben has taken on Google Ads himself and there is no active job for the AdWords/Newsletter proposal.
-*   [ ] **Onboard Ann Swardlick:** Onboard Ann Swardlick for the association / affiliation outreach. Share the master directory and submission guide prepared by Lucy once complete.
+*   [ ] **Onboard Ann Swardlick (Outreach & Directory Listings):** Onboard Ann Swardlick to work through the transitioned list of organizations, affiliations, listings, and local businesses (from Tiffany) to get Lantern Camp listed.
 *   [/] **Custom Analytics Dashboard (New Project):** Define and design a custom analytics dashboard web application to replace Looker Studio, starting with design planning and requirements gathering.
 
 ### Personal / Admin

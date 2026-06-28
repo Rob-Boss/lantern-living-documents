@@ -7,11 +7,7 @@ Welcome, Lucy! This is your active tasks list. Swardy will add projects and note
 ## Active Priorities (This Week)
 
 ### General & Onboarding
-*   [ ] **Outreach & Directory Listings (Master Directory & Onboarding Prep):** Coordinate the transition of local directory/brochure listings to get Lantern Camp listed.
-    *   **Goal**: Research and compile a master association, chamber, and brochure directory to serve as the source of truth, and prepare a package for onboarding Ann Swardlick.
-    *   **Step 1 (Research & Compilation)**: Research regional directories, local chambers of commerce (e.g., Orland, Bucksport, Ellsworth, Bar Harbor, Bangor, Mid-Coast Maine), state tourism boards, and local print/digital brochures. Cross-reference with the transitioned list from Tiffany and the `LC Community Relationships` spreadsheet.
-    *   **Step 2 (Master Tracking Sheet)**: Build a master Google Sheet in the shared Drive folder with: Organization / Directory name, Contact information, Submission links, Listing requirements (character count, photos, logos), Cost/annual dues (if applicable), and Listing status (Not Listed / In Progress / Live).
-    *   **Step 3 (Ann Swardlick Onboarding Package)**: Extract a clean, action-ready subset of this list for Ann Swardlick. Ann is helping us secure listings and brochure placements. Provide her with a clear "Submission Guide" (how to submit, who to contact, and copy/assets to use) so Ben can onboard her.
+*   [ ] *Swardy to add new projects and assignments.*
 
 ### Maine Craft Distilling (MCD)
 *   [/] **Distributor Hygiene & Outreach:** Update all templates and graphics, ensure every distributor has updated graphics, and follow up with (pester) any distributors who have not responded to requests for current contacts and drive links. Work on turnkey social post for each contact as well. Use the MCD Distributor Directory for master contacts and tracking.
