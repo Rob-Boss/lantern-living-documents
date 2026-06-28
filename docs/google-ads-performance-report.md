@@ -1,5 +1,5 @@
 # 📊 Lantern Camp Website Traffic Report
-**Created At:** `2026-06-28 14:13:10` | **Target Audience:** Summary View
+**Created At:** `2026-06-28 14:17:02` | **Target Audience:** Summary View
 
 This report traces how our marketing efforts have directly grown traffic to `lanterncamp.com` and `app.mews.com` since launching campaigns in June.
 
@@ -57,8 +57,8 @@ Not all web traffic is created equal. A cheaper click is not always the best bus
 > ### 2. Local Maine Spontaneous Travel Focus
 > We will **continue targeting local Mainers** in Cumberland and York counties, and **recommend adding Knox County (Camden)** to the targeting list. Because we need last-minute bookings right now, local travelers are our highest-intent audience: a Mainer is far more likely to book a spontaneous weekend trip to Blue Hill/Orland than a Boston traveler who planned their Acadia trip months ago.
 
-> ### 3. Resuming Campaign Traffic
-> Now that GA4 and GTM booking tracking are fully active and validated, we will lift the account's $500 spending limit guardrail to resume campaign traffic and begin tracking conversion and purchase data directly.
+> ### 3. Resumed Campaign Traffic (Limit Raised)
+> Now that GA4 and GTM booking tracking are fully active and validated, we have increased the monthly spending limit and resumed campaign traffic to begin tracking direct conversion and purchase data.
 
 > ### 4. Launching Retargeting & Visual Campaigns
 > Since we have established a strong baseline of traffic, we will expand into **visual remarketing/retargeting** next:
