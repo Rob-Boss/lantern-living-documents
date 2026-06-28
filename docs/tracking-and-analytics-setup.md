@@ -100,8 +100,21 @@ This document tracks configuration, technical architecture, and verification ste
     *   *Type:* Conversion Linker
     *   *Trigger:* All Pages
     *   *Settings:* Enable linking across domains (defaults to true)
+*   **Tag 6: GA4 Configuration - Mews Cross Domain**
+    *   *Type:* Google Tag
+    *   *Tag ID:* `G-3JJ6S8J5ZD`
+    *   *Trigger:* Page Hostname contains `mews.com`
+    *   *Note:* Scoped to Mews domain to avoid double-tracking on Squarespace where native GA4 already runs.
+*   **Tag 7: GA4 - Purchase** (Added June 28, 2026)
+    *   *Type:* Google Analytics: GA4 Event
+    *   *Trigger:* Custom Event → `Mews Purchase`
+    *   *Settings:*
+        *   **Event Name:** `purchase`
+        *   **Send Ecommerce Data:** Checked (source: Data Layer)
+    *   *Note:* Resolves the GA4 purchase tracking gap so that booking revenue and conversions are sent directly to GA4.
 
 ---
+
 
 ## 3. Campaign Configuration & Launch Status
 
@@ -146,6 +159,30 @@ This document tracks configuration, technical architecture, and verification ste
 *   **Objective:** Sales / Conversions
 *   **Performance:** $0 spend, no impressions
 *   **Note:** Abandoned — strategy is traffic-first until conversion data is proven. Michelle Lawrence (Sales) also showing 0 attributed purchases, confirming conversion campaigns aren't viable yet. Can delete or leave paused.
+
+---
+
+### 🟢 Google Ads Search Campaigns
+*   **Ad Account:** `"Lantern Camp"` — ID: `932-585-7656` (Full control)
+*   **Bidding Strategy:** Maximize Clicks (`TargetSpend`) for traffic growth and validation.
+
+#### Campaign G1: Brand Protection (Bottom of Funnel)
+*   **Status:** ACTIVE (launched June 25), $10.00/day
+*   **Objective:** Search Traffic / Booking conversions
+*   **Ad Group 1: Brand Protection**
+    *   *Keywords:* `"lantern camp"` (Exact), `"lantern camp orland maine"` (Exact), `"lantern camp cabins"` (Phrase), `"lantern camp maine"` (Phrase), `"stay lantern camp"` (Phrase).
+    *   *Destination:* `https://www.lanterncamp.com`
+    *   *Creative:* Responsive Search Ad (headlines and descriptions optimized for brand equity, direct booking benefits, and trust).
+
+#### Campaign G2: Mid-Funnel Search (Regional Cabin & Glamping/Eco-Camping)
+*   **Status:** ACTIVE (launched June 26), $10.00/day
+*   **Objective:** Non-branded regional search traffic targeting travelers in active planning phases.
+*   **Ad Group 2: Regional Cabins & Boutique Lodging**
+    *   *Keywords (Phrase Match):* `"cabins near acadia"`, `"modern cabins near acadia"`, `"boutique cabin lodging maine"`, `"premium cabin rental maine"`, `"stay in mid-coast maine"`, `"eco retreat near acadia"`, `"nature cabins bar harbor"`.
+    *   *Creative:* Responsive Search Ad (customized with 100-mile sunset views and low-impact nature cabin branding).
+*   **Ad Group 3: Regional Glamping & Nature Lodging**
+    *   *Keywords (Phrase Match):* `"glamping near acadia"`, `"acadia glamping cabins"`, `"boutique glamping maine"`, `"glamping near bar harbor"`, `"upscale camping near acadia"`, `"maine glamping getaway"`, `"modern glamping cabins"`, `"eco resort bar harbor"`.
+    *   *Creative:* Responsive Search Ad (customized to target affluent campers/glampers, eco-friendly framing copy, no "luxury" mentions).
 
 ---
 
@@ -214,11 +251,24 @@ This document tracks configuration, technical architecture, and verification ste
 > ### Flag 3: Mews Content Consent Constraints (`advertising: false`)
 > The raw dataLayer logs captured on the confirmation screen explicitly outputted `"advertising": false` inside the `trackingConsents` object block. Because testing was completed within a sandbox GTM preview window, the browser bypassed this gate. It remains untested whether real live guest transactions will be dropped or suppressed by Mews if this structural flag defaults to false.
 
-> [!WARNING]
+> [!NOTE]
 > ### Issue 4: MEWS Booking Email Notifications Silent (In Progress)
 > *   **Problem:** MEWS is not sending email notifications when bookings are processed.
 > *   **Troubleshooting Action:** Attempted to configure native notifications within MEWS (unsuccessful due to access restrictions). Want to troubleshoot why notifications are silent, check if Zapier integrations can be set up, and obtain backend API access to make changes to MEWS.
 > *   **Resolution Status:** Addison connected Ben with MEWS account manager (William) on June 16. Ben followed up, and followed up again on June 22, and Addison also bumped the thread; still waiting for a response.
+> 
+> > [!NOTE]
+> > ### Issue 6: Google Analytics 4 (GA4) Purchase Tracking Gap ✅ RESOLVED (June 28, 2026)
+> > *   **Problem:** Mews direct bookings were not showing up as purchase events or conversions in GA4, even though Google Ads and Meta Pixel were capturing them.
+> > *   **Root Cause:** The GTM container lacked a GA4 Event tag to listen for the custom `Mews Purchase` dataLayer event and forward the `purchase` event to GA4.
+> > *   **Fix:** Deployed the **`GA4 - Purchase`** Event tag in GTM (Type: `Google Analytics: GA4 Event`), triggered on the custom event `Mews Purchase`, with *Send Ecommerce Data* enabled from the Data Layer.
+> > *   **Verified:** Future bookings will now populate conversions and revenue metrics in GA4.
+> 
+> > [!NOTE]
+> > ### Issue 7: GA4 Reporting API Automation ✅ RESOLVED (June 28, 2026)
+> > *   **Goal:** Fetch traffic analytics and purchase reports directly via python for unified marketing reports.
+> > *   **Fix:** Enabled the **Google Analytics Data API (v1beta)** in Google Cloud. Created a service account `ga4-reporter@lantern-ads-api-500420.iam.gserviceaccount.com`, saved its JSON credentials key, and added it as a **Viewer** to GA4 Property `534706583`.
+> > *   **Verified:** Python reporting script `generate_unified_report.py` queries GA4 successfully.
 
 ---
 
