@@ -16,5 +16,5 @@
 * **Paid Ads & Technical Setup**
   * [Meta Ad Creative & Copy](docs/meta-ad-copy.md)
   * [Google Ads Creative & Copy](docs/google-ads-creative.md)
-  * [Unified Performance Report](docs/google-ads-performance-report.md)
+  * [Marketing Traffic Report](docs/google-ads-performance-report.md)
   * [GTM & Analytics Architecture](docs/tracking-and-analytics-setup.md)
