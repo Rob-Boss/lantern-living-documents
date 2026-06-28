@@ -1,5 +1,5 @@
 # 📊 Lantern Camp Website Traffic Report
-**Created At:** `2026-06-28 13:59:05` | **Target Audience:** Summary View
+**Created At:** `2026-06-28 14:11:27` | **Target Audience:** Summary View
 
 This report traces how our marketing efforts have directly grown traffic to `lanterncamp.com` and `app.mews.com` since launching campaigns in June.
 
@@ -59,3 +59,8 @@ Not all web traffic is created equal. A cheaper click is not always the best bus
 
 > ### 3. Resuming Campaign Traffic
 > Now that GA4 and GTM booking tracking are fully active and validated, we will lift the account's $500 spending limit guardrail to resume campaign traffic and begin tracking conversion and purchase data directly.
+
+> ### 4. Launching Retargeting & Visual Campaigns
+> Since we have established a strong baseline of traffic, we will expand into **visual remarketing/retargeting** next:
+> * **Google Visual Campaign (Performance Max):** We will build visual image/video ads to run across YouTube, Display, and Maps. We will seed this campaign with our website visitor data as an audience signal to retarget past visitors and find similar travelers.
+> * **Meta Custom Audience Retargeting:** We will create a dedicated ad set targeting past website visitors (past 30 days) who did not complete a booking, showing them high-differentiator creatives (cabin interiors, cedarwood sauna, dog-friendly highlights) to prompt a return visit and booking.
