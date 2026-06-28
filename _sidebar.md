@@ -3,7 +3,6 @@
 
 * **Roadmap & Alignment**
   * [Workspace Tracker](docs/lantern-camp-tracker.md)
-  * [Marketing Decisions (June 23)](docs/marketing-meeting-updates.md)
   * [Foundational Startup Docs](docs/startup-documents.md)
 
 * **Booking Operations**
