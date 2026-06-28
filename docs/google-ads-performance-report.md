@@ -1,5 +1,5 @@
 # 📊 Lantern Camp Website Traffic Report
-**Created At:** `2026-06-28 13:55:22` | **Target Audience:** Summary View
+**Created At:** `2026-06-28 13:57:44` | **Target Audience:** Summary View
 
 This report traces how our marketing efforts have directly grown traffic to `lanterncamp.com` and `app.mews.com` since launching campaigns in June.
 
@@ -25,7 +25,7 @@ June 28 | ██ (206 views) [Partial Day]
 | Marketing Phase | Date Range | Primary Activity | Avg. Daily Sessions | Total Spend | Ad Cost per Click (CPC) |
 | :--- | :--- | :--- | :---: | :---: | :---: |
 | **Baseline (No Ads)** | 2026-05-01 to 2026-06-10 | Word of mouth / natural traffic | **20** | $0.00 | - |
-| **First Meta Ads** | 2026-06-11 to 2026-06-20 | Meta Campaign 1 (Homepage Traffic) | **173** | $179.56 | $0.09 |
+| **First Meta Ads** | 2026-06-11 to 2026-06-20 | Meta Campaign 1 (Homepage Traffic) | **173** | $179.56 | $0.18 |
 | **Optimized Meta Ads** | 2026-06-21 to 2026-06-24 | Meta Campaign 1b (Drive Market Traffic) | **528** | $269.41 | $0.14 |
 | **Google Search Launch** | 2026-06-25 to 2026-06-26 | Google Brand Protection + Mid-Funnel Search | **449** | $42.57 | $1.09 |
 
@@ -34,7 +34,7 @@ Not all web traffic is created equal. A cheaper click is not always the best bus
 
 > [!TIP]
 > ### 📱 Meta Ads (Social Volume)
-> * **Cost:** Cheap (~$0.14 per landing page view)
+> * **Cost:** Cheap (~$0.14 - $0.18 per landing page view)
 > * **Behavior:** Users on Instagram/Facebook are browsing social media; they aren't actively looking to book a cabin. This generates a **high volume of views** but requires more nurturing to turn into a booking.
 > * **Value:** Great for building brand awareness and filling the top of the funnel.
 
