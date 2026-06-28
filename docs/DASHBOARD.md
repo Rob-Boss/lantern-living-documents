@@ -30,23 +30,21 @@ A curated directory and high-level roadmap of active clients, personal projects,
 *   [ ] **May Marketing Report & Invoicing (High Priority):** Complete May report and invoices (due June 13 before the weekend).
 
 ### Lantern Camps
-*   [/] **Grand Opening Press Release:** Continue to collaborate with Erinne Magee on first pass of press release (Erinne drafting questionnaire, Ben/Addison preparing media photos).
-*   [ ] **Airbnb Setup & Listing Strategy:** Coordinate ownership review and execute listing optimizations as detailed in [airbnb-tracker-and-strategy.md](#/docs/airbnb-tracker-and-strategy).
+*   [/] **Grand Opening Press Release:** Working on responses to Erinne's questionnaire; continue selecting and uploading media photos (Addison's headshot, cabin selects, logos) to the shared Drive folder.
+*   [ ] **Airbnb Setup & Listing Strategy:** Coordinate ownership review and execute listing optimizations as detailed in [airbnb-tracker-and-strategy.md](#/docs/airbnb-tracker-and-strategy). (Not started yet; waiting on ownership review).
 *   [/] **PR Prep & Launch Support (Ben & Carla):**
-    *   [/] Build digital press kit (upload headshots, cabin selects, logos; track down missing bathroom/interior shots).
-    *   [ ] Coordinate onboarding and start date with Carla Tracy upon her return.
+    *   [/] Select and package media kit photos (upload Addison's headshot, cabin/landscape selects, and logos to the Drive folder).
+    *   [ ] Coordinate onboarding and start date with Carla Tracy upon her return (agreed to her proposal).
 *   [/] **Meta & Google Ads Campaign Expansion:**
     *   [ ] Set up five primary texts, headlines, and descriptions from [meta-ad-copy.md](#/docs/meta-ad-copy) (delegated to Lucy).
-    *   [ ] Set up CTA A/B test in Ads Manager.
     *   [ ] Launch Meta retargeting conversion campaign and Google Visual / Performance Max campaign.
 *   [/] **Mews Booking & Tracking Verification:**
     *   [ ] **Mews Backend Typo:** Fix layout configuration typo: change "Orlando, FL" to "Orland, Maine".
-    *   [ ] **Live Checkout Audit:** Monitor Results column on first real booking; customize Ads Manager columns.
+    *   [/] **Live Checkout Audit & Attribution:** Verify purchase event reporting and conversion attribution in Ads Manager once the Purchase-optimized conversion campaign is launched. (Real bookings came in, but currently have no attribution in Ads Manager; conversion tracking and attribution work is ongoing).
     *   [/] **Attribution & ROAS:** Continue trying to attribute direct Mews bookings to paid channels to justify ROAS.
-    *   [/] **Silent Notifications & Daily Hygiene:** Resolve silent booking notification issue with William (Mews). Maintain daily manual checks of Mews/Airbnb.
-*   [ ] **Videographer / Recap Video:** Sourced Peter Logue clips; wait for John's recap video (delayed a few weeks).
+*   [/] **Videographer / Recap Video:** John delivered the ~1-minute recap/ad video. (Ben to review and provide feedback).
 *   [ ] **Sonia Email Reply:** Email Sonia back to inform her that Ben has taken on Google Ads himself and there is no active job for the AdWords/Newsletter proposal.
-*   [/] **Centralized Analytics Dashboard:** Build an analytics dashboard integrating GA4, UTM links, GTM, Meta Pixel, ad campaigns, Mews, Airbnb, and Booking.com to track bookings and compare spend vs. revenue. (Cloud setup in progress; do not pull local code changes for now).
+*   [/] **Custom Analytics Dashboard (New Project):** Define and design a custom analytics dashboard web application to replace Looker Studio, starting with design planning and requirements gathering.
 
 ### Personal / Admin
 *   [ ] House hunting / moving planning (Maine).
