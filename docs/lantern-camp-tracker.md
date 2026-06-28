@@ -24,6 +24,7 @@ Use this document to track assignments, to-dos, hygiene, and projects.
 *   [/] **Video Edit / Recap:** John delivered the ~1-minute recap/ad video. (Ben to review and provide feedback).
 *   [/] **Custom Analytics Dashboard (New Project):** Define and design a custom analytics dashboard web application to replace Looker Studio, starting with design planning and requirements gathering.
 *   [ ] **Sonia Email Reply:** Email Sonia back to inform her that Ben has taken on Google Ads himself and there is currently no job opening for the AdWords/Newsletter proposal.
+*   [ ] **Onboard Ann Swardlick:** Onboard Ann Swardlick for the association / affiliation outreach. Share the master directory and submission guide prepared by Lucy once complete.
 
 ---
 
@@ -49,7 +50,7 @@ All technical architecture, infrastructure settings, tags, triggers, and unresol
     *   [ ] Coordinate onboarding and start date with Carla Tracy upon her return. (Agreed to her proposal in the PR strategy doc).
 *   [ ] **April (Maine Famous):** Await response to outreach to April to discuss potential promotion collaboration. (No outreach sent yet; deferring until Carla is onboarded to get her insight).
 *   [ ] **Newsletter Content Pipeline:** Establish a structured content calendar aiming for a bi-weekly cadence.
-*   [ ] **Outreach & Directory Listings:** Delegated to Lucy. Work through the transitioned list of organizations, affiliations, listings, and local businesses to get Lantern Camp listed (refer to [lucy-tracker.md](#/docs/lucy-tracker) for details).
+*   [/] **Outreach & Directory Listings:** Delegated to Lucy. Lucy is preparing a master tracking sheet and onboarding guide to help onboard Ann Swardlick (refer to [lucy-tracker.md](#/docs/lucy-tracker) for details).
 
 ---
 
