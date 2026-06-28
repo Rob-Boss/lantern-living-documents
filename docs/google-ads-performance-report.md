@@ -1,5 +1,5 @@
 # 📊 Lantern Camp Website Traffic Report
-**Created At:** `2026-06-28 13:57:44` | **Target Audience:** Summary View
+**Created At:** `2026-06-28 13:59:05` | **Target Audience:** Summary View
 
 This report traces how our marketing efforts have directly grown traffic to `lanterncamp.com` and `app.mews.com` since launching campaigns in June.
 
@@ -22,7 +22,7 @@ June 28 | ██ (206 views) [Partial Day]
 ```
 
 ## 📁 Phase-by-Phase Performance
-| Marketing Phase | Date Range | Primary Activity | Avg. Daily Sessions | Total Spend | Ad Cost per Click (CPC) |
+| Marketing Phase | Date Range | Primary Activity | Avg. Daily Sessions | Total Spend | Ad Cost per Click / View |
 | :--- | :--- | :--- | :---: | :---: | :---: |
 | **Baseline (No Ads)** | 2026-05-01 to 2026-06-10 | Word of mouth / natural traffic | **20** | $0.00 | - |
 | **First Meta Ads** | 2026-06-11 to 2026-06-20 | Meta Campaign 1 (Homepage Traffic) | **173** | $179.56 | $0.18 |
