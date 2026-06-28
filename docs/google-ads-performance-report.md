@@ -1,5 +1,5 @@
 # 📊 Lantern Camp Website Traffic Report
-**Created At:** `2026-06-28 13:53:54` | **Target Audience:** Summary View
+**Created At:** `2026-06-28 13:55:22` | **Target Audience:** Summary View
 
 This report traces how our marketing efforts have directly grown traffic to `lanterncamp.com` and `app.mews.com` since launching campaigns in June.
 
@@ -48,14 +48,14 @@ Not all web traffic is created equal. A cheaper click is not always the best bus
 > [!NOTE]
 > ### 1. Meta Ads Audience & Geo Distribution
 > * **Age Profile:** **37% of our active Meta spend** goes to the **65+ age demographic**.
-> * **Geo Profile:** **21% of our active Meta spend** is concentrated locally within **Maine** (primarily Cumberland County and Knox County, where Camden is located).
+> * **Geo Profile:** **21% of our active Meta spend** is concentrated locally within **Maine** (primarily Cumberland County and York County).
 
 ## 🚀 What's Next
 > ### 1. Demographic Retention Strategy (65+)
 > For our top-of-funnel traffic campaigns, we will **maintain targeting for the 65+ group**. At $0.14 per view, they are highly cost-effective and act as a strong brand awareness engine (frequently sharing details with family and children). When we transition to conversion-focused campaigns in the next phase, we can apply stricter age restrictions.
 
 > ### 2. Local Maine Spontaneous Travel Focus
-> We will **continue targeting local Mainers** in Cumberland and Knox counties (including Camden). Because we need last-minute bookings right now, local travelers are our highest-intent audience: a Mainer is far more likely to book a spontaneous weekend trip to Blue Hill/Orland than a Boston traveler who planned their Acadia trip months ago.
+> We will **continue targeting local Mainers** in Cumberland and York counties, and **recommend adding Knox County (Camden)** to the targeting list. Because we need last-minute bookings right now, local travelers are our highest-intent audience: a Mainer is far more likely to book a spontaneous weekend trip to Blue Hill/Orland than a Boston traveler who planned their Acadia trip months ago.
 
 > ### 3. Resuming Campaign Traffic
 > Now that GA4 and GTM booking tracking are fully active and validated, we will lift the account's $500 spending limit guardrail to resume campaign traffic and begin tracking conversion and purchase data directly.
