@@ -1,5 +1,5 @@
-# 📊 Lantern Camp Website Traffic Impact Report
-**Created At:** `2026-06-28 13:45:30` | **Target Audience:** Summary View
+# 📊 Lantern Camp Website Traffic Report
+**Created At:** `2026-06-28 13:46:02` | **Target Audience:** Summary View
 
 This report traces how our marketing efforts have directly grown traffic to `lanterncamp.com` and `app.mews.com` since launching campaigns in June.
 
