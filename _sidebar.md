@@ -16,4 +16,5 @@
   * [Meta Ad Creative & Copy](docs/meta-ad-copy.md)
   * [Google Ads Creative & Copy](docs/google-ads-creative.md)
   * [Marketing Traffic Report](docs/google-ads-performance-report.md)
+  * [Meta Ads Live Report](docs/meta-ads-live-report.md)
   * [GTM & Analytics Architecture](docs/tracking-and-analytics-setup.md)
