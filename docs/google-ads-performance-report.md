@@ -1,5 +1,5 @@
 # 📊 Lantern Camp Website Traffic Report
-**Created At:** `2026-06-28 13:46:02` | **Target Audience:** Summary View
+**Created At:** `2026-06-28 13:53:54` | **Target Audience:** Summary View
 
 This report traces how our marketing efforts have directly grown traffic to `lanterncamp.com` and `app.mews.com` since launching campaigns in June.
 
@@ -45,16 +45,17 @@ Not all web traffic is created equal. A cheaper click is not always the best bus
 > * **Value:** Extremely high value. Even though we pay more per click, these visitors are pre-qualified and significantly more likely to convert directly into guests.
 
 ## ⚠️ Key Insights & Observations
-> [!WARNING]
-> ### 1. Meta Ads Targeting Skew
-> * Our active Meta campaign (`Drive Market`) is performing well on volume, but **37% of the budget** is going to the **65+ age demographic**, and **21% of the budget** is being spent locally inside **Maine**.
-> * We are reviewing options to shift this spend more directly toward out-of-state drive-market travelers (e.g., MA, NY) in the 25–54 age bracket.
-
 > [!NOTE]
-> ### 2. GA4 Booking Tracking is Live
-> * We have successfully resolved a GTM configuration gap today. GA4 will now track all ecommerce revenue and booking conversions automatically moving forward.
+> ### 1. Meta Ads Audience & Geo Distribution
+> * **Age Profile:** **37% of our active Meta spend** goes to the **65+ age demographic**.
+> * **Geo Profile:** **21% of our active Meta spend** is concentrated locally within **Maine** (primarily Cumberland County and Knox County, where Camden is located).
 
-> [!IMPORTANT]
-> ### 3. Meta Account Spend Cap Reached
-> * **Observation:** Meta campaigns automatically paused after reaching the account's $500 monthly spending limit.
-> * **Action:** This spending limit acted as a built-in guardrail. Now that GTM and GA4 tracking are fully active and validated, we can lift this cap to resume campaign traffic and begin tracking conversion and purchase data.
+## 🚀 What's Next
+> ### 1. Demographic Retention Strategy (65+)
+> For our top-of-funnel traffic campaigns, we will **maintain targeting for the 65+ group**. At $0.14 per view, they are highly cost-effective and act as a strong brand awareness engine (frequently sharing details with family and children). When we transition to conversion-focused campaigns in the next phase, we can apply stricter age restrictions.
+
+> ### 2. Local Maine Spontaneous Travel Focus
+> We will **continue targeting local Mainers** in Cumberland and Knox counties (including Camden). Because we need last-minute bookings right now, local travelers are our highest-intent audience: a Mainer is far more likely to book a spontaneous weekend trip to Blue Hill/Orland than a Boston traveler who planned their Acadia trip months ago.
+
+> ### 3. Resuming Campaign Traffic
+> Now that GA4 and GTM booking tracking are fully active and validated, we will lift the account's $500 spending limit guardrail to resume campaign traffic and begin tracking conversion and purchase data directly.
