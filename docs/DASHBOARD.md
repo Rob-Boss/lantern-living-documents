@@ -23,6 +23,7 @@ A curated directory and high-level roadmap of active clients, personal projects,
 *   [ ] Refresh banner ads for Martignetti's digital exchange.
 *   [x] Compile distributor email directory list (Luke introduced Ben via email to all distributors).
 *   [ ] Follow up with distributors individually to check POS graphics access and update shared folders.
+*   [ ] **Distributor Email Outreach (Tomorrow - June 26):** Start emailing all distributors with updated graphics, using the email copy and turnkey Instagram post description prepared by Lucy.
 *   [x] **Ad Strategy (Nate Baird):** Aligned on ads strategy (latest carousel posts are live and food pairings post rolled into ad campaign; Nate monitoring for policy issues).
 *   [ ] **Website Announce Post (Nate Baird):** Execute plan to run the website announcement reel in the follower ad campaign for a week (deactivating other follower campaign content) once it goes live.
 *   [x] Update Martignetti variety pack sell sheet (add Bright Shine Lemonade, "new flavor" graphic, highlight same UPC, set 104 cases/pallet, remove suggested retail) and fresh graphics.
@@ -32,7 +33,13 @@ A curated directory and high-level roadmap of active clients, personal projects,
 *   [x] **PR Advice (Allie Gill):** Completed call with Allie Gill. Sector overlap is not a blocker, PR is top launch priority, and she recommends light negotiation on price.
 *   [x] **Tides to Pines Call:** Completed. Decided to keep property management in-house. Full call notes and follow-up strategy documented in [airbnb-tracker-and-strategy.md](#/docs/airbnb-tracker-and-strategy).
 *   [ ] **Airbnb Setup & Listing Strategy:** Coordinate ownership review and execute listing optimizations as detailed in [airbnb-tracker-and-strategy.md](#/docs/airbnb-tracker-and-strategy).
-*   [/] **PR Agency Decision:** Decision on Upspring is paused. Addison wants to complete the Carla Tracy learning call (tomorrow @ 1:00 PM EDT, both joining) before making a final commitment on PR (Upspring vs. In-House).
+*   [x] **PR Agency Decision:** Completed. Selected In-House PR (Ben, $3,000/mo extra) with Carla Tracy summer consulting support ($1,000/mo). Expecting a delayed start as Carla is currently on the road.
+*   [/] **PR Prep & Launch Support (Ben & Carla):**
+    *   [/] Prepare the digital press kit (created Google Drive folder for coordinating/sharing media photos: [Lantern Camp - Media Photos (PR)](https://drive.google.com/drive/folders/10QUZxVMM-0cdX-1o2NkVvbro_u8xNLmu)).
+    *   [ ] Track down missing field cabin interior detail photos (bathroom, sink, close-up details) for the PR media selects.
+    *   [/] Begin drafting the grand opening press release (hired Erinne Magee to assist; she's working on a questionnaire).
+    *   [ ] Evaluate/decide on rolling in other free consultations (e.g., Deborah Spark).
+    *   [ ] Coordinate onboarding and start date with Carla Tracy upon her return.
 *   [x] **Meta Ad Account & GTM Integration Setup:** Completed configuration and deployment of GTM container and Meta Pixel for Mews Booking Engine. Access verified.
 *   [/] **Meta Ads Campaign Optimization:** First run completed ($179.56 spent, 996 views, $0.18 cost-per-view, 0 bookings; geo-targeted to out-of-state drive markets with 50/50 budget split, targeting ages 25-54 with interests in glamping, Maine, Acadia, ecotourism, and hiking). Next: add 5 creatives, A/B test CTA, and launch retargeting conversion campaign.
 *   [ ] **Mews Booking Engine Verification:**
@@ -42,14 +49,14 @@ A curated directory and high-level roadmap of active clients, personal projects,
 *   [x] **Fix Meta Purchase Value & Currency:** Resolved issue where booking value/currency parameters were not passing from GTM to the Meta Purchase pixel (resolved via custom HTML dataLayer scraping tag; verified in Pixel Helper).
 *   [ ] **Videographer / Recap Video:** Sourced Peter Logue clips (wide format, good for website motion); wait for John's recap video (delayed a few weeks due to travel).
 *   [ ] **Sonia (AdWords/Newsletter Proposal):** Discuss Sonia's proposal to run Google AdWords/Newsletter at $50/hr for June–August (needs team approval on rate and setting a monthly budget/hours limit).
-*   [ ] **Digital Press Kit Planning:** Weigh hosting options (unlisted Squarespace vs. public Google Drive/Dropbox) and select media kit photos (coordinate headshot, cabin/landscape renderings, logos).
+*   [/] **Digital Press Kit Planning:** Opted for a Google Drive folder for immediate image coordination: [Lantern Camp - Media Photos (PR)](https://drive.google.com/drive/folders/10QUZxVMM-0cdX-1o2NkVvbro_u8xNLmu). Next, select and upload media kit photos.
 *   [ ] Complete onboarding checklist & discovery follow-up.
 *   [x] **Share Investor Document:** Upload and share the Lantern Camp investor deck with Lucy (needed for her Meta Ad Copy Setup assignment).
 *   [/] **Centralized Analytics Dashboard:** Build an analytics dashboard integrating GA4, UTM links, GTM, Meta Pixel, ad campaigns, Mews, Airbnb, and Booking.com to track bookings and compare spend vs. revenue. (Cloud setup in progress; do not pull local code changes for now).
 
 ### Personal / Admin
 *   [ ] House hunting / moving planning (Maine).
-*   [ ] **Lucy's Task Board Upgrades:** Implement subtask support for Lucy and allow Lucy to create/add her own tasks via the interactive dashboard (do not build yet; roadmap planning).
+*   [ ] **Lucy's Task Board Upgrades:** Implement subtask support for Lucy, allow her to create/add her own tasks, and add a **Notes Workspace** that displays on the right side if a company/project is selected but no specific assignment is selected yet (do not build yet; roadmap planning).
 
 ---
 
@@ -62,6 +69,7 @@ A curated directory and high-level roadmap of active clients, personal projects,
 ---
 
 ## 🗓️ Reminders & Routine Tasks
+*   [ ] **Outreach Reminder (Tomorrow - June 26):** Start emailing distributors with updated graphics (utilize Lucy's email copy and turnkey Instagram post description).
 *   [x] Weekly MCD social media posts (Post 1 new website video, Post 2 food pairings companion guide).
 *   [ ] Set up monthly calendar reminders / rotational schedule for distributor social media outreach.
 *   [ ] **Store Locator GA4 Analysis (Due June 19th):** Review custom event data (location searches, product filters, venue filters) to report on underserved demand and popular items.

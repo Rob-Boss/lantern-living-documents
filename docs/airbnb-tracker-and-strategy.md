@@ -26,6 +26,19 @@ The introductory call with Paige at Tides to Pines provided professional vacatio
 * **Dropping Rates for Launch**: To achieve high occupancy (aiming for 50-70% occupancy), we should be willing to drop our prices to **50% to 70% of our current rates** for the initial phase. She noted that current prices look high for a new, untested brand with no waterfront.
 * **Promotional Boost**: Run 20% off promotions for the very first bookings to drive search engine visibility and views.
 
+### ✉️ Follow-up Questions & Answers — June 24, 2026
+
+Ben followed up with Paige via email on June 23, and she provided additional clarity on June 24 regarding their partnership structures and marketing strategies:
+
+*   **Partnership Models & Fees**:
+    *   **Full-Service Program**: Commission-based, per reservation. The standard rate is **25%**, which is negotiable depending on the number of units, services required, and conversations.
+    *   **Tide's Edge Hybrid Program**: A lower-commission option at **20%** where Tides to Pines handles all marketing and guest bookings, while our in-house team handles guest check-ins, housekeeping, maintenance, and 24/7 on-site availability (similar to the Evolve model).
+*   **Paid Advertising & Direct Booking Strategy**:
+    *   **Direct Booking Focus**: They run paid ads to funnel bookings directly to their own site (`tidestopines.com`) rather than paying to drive traffic to Airbnb or Vrbo, which already rank high organically and charge high platform commissions.
+    *   **Repeat Guest Rates**: Paige emphasized building a high repeat-guest rate. Her previous company achieved a 63% repeat guest rate, and their 2-year goal with the recent acquisition is to get back to **60% repeat guests** via direct bookings.
+    *   **Platform as "Necessary Evil"**: Airbnb/Vrbo are used for initial customer acquisition, with on-property education and incentives (saving 10-25% on fees) used to convert them to direct-rebooking guests.
+    *   **Search Utility of Cabin Names**: Utilizing unique names (e.g., searching "Chimerique on the Water in Maine") helps guests find the property and book directly on their website after discovering it on third-party channels.
+
 ---
 
 ## ⚡ Active Tasks & Discussion Queue

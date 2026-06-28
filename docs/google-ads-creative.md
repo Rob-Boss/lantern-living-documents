@@ -29,7 +29,7 @@ This document tracks and organizes copywriting assets for the Lantern Camp Googl
 | `Your Dog Is Gonna Love This` | 27 | Creative (Dog-Friendly) |
 | `Modern Comfort in Nature` | 24 | Creative (Design/Style) |
 | `Secluded Cabins in Maine` | 24 | Location / Category |
-| `100-Mile Mountain Views` | 23 | Feature / Hook |
+| `100-Mile Sunset Views` | 22 | Feature / Hook |
 
 ### Descriptions (Choose up to 4)
 
@@ -40,7 +40,7 @@ This document tracks and organizes copywriting assets for the Lantern Camp Googl
 | `Dog-friendly cabins with 100+ acres of trails, fire pits, and easy Acadia access.` | 81 | Dog-Friendly |
 | `Plush comfort for you and your dog. Explore forest trails and serene mid-coast views.` | 85 | Dog-Friendly |
 | `The peaceful Maine escape you've been looking for, just outside tourist-packed Acadia.` | 86 | Escape the Crowds |
-| `25 premium, solar-powered cabins on 100+ acres of wild beauty. Now taking reservations.` | 87 | Exclusivity & Scale |
+| `25 premium, solar-powered cabins on 166 acres of wild beauty. Now taking reservations.` | 87 | Exclusivity & Scale |
 
 ---
 
@@ -58,23 +58,71 @@ This document tracks and organizes copywriting assets for the Lantern Camp Googl
 | `Boutique Cabin Lodging Maine` | 28 | Search Term |
 | `Premium Cabin Rental Maine` | 26 | Search Term |
 | `Stay in Mid-Coast Maine` | 24 | Search Term |
+| `A Landscape Hotel near Acadia` | 29 | Brand Hook |
+| `Framing the Maine Wilderness` | 28 | Brand Hook |
+| `Low-Impact Design in Nature` | 28 | Brand Hook / Eco |
 | `This Is Not A Hotel` | 19 | Creative |
 | `Grown-Ups Love Camp, Too` | 24 | Creative |
 | `Like Vacation, But Peaceful` | 27 | Creative |
-| `A Different Kind of Camp` | 24 | Creative |
 | `Modern Comfort in Nature` | 24 | Creative |
 | `Escape the Acadia Crowds` | 24 | Creative (Acadia-adjacent) |
 | `A Vacation For Your Dog, Too` | 28 | Creative (Dog-Friendly) |
+| `Your Dog Deserves Vacation Too` | 30 | Creative (Dog-Friendly) |
 | `Book Direct for Best Rates` | 27 | Call to Action |
-| `Orland Maine Cabin Rentals` | 27 | Location / Search Term |
-| `100-Mile Mountain Views` | 23 | Feature |
+| `100-Mile Sunset Views` | 22 | Feature / Hook |
 
 ### Descriptions (Choose up to 4)
-*(Same descriptions as Ad Group 1 can be reused, as they perfectly frame the regional value proposition).*
+*Adapted directly from brand-approved copy assets.*
+
+| Description Asset | Chars | Angle |
+| :--- | :---: | :--- |
+| `Scandinavian comfort meets serene nature at our private retreat near Acadia National Park.` | 88 | Nature & Design |
+| `Modern solar-powered cabins near Bar Harbor & Mid-Coast Maine. Book your getaway today.` | 85 | Location & CTA |
+| `Dog-friendly cabins with forest trails, private fire pits, and easy Acadia access.` | 81 | Dog-Friendly |
+| `The peaceful Maine escape you've been looking for, just outside tourist-packed Acadia.` | 86 | Escape the Crowds |
 
 ---
 
-## 3. Shared Ad Extensions (Assets)
+## 3. Ad Group 3: Regional Glamping & Nature Lodging
+**Target Audience:** Users searching for glamping, eco-camping, or design-forward outdoor stays near Acadia / Bar Harbor (e.g., "glamping near Acadia", "upscale camping Maine", "Acadia glamping").
+**Goal:** Target broad, conversion-optimized regional queries. Capture active travelers looking for elevated camping/glamping experiences near MDI/Acadia.
+
+### Headlines (Choose up to 15)
+*Targeting regional glamping keywords directly to ensure high click-through rates and high conversion intent.*
+
+| Headline Asset | Chars | Category / Angle |
+| :--- | :---: | :--- |
+| `Glamping Near Acadia` | 20 | Search Term |
+| `Acadia Glamping Cabins` | 22 | Search Term |
+| `Boutique Glamping in Maine` | 26 | Search Term |
+| `Glamping Near Bar Harbor` | 24 | Search Term |
+| `Upscale Camping Near Acadia` | 27 | Search Term |
+| `Maine Glamping Getaway` | 22 | Search Term |
+| `Modern Glamping Cabins` | 22 | Concept |
+| `A Landscape Hotel near Acadia` | 29 | Brand Hook |
+| `Eco-Friendly Nature Cabins` | 26 | Brand Hook / Eco |
+| `Windows Framing the Wilderness` | 30 | Brand Hook / View |
+| `This Is Not A Hotel` | 19 | Creative |
+| `Grown-Ups Love Camp, Too` | 24 | Creative |
+| `Like Vacation, But Peaceful` | 27 | Creative |
+| `Modern Comfort in Nature` | 24 | Creative |
+| `Your Dog Deserves Vacation Too` | 30 | Creative (Dog-Friendly) |
+| `Book Direct & Save Fees` | 23 | Call to Action |
+| `100-Mile Sunset Views` | 22 | Feature / Hook |
+
+### Descriptions (Choose up to 4)
+*Adapted directly from brand-approved copy assets. Strictly avoids the word "luxury" and any "100 acre" references.*
+
+| Description Asset | Chars | Angle |
+| :--- | :---: | :--- |
+| `Experience upscale nature camping near Acadia National Park on our 166 private acres.` | 88 | Brand & Acreage |
+| `Solar-powered boutique cabins with cozy fire pits, hiking trails, and easy Acadia access.` | 90 | Features & Eco |
+| `Escape the crowds at our dog-friendly nature cabins near Acadia. Book your stay today.` | 88 | Dog-Friendly & CTA |
+| `Modern Scandinavian comfort designed to low-impact frame the beautiful Maine wilderness.` | 90 | Nature & Framing |
+
+---
+
+## 4. Shared Ad Extensions (Assets)
 *Extensions increase the size of your ad on search results pages, boosting CTR by 10-15%.*
 
 ### Sitelinks

@@ -31,6 +31,7 @@ Use this document to track assignments, to-dos, hygiene, and projects.
     *   [/] **Digital Press Kit Setup:**
         *   [x] **Weigh hosting options:** Created a shared Google Drive folder for immediate image coordination: [Lantern Camp - Media Photos (PR) Google Drive Folder](https://drive.google.com/drive/folders/10QUZxVMM-0cdX-1o2NkVvbro_u8xNLmu).
         *   [ ] Select and package media kit photos (upload Addison's headshot, cabin/landscape rendering selects, and logos to the Drive folder).
+        *   [ ] **Track down missing interior details:** Find missing field cabin interior shots (bathroom, sink, close-up details) to round out the PR media selects.
 *   [x] **First Newsletter Outline:** Sent first concept/outline (*"3 Days in Acadia: A Low(er) Traffic Itinerary"*) to Addison & Tony (approved with notes).
 *   [ ] **Write First Newsletter:** Write first newsletter based on the approved Acadia concept (incorporating notes).
 *   [ ] **Brainstorm Newsletter Topics:** Brainstorm 2-3 additional topics to establish a bi-weekly content pipeline.

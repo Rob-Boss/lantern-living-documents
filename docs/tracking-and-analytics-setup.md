@@ -1,6 +1,6 @@
 # Lantern Camp — Meta Ads & GTM Integration Data Sheet
 
-**Last edited:** 2026-06-24 by Claude (Purchase-trigger-revisit finding added)
+**Last edited:** 2026-06-28 by Claude (retracted Issue 5 phantom-purchase finding — see note)
 
 This document tracks configuration, technical architecture, and verification steps for the Meta Ads and Google Tag Manager (GTM) tracking pipeline on the Lantern Camp website and Mews booking engine.
 
@@ -230,15 +230,12 @@ This document tracks configuration, technical architecture, and verification ste
 > *   Meta never exposes individual-level "email X saw ad Y," so there's nothing to cross-reference manually.
 > *   **Takeaway:** to actually prove ad→booking attribution, run a **Purchase-optimized conversion campaign** (Meta builds and reports the linkage natively). The traffic campaign will never yield it, no matter how the data is sliced.
 
-> [!WARNING]
-> ### Issue 5: Purchase event may fire on confirmation-page revisits (June 24, 2026)
-> Two Purchase events fired on **June 24 (~9 PM ET / 6 PM PT)** with **no matching new booking in Mews**. Diagnosed in Events Manager → Purchase event:
-> *   **Event source = "Website"** (browser); **Event Match Quality 7.7/10** (healthy); 13 browser + 1 server events total. NOT a rogue integration or offline upload.
-> *   Could not see the exact URL or per-event params — Meta redacts them in Sampled Activities ("_removed_") and the Event Source view only shows source *type*, not domain.
-> *   **Leading theory (not proven):** a re-fired **Mews confirmation page** — a past guest reopening their confirmation (from email or a reloaded tab) re-fires the `Mews Purchase` trigger without a new booking. "Website" source + no new Mews booking + healthy match quality all fit this; nothing points to a broken trigger.
-> *   **Why low-stakes now:** the live campaign is *Traffic*, which doesn't optimize on or count Purchase events.
-> *   **Why it matters later:** before running any **conversion/Sales campaign**, verify the Purchase trigger fires only on a genuine first-time confirmation, not on revisits — otherwise it inflates/pollutes conversion data.
-> *   **To confirm definitively:** use the **Test Events** tab (live, shows full URL + params) to catch one in the act, or watch whether total Purchase events keep outpacing real Mews bookings over time.
+> [!CAUTION]
+> ### Issue 5: RETRACTED — "phantom purchase events" was a bad-data-source artifact (June 28, 2026)
+> Earlier this issue claimed Purchase events were firing without matching bookings (2 on June 24, then 10 on June 27). **This was wrong.** Those counts came from the MCP endpoint `ads_get_dataset_stats`, which **Events Manager does not corroborate** — Events Manager (the authoritative view on dataset `2012732439334242`) showed **zero Purchase events June 25–28**, and last real purchase ~June 19. The API endpoint appears to include test/debug/preview events that Events Manager filters out; for Purchase (near-zero real volume) those phantom events were the entire signal.
+> *   **There is no phantom-purchase problem.** Data is internally consistent: no Mews bookings = no Events Manager purchases.
+> *   **Lesson:** Events Manager is the source of truth for purchases. Do NOT trust `ads_get_dataset_stats` purchase counts. (Its PageView volume is fine — corroborated against the EM PageView chart — but purchase counts are unreliable.)
+> *   The genuine open concern about confirmation-page revisits inflating conversions is *theoretical only* — we have no confirmed instance. Still worth verifying the `Mews Purchase` trigger before any conversion/Sales campaign, but it is not an observed problem.
 
 > [!WARNING]
 > ### Issue 2: Value-less Purchase Conversion Counting Unverified

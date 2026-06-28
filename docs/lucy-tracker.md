@@ -9,10 +9,14 @@ Welcome, Lucy! This is your active tasks list. Swardy will add projects and note
 ### General & Onboarding
 
 ### Maine Craft Distilling (MCD)
-*   [ ] **Distributor Hygiene & Outreach:** Update all templates and graphics, ensure every distributor has updated graphics, and follow up with (pester) any distributors who have not responded to requests for current contacts and drive links. Work on turnkey social post for each contact as well. Use the MCD Distributor Directory for master contacts and tracking.
+*   [/] **Distributor Hygiene & Outreach:** Update all templates and graphics, ensure every distributor has updated graphics, and follow up with (pester) any distributors who have not responded to requests for current contacts and drive links. Work on turnkey social post for each contact as well. Use the MCD Distributor Directory for master contacts and tracking.
     *   **Distributor Follow-ups:** Follow up individually with Matt, Barton, Josh, and Robbie (Pine State Trading) regarding POS graphics access and shared folders.
     *   **Shared Drive Updates:** Update Amoskeag and other distributors' shared Google Drive folders with the latest POS graphics.
     *   *Due Date: No due date yet.*
+*   [/] **Socials pitch: 8 Packs:** 3 pitches: 
+Better bring enough for the whole pack (dog on trip)
+Did you bring enough for everybody? (fire pit)
+Best When Shared (hiking boots)
 
 ### Lantern Camps
 *   [ ] **Meta Ad Copy Setup & Description Strategy:** Write five primary texts and five headlines for the Lantern Camp Meta launch campaign. Check mobile formatting constraints, and discuss description copy options. Use the startup documents at LLD and lanterncamp.com to help inform the messaaging.
