@@ -7,6 +7,7 @@ Welcome, Lucy! This is your active tasks list. Swardy will add projects and note
 ## Active Priorities (This Week)
 
 ### General & Onboarding
+*   [ ] **Outreach & Directory Listings:** Work through the transitioned list of organizations, affiliations, listings, and local businesses to get Lantern Camp listed.
 
 ### Maine Craft Distilling (MCD)
 *   [/] **Distributor Hygiene & Outreach:** Update all templates and graphics, ensure every distributor has updated graphics, and follow up with (pester) any distributors who have not responded to requests for current contacts and drive links. Work on turnkey social post for each contact as well. Use the MCD Distributor Directory for master contacts and tracking.

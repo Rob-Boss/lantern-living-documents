@@ -30,28 +30,22 @@ A curated directory and high-level roadmap of active clients, personal projects,
 *   [ ] **May Marketing Report & Invoicing (High Priority):** Complete May report and invoices (due June 13 before the weekend).
 
 ### Lantern Camps
-*   [x] **PR Advice (Allie Gill):** Completed call with Allie Gill. Sector overlap is not a blocker, PR is top launch priority, and she recommends light negotiation on price.
-*   [x] **Tides to Pines Call:** Completed. Decided to keep property management in-house. Full call notes and follow-up strategy documented in [airbnb-tracker-and-strategy.md](#/docs/airbnb-tracker-and-strategy).
+*   [/] **Grand Opening Press Release:** Continue to collaborate with Erinne Magee on first pass of press release (Erinne drafting questionnaire, Ben/Addison preparing media photos).
 *   [ ] **Airbnb Setup & Listing Strategy:** Coordinate ownership review and execute listing optimizations as detailed in [airbnb-tracker-and-strategy.md](#/docs/airbnb-tracker-and-strategy).
-*   [x] **PR Agency Decision:** Completed. Selected In-House PR (Ben, $3,000/mo extra) with Carla Tracy summer consulting support ($1,000/mo). Expecting a delayed start as Carla is currently on the road.
 *   [/] **PR Prep & Launch Support (Ben & Carla):**
-    *   [/] Prepare the digital press kit (created Google Drive folder for coordinating/sharing media photos: [Lantern Camp - Media Photos (PR)](https://drive.google.com/drive/folders/10QUZxVMM-0cdX-1o2NkVvbro_u8xNLmu)).
-    *   [ ] Track down missing field cabin interior detail photos (bathroom, sink, close-up details) for the PR media selects.
-    *   [/] Begin drafting the grand opening press release (hired Erinne Magee to assist; she's working on a questionnaire).
-    *   [ ] Evaluate/decide on rolling in other free consultations (e.g., Deborah Spark).
+    *   [/] Build digital press kit (upload headshots, cabin selects, logos; track down missing bathroom/interior shots).
     *   [ ] Coordinate onboarding and start date with Carla Tracy upon her return.
-*   [x] **Meta Ad Account & GTM Integration Setup:** Completed configuration and deployment of GTM container and Meta Pixel for Mews Booking Engine. Access verified.
-*   [/] **Meta Ads Campaign Optimization:** First run completed ($179.56 spent, 996 views, $0.18 cost-per-view, 0 bookings; geo-targeted to out-of-state drive markets with 50/50 budget split, targeting ages 25-54 with interests in glamping, Maine, Acadia, ecotourism, and hiking). Next: add 5 creatives, A/B test CTA, and launch retargeting conversion campaign.
-*   [ ] **Mews Booking Engine Verification:**
-    *   [ ] **Mews Backend Housekeeping (High Priority):** Cancelled all 5 test reservations to restore cabin inventory (completed). Fix the "Orlando, FL" typo to "Orland, Maine" in layout configuration settings is still pending.
-    *   [ ] **Live Guest Checkout Audit:** Verify first organic guest booking in Meta Events Manager (confirmed value and currency tracking resolved and verified via Facebook Pixel Helper) and confirm value-less conversion counting.
-    *   [/] **Booking Notifications & Daily Hygiene:** Resolve silent booking notification issue (William checking account permissions). Until resolved, maintain daily manual hygiene routine (checking Mews and Airbnb directly) to ensure no bookings or guest outreach are missed.
-*   [x] **Fix Meta Purchase Value & Currency:** Resolved issue where booking value/currency parameters were not passing from GTM to the Meta Purchase pixel (resolved via custom HTML dataLayer scraping tag; verified in Pixel Helper).
-*   [ ] **Videographer / Recap Video:** Sourced Peter Logue clips (wide format, good for website motion); wait for John's recap video (delayed a few weeks due to travel).
-*   [ ] **Sonia (AdWords/Newsletter Proposal):** Discuss Sonia's proposal to run Google AdWords/Newsletter at $50/hr for June–August (needs team approval on rate and setting a monthly budget/hours limit).
-*   [/] **Digital Press Kit Planning:** Opted for a Google Drive folder for immediate image coordination: [Lantern Camp - Media Photos (PR)](https://drive.google.com/drive/folders/10QUZxVMM-0cdX-1o2NkVvbro_u8xNLmu). Next, select and upload media kit photos.
-*   [ ] Complete onboarding checklist & discovery follow-up.
-*   [x] **Share Investor Document:** Upload and share the Lantern Camp investor deck with Lucy (needed for her Meta Ad Copy Setup assignment).
+*   [/] **Meta & Google Ads Campaign Expansion:**
+    *   [ ] Set up five primary texts, headlines, and descriptions from [meta-ad-copy.md](#/docs/meta-ad-copy) (delegated to Lucy).
+    *   [ ] Set up CTA A/B test in Ads Manager.
+    *   [ ] Launch Meta retargeting conversion campaign and Google Visual / Performance Max campaign.
+*   [/] **Mews Booking & Tracking Verification:**
+    *   [ ] **Mews Backend Typo:** Fix layout configuration typo: change "Orlando, FL" to "Orland, Maine".
+    *   [ ] **Live Checkout Audit:** Monitor Results column on first real booking; customize Ads Manager columns.
+    *   [/] **Attribution & ROAS:** Continue trying to attribute direct Mews bookings to paid channels to justify ROAS.
+    *   [/] **Silent Notifications & Daily Hygiene:** Resolve silent booking notification issue with William (Mews). Maintain daily manual checks of Mews/Airbnb.
+*   [ ] **Videographer / Recap Video:** Sourced Peter Logue clips; wait for John's recap video (delayed a few weeks).
+*   [ ] **Sonia Email Reply:** Email Sonia back to inform her that Ben has taken on Google Ads himself and there is no active job for the AdWords/Newsletter proposal.
 *   [/] **Centralized Analytics Dashboard:** Build an analytics dashboard integrating GA4, UTM links, GTM, Meta Pixel, ad campaigns, Mews, Airbnb, and Booking.com to track bookings and compare spend vs. revenue. (Cloud setup in progress; do not pull local code changes for now).
 
 ### Personal / Admin
