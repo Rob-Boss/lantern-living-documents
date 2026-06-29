@@ -162,11 +162,12 @@ This document tracks configuration, technical architecture, and verification ste
 
 ---
 
-### 🟢 Google Ads Search Campaigns
+### 🟢 Google Ads Campaigns
 *   **Ad Account:** `"Lantern Camp"` — ID: `932-585-7656` (Full control)
-*   **Bidding Strategy:** Maximize Clicks (`TargetSpend`) for traffic growth and validation.
+*   **Bidding Strategy:** Maximize Clicks (`TargetSpend`) for traffic growth and validation (for Search campaigns).
+*   **Geotargeting:** Switched all campaigns to target the United States & Canada only, with strict "Presence" exclusion setting enabled on June 29 to block low-quality accidental international mobile app traffic (e.g. from Algeria).
 
-#### Campaign G1: Brand Protection (Bottom of Funnel)
+#### Campaign G1: Brand Protection (Bottom of Funnel - Search)
 *   **Status:** ACTIVE (launched June 25), $10.00/day
 *   **Objective:** Search Traffic / Booking conversions
 *   **Ad Group 1: Brand Protection**
@@ -174,7 +175,7 @@ This document tracks configuration, technical architecture, and verification ste
     *   *Destination:* `https://www.lanterncamp.com`
     *   *Creative:* Responsive Search Ad (headlines and descriptions optimized for brand equity, direct booking benefits, and trust).
 
-#### Campaign G2: Mid-Funnel Search (Regional Cabin & Glamping/Eco-Camping)
+#### Campaign G2: Mid-Funnel Search (Regional Cabin & Glamping/Eco-Camping - Search)
 *   **Status:** ACTIVE (launched June 26), $10.00/day
 *   **Objective:** Non-branded regional search traffic targeting travelers in active planning phases.
 *   **Ad Group 2: Regional Cabins & Boutique Lodging**
@@ -184,10 +185,19 @@ This document tracks configuration, technical architecture, and verification ste
     *   *Keywords (Phrase Match):* `"glamping near acadia"`, `"acadia glamping cabins"`, `"boutique glamping maine"`, `"glamping near bar harbor"`, `"upscale camping near acadia"`, `"maine glamping getaway"`, `"modern glamping cabins"`, `"eco resort bar harbor"`.
     *   *Creative:* Responsive Search Ad (customized to target affluent campers/glampers, eco-friendly framing copy, no "luxury" mentions).
 
+#### Campaign G3: Performance Max (Visual)
+*   **Status:** ACTIVE (launched June 29)
+*   **Objective:** Visual / Performance Max campaign (Maximize Conversions)
+*   **Asset Group Setup:** Built and finalized creative assets for the "Lantern Camp - Performance Max - Visual" campaign. Included brand-new photography selects (architectural exteriors, cozy interiors, forest trails, dog-friendly shots) and official logos.
+*   **Copywriting Delivery:** Configured copywriting matrix from asset guide, populating up to 15 short headlines, 5 long headlines, and 5 descriptions to provide high-quality variations.
+*   **Destination:** `https://www.lanterncamp.com`
+
 ---
 
 ## 4. Problems Solved & Milestones Achieved
 
+*   **Google Ads Conversion Tracking Audit (June 29):** Verified GTM container runs on site layout and Mews checkout, mapping the Mews Purchase trigger successfully to the native purchase event. Confirmed "incomplete/unverified" dashboard warnings are expected for a new tag and will clear upon the first live booking conversion.
+*   **Geotargeting Optimization & Click Blocking (June 29):** Switched all campaigns to target US & Canada only with the strict "Presence" exclusion setting enabled. This halted accidental mobile app traffic from Algeria (which had generated ~29k impressions and ~1.3k cheap accidental clicks due to initial global targeting defaults).
 *   **Fixed Core Pixel Script Void:** Resolved the core bottleneck where browser developer consoles generated an `Uncaught ReferenceError: fbq is not defined` error on the Mews checkout screens. The newly deployed "Meta Pixel - All Pages" base tag successfully loads the core tracking utility across the checkout flow.
 *   **Verified Data Delivery Sequence:** Confirmed via GTM debugging frames and Pixel Helper that the `Meta Pixel - Purchase` tag and base Pixel successfully fire on the Mews confirmation page.
 *   **Established Multi-Domain Footprint:** Meta Events Manager has officially updated its native "Websites" dataset directory to register traffic arriving from `app.mews.com` and shows Purchase events arriving.
