@@ -7,24 +7,24 @@ Use this document to track assignments, to-dos, hygiene, and projects.
 ## ⚡ Short-Term (Immediate / This Week)
 
 ### 📋 To-Dos & Assignments
-*   [/] **Grand Opening Press Release:** Working on responses to Erinne's questionnaire; continue selecting and uploading media photos (Addison's headshot, cabin/landscape selects, and logos) to the shared Drive folder.
-*   [ ] **Airbnb Setup & Listing Strategy:** Coordinate ownership review and execute listing optimizations as detailed in [airbnb-tracker-and-strategy.md](#/docs/airbnb-tracker-and-strategy). (Not started yet; waiting on ownership review).
-*   [ ] **Follow up on Promised Reel:** Addison to pay outstanding invoice and nudge Michelle about the promised Reel (Ben to ask Addison for status).
+*   [/] **Grand Opening Press Release:** At a good stopping point with responses to Erinne's questionnaire; continue selecting and uploading media photos (Addison's headshot, cabin/landscape selects, and logos) to the shared Drive folder.
+*   [ ] **Airbnb Setup & Listing Strategy:** Poke Addison again about rates/pricing strategy, coordinate ownership review, and execute listing optimizations as detailed in [airbnb-tracker-and-strategy.md](#/docs/airbnb-tracker-and-strategy).
+*   [ ] **Follow up on Promised Reel & Invoice (High Priority - Today):** Poke Addison to pay the outstanding invoice and nudge Michelle about the promised Reel.
 *   [ ] **Press Release (Wire) Strategy:**
     *   [ ] **Select Wire Service:** Compare eReleases (PR Newswire reseller) vs. EIN Presswire to select the best outlet.
 *   [/] **Digital Press Kit Setup:**
-    *   [ ] Select and package media kit photos (upload Addison's headshot, cabin/landscape rendering selects, and logos to the Drive folder).
-*   [ ] **Write First Newsletter:** Write first newsletter based on the approved Acadia concept (incorporating notes).
-*   [ ] **Brainstorm Newsletter Topics:** Brainstorm 2-3 additional topics to establish a bi-weekly content pipeline.
+    *   [x] Select and package media kit photos (create kit using Addison's selects; suggest others).
+*   [ ] **Write First Newsletter (Backburner):** Write first newsletter based on the approved Acadia concept (incorporating notes).
+*   [ ] **Brainstorm Newsletter Topics (Backburner):** Brainstorm 2-3 additional topics to establish a bi-weekly content pipeline.
 *   [ ] **Meta & Google Ads Campaign Expansion:**
     *   [ ] **Meta Ads Next Round Updates:** Set up five primary texts, headlines, and descriptions from [meta-ad-copy.md](#/docs/meta-ad-copy) (delegated to Lucy).
     *   [ ] **New Campaigns Launch:** Get both new ad campaigns running:
-        *   Meta retargeting conversion campaign (optimizing for bookings targeting homepage visitors).
+        *   Meta retargeting conversion campaign (try launching a video ad using John's 15-second video, optimizing for bookings targeting homepage visitors).
         *   Google Visual / Performance Max campaign.
-*   [/] **Video Edit / Recap:** John delivered the ~1-minute recap/ad video. (Ben to review and provide feedback).
+*   [ ] **Video Edit / Recap:** John delivered the recap video (turns out to be 15 seconds). Review and provide feedback today (June 29).
 *   [/] **Custom Analytics Dashboard (New Project):** Define and design a custom analytics dashboard web application to replace Looker Studio, starting with design planning and requirements gathering.
-*   [ ] **Sonia Email Reply:** Email Sonia back to inform her that Ben has taken on Google Ads himself and there is currently no job opening for the AdWords/Newsletter proposal.
-*   [ ] **Onboard Ann Swardlick (Outreach & Directory Listings):** Onboard Ann Swardlick to work through the transitioned list of organizations, affiliations, listings, and local businesses (from Tiffany) to get Lantern Camp listed in brochures and online directories.
+*   [ ] **Sonia Email Reply (High Priority - Today):** Email Sonia back to inform her that Ben has taken on Google Ads himself and there is currently no job opening for the AdWords/Newsletter proposal.
+*   [ ] **Onboard Ann Swardlick (Outreach & Directory Listings - First Thing):** Onboard Ann Swardlick to work through the transitioned list. Create a one-sheet for her to guide how to talk about Lantern Camp.
 
 ---
 
@@ -47,7 +47,7 @@ All technical architecture, infrastructure settings, tags, triggers, and unresol
 
 ### 📋 To-Dos & Assignments
 *   [/] **PR Prep & Launch Support (Ben & Carla):**
-    *   [ ] Coordinate onboarding and start date with Carla Tracy upon her return. (Agreed to her proposal in the PR strategy doc).
+    *   [ ] Follow up / make contact with Carla Tracy (haven't heard since last week).
 *   [ ] **April (Maine Famous):** Await response to outreach to April to discuss potential promotion collaboration. (No outreach sent yet; deferring until Carla is onboarded to get her insight).
 *   [ ] **Newsletter Content Pipeline:** Establish a structured content calendar aiming for a bi-weekly cadence.
 
