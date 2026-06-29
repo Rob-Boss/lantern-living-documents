@@ -16,11 +16,11 @@ Use this document to track assignments, to-dos, hygiene, and projects.
     *   [x] Select and package media kit photos (create kit using Addison's selects; suggest others).
 *   [ ] **Write First Newsletter (Backburner):** Write first newsletter based on the approved Acadia concept (incorporating notes).
 *   [ ] **Brainstorm Newsletter Topics (Backburner):** Brainstorm 2-3 additional topics to establish a bi-weekly content pipeline.
-*   [ ] **Meta & Google Ads Campaign Expansion:**
+*   [/] **Meta & Google Ads Campaign Expansion:**
     *   [ ] **Meta Ads Next Round Updates:** Set up five primary texts, headlines, and descriptions from [meta-ad-copy.md](#/docs/meta-ad-copy) (delegated to Lucy).
-    *   [ ] **New Campaigns Launch:** Get both new ad campaigns running:
-        *   Meta retargeting conversion campaign (try launching a video ad using John's 15-second video, optimizing for bookings targeting homepage visitors).
-        *   [/] Google Visual / Performance Max campaign (Campaign shell created; creative assets drafted in [google-pmax-creative.md](file:///Users/swardy/Documents/Antigravity%20Projects/Lantern%20Advertising/google-pmax-creative.md)).
+    *   [/] **New Campaigns Launch:** Get both new ad campaigns running:
+        *   [ ] Meta retargeting conversion campaign (try launching a video ad using John's 15-second video, optimizing for "Initiate Checkout" / "Book Now" clicks targeting homepage visitors).
+        *   [x] Google Visual / Performance Max campaign (Launched June 29; Asset Group finalized with photography selects/logos and copywriting matrix configured).
 *   [ ] **Video Edit / Recap:** John delivered the recap video (turns out to be 15 seconds). Review and provide feedback today (June 29).
 *   [/] **Custom Analytics Dashboard (New Project):** Define and design a custom analytics dashboard web application to replace Looker Studio, starting with design planning and requirements gathering.
 *   [ ] **Sonia Email Reply (High Priority - Today):** Email Sonia back to inform her that Ben has taken on Google Ads himself and there is currently no job opening for the AdWords/Newsletter proposal.
@@ -37,7 +37,7 @@ All technical architecture, infrastructure settings, tags, triggers, and unresol
     *   [ ] Fix system configuration typo: Change `item_category3` layout attribute from "Orlando, FL" to "Orland, Maine".
     *   [ ] (Optional) Remove duplicate unused pixels in the Meta account.
 *   [/] **Live Guest Checkout Audit & Tracking Verification:**
-    *   [ ] Verify purchase event reporting and conversion attribution in Ads Manager once the Purchase-optimized conversion campaign is launched. (Real bookings came in, but currently have no attribution in Ads Manager; conversion tracking and attribution work is ongoing).
+    *   [/] Verify purchase event reporting and conversion attribution in Ads Manager once the Purchase-optimized conversion campaign is launched. (GTM container & Mews purchase trigger verified running correctly; "incomplete/unverified" warnings are expected for a new tag and will clear automatically with the first live booking conversion).
     *   [ ] Customize Ads Manager reporting columns to display Purchases, Conversion Value, and ROAS side-by-side.
     *   [/] **Direct Booking Attribution:** Continue to investigate and implement methods to attribute direct Mews bookings to paid channels to justify ROAS.
         *   [ ] Addison to reach out to guests from compiled direct bookings sheet (emailed on June 29) to determine if they saw an ad or how they found out about us.
