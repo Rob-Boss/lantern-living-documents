@@ -8,7 +8,7 @@ This tracker registers local community events, organizational listings, and coll
 
 | Lead / Event | Date of Event | Status | Opportunity & Action Required | Contact Information | Sourced By |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [Orland River Day](https://townoforland.org/orland-river-day/) | Sept 12, 2026 | `[ ]` Pending Review | **Local Presence & Bookings:** Secure booth space ($25-$40) or local sponsorship (e.g. Duck Dash/Car Show) to drive off-season/family bookings. | Lisa (Vendor Coordinator) <br>📞 (207) 469-3186 <br>📧 orlandriverday@gmail.com | David Swardlick |
+| [Orland River Day](https://townoforland.org/orland-river-day/) | Sept 12, 2026 | `[ ]` Pending Review | **Community Relations & Local Presence:** Build local goodwill and town relationships. Secure a modest sponsorship presence (e.g. Duck Dash/Car Show) or a simple 10'x10' booth. | Lisa (Vendor Coordinator) <br>📞 (207) 469-3186 <br>📧 orlandriverday@gmail.com | David Swardlick |
 | **Downeast Properties Rentals** | — | `[ ]` Pending Review | **Referral Partnership:** Explore guest referral opportunities, local lodging network integration, or cross-promotions. | 📞 (207) 374-2321 <br>💻 [downeastproperties.com](http://www.downeastproperties.com) <br>📍 107 Main St, Blue Hill, ME | David Swardlick |
 
 ---
