@@ -13,7 +13,7 @@ This document serves as a quick-reference guide and source of approved copy for 
 | **Accommodation** | 24 premium, solar-powered, design-forward cabins (12 field, 12 forest) |
 | **Design Concept** | "Plain-modern" Scandinavian-inspired minimalist architecture |
 | **Founders** | Addison Godine & Tony Pell |
-| **Target Launch** | Summer 2026 |
+| **Target Launch** | July 2026 |
 | **Proximity** | Easy turn-key access to Acadia National Park, Bar Harbor, and the Blue Hill Peninsula (located just outside the heavy tourist congestion) |
 | **Property Highlights** | 33 acres of wild lowbush Maine blueberries, private fire pits, wood-fired sauna, guided stargazing, and 100-mile views extending to Penobscot Bay and Mt. Katahdin |
 | **Dog Friendliness** | Fully dog-friendly cabins and trails |
@@ -99,4 +99,4 @@ When pitching or speaking about Lantern Camp, align your conversation with these
 > Lantern Camp is a brand new, design-forward wilderness retreat in Orland, Maine. Set on 166 acres of a former blueberry farm, the property features 24 premium, solar-powered cabins with expansive views of Penobscot Bay. Located just outside the crowds of Acadia National Park, it offers private hiking trails, a sauna, and curated stargazing.
 
 ### Medium Description (approx. 100 words)
-> Lantern Camp in Orland, Maine, is a modern landscape hotel opening for booking in Summer 2026. Situated on a historic 166-acre blueberry farm near Acadia National Park, the retreat features 24 Scandinavian-inspired, solar-powered cabins designed by architect Addison Godine. With massive windows framing 100-mile views to Penobscot Bay, the property blends low-impact design with premium comfort. Guests can explore over 100 acres of land (including private hiking trails), enjoy the wood-fired sauna, gather around private fire pits, and participate in guided stargazing—all while enjoying a fully dog-friendly basecamp.
+> Lantern Camp in Orland, Maine, is a modern landscape hotel opening for booking in July 2026. Situated on a historic 166-acre blueberry farm near Acadia National Park, the retreat features 24 Scandinavian-inspired, solar-powered cabins designed by architect Addison Godine. With massive windows framing 100-mile views to Penobscot Bay, the property blends low-impact design with premium comfort. Guests can explore over 100 acres of land (including private hiking trails), enjoy the wood-fired sauna, gather around private fire pits, and participate in guided stargazing—all while enjoying a fully dog-friendly basecamp.
