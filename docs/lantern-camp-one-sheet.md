@@ -2,7 +2,7 @@
 
 > **Headline:** *Landscape Hotel near Acadia featuring modern cabins and 100-mile sunset views. It's out there.*
 
-This document serves as a quick-reference guide and source of approved copy for **Ann and David Swardlick** (and other team members) to use when reaching out to organizations, publications, bureaus, and community partners on behalf of Lantern Camp.
+This document serves as a quick-reference guide and source of approved copy for team members to use when reaching out to organizations, publications, bureaus, and community partners on behalf of Lantern Camp.
 
 ---
 
