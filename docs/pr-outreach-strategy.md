@@ -38,7 +38,7 @@ We organize our stories along this spectrum. To ensure a balanced outreach pipel
 *   **Spectrum Rating:** `[ Aspirational (L1) — Brand/Prestige ]`
 *   **The Hook:** Pitch Lantern Camp not as a "campground," but as a design-forward, low-impact landscape hotel. Focus on architect Addison Godine's design thinking and his vision to share nature through clean, modern, Scandinavian-influenced cabins.
 *   **Key Themes:**
-    *   **Addison the Architect:** The design-thinking mind behind the cabins. Addison's focus is on architectural harmony and low environmental footprint.
+    *   **Addison the Architect:** The design-thinking mind behind the cabins. Addison was previously the chief architect and designer at Postcard Cabins (formerly Getaway) before it sold to Marriott's outdoor collection. He spun off with Tony Pell to start Lantern Camp. His focus is on architectural harmony and low environmental footprint.
     *   **Plain Modern & Scandinavian Design:** Clean lines, large windows framing forest views, and minimalist comfort.
     *   **Humble Materials & Low-Impact Footprint:** Focus on plain-modern design built with local, humble materials and low-disturbance foundations. Quiet solar power supports the camp while preserving the raw beauty of the Orland forest.
 *   **Primary Targets:** Design and architecture editors, sustainability writers (*Dwell*, *Maine Home + Design*, *Decor Maine*, national travel magazines).
