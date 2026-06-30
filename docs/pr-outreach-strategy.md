@@ -134,7 +134,7 @@ Below is a summary of our direct personal connections and warm publication leads
 | Publication | Contact Name | Relationship / Access | Status & Notes |
 | :--- | :--- | :--- | :--- |
 | **Decor Maine** | Through Debra Spark | Family friend / Warm Intro | Strong probability of interest. |
-| **Maine Home + Design** | Through Debra Spark | Family friend / Warm Intro | Strong probability of interest. |
+| **Maine Home + Design** | Through Debra Spark | Family friend / Warm Intro | **Active Pitching**: Deborah Spark offered to pitch Lantern Camp to an MH&D contact who reached out to her directly for story ideas. Addison is spearheading communication with Deborah; team is backing them up with digital press kit assets. |
 | **Dwell** | Through Debra Spark | Family friend / Warm Intro | High-value national architecture target. |
 | **Downeast** | Addison's Dad's Connection | Family Connection / Warm Intro | Strong local Maine publication. |
 | **Boston Globe** | David Arnold, Dan Wasserman | Personal Network / Direct Access | Key travel audience contacts. |
