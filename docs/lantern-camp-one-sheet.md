@@ -56,6 +56,10 @@ When pitching or speaking about Lantern Camp, align your conversation with these
 *   **The Hook:** A premium nature retreat where dogs are treated as valued guests, not just allowed.
 *   **Why it Matters:** Finding upscale lodging that accommodates pets is a major challenge for travelers. Lantern Camp features fully dog-friendly cabins and over 100 acres to explore (including private forest trails) with your pet.
 
+### 4. The Upscale Family Nature Escape (Family-Friendly Getaway)
+*   **The Hook:** A premium outdoor experience built to accommodate the whole family, with modern comforts that make traveling with children seamless.
+*   **Why it Matters:** The cabins are designed with families in mind—featuring layouts that have plenty of space, dedicated bed nooks, and bunk beds. Rather than overpacking, parents can borrow a pack-and-play on-site. The 166-acre property offers endless natural engagement for kids: blueberry picking, forest hiking, guided stargazing, and private fire pits perfect for making s'mores.
+
 ---
 
 ## ✍️ Approved Copy & Snippets
