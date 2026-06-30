@@ -11,6 +11,7 @@ This document serves as a quick-reference guide and source of approved copy for 
 | Attribute | Details |
 | :--- | :--- |
 | **Name** | Lantern Camp |
+| **Address** | 85 Dodge Hill Rd, Orland, ME 04472 |
 | **Location** | Orland, Maine (166-acre property situated down a dirt road, up on a high ridge) |
 | **Accommodation** | 24 premium, solar-powered, design-forward cabins (12 field, 12 forest) |
 | **Design Concept** | "Plain-modern" Scandinavian-inspired minimalist architecture |
