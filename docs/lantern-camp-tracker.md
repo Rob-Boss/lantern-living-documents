@@ -7,13 +7,20 @@ Use this document to track assignments, to-dos, hygiene, and projects.
 ## ⚡ Short-Term (Immediate / This Week)
 
 ### 📋 To-Dos & Assignments
-*   [/] **Grand Opening Press Release:** At a good stopping point with responses to Erinne's questionnaire; continue selecting and uploading media photos (Addison's headshot, cabin/landscape selects, and logos) to the shared Drive folder.
+*   [/] **Grand Opening Press Release:** Erinne Magee confirmed she has made progress with the provided info; anticipating the first draft of the press release soon. Media photos/logos have been compiled and shared.
+*   [/] **PR Pitching (Deborah Spark & Maine Home & Design):** Addison is spearheading the relationship with Deborah Spark, who has offered to pitch Lantern Camp to *Maine Home & Design* (receptive to story ideas). Support Addison with the digital press kit and photo selects.
 *   [ ] **Airbnb Setup & Listing Strategy:** Poke Addison again about rates/pricing strategy, coordinate ownership review, and execute listing optimizations as detailed in [airbnb-tracker-and-strategy.md](#/docs/airbnb-tracker-and-strategy).
 *   [ ] **Follow up on Promised Reel & Invoice (High Priority - Today):** Poke Addison to pay the outstanding invoice and nudge Michelle about the promised Reel.
 *   [ ] **Press Release (Wire) Strategy:**
     *   [ ] **Select Wire Service:** Compare eReleases (PR Newswire reseller) vs. EIN Presswire to select the best outlet.
 *   [/] **Digital Press Kit Setup:**
     *   [x] Select and package media kit photos (create kit using Addison's selects; suggest others).
+    *   [ ] Organize and double-check availability of assets for Deborah Spark's *Maine Home & Design* pitch.
+*   [/] **Instagram Giveaway Campaign:** Work with Dana (who handles IG posting/photos) to outline and schedule a 2-night stay giveaway. (Goal: Grow followership; entry requirements: follow and tag).
+*   [/] **Launch Event Initiative (Family-Focused Parade):** Break up the launch event initiative into pieces and plan execution:
+    *   [ ] Map out potential site paths/roads/hikes suitable for a kid-friendly parade.
+    *   [ ] Plan structure for a costume/puppet-making workshop for attendees.
+    *   [ ] Coordinate bonfire and food/catering details for the parade finale.
 *   [ ] **Write First Newsletter (Backburner):** Write first newsletter based on the approved Acadia concept (incorporating notes).
 *   [ ] **Brainstorm Newsletter Topics (Backburner):** Brainstorm 2-3 additional topics to establish a bi-weekly content pipeline.
 *   [/] **Meta & Google Ads Campaign Expansion:**
@@ -21,10 +28,10 @@ Use this document to track assignments, to-dos, hygiene, and projects.
     *   [/] **New Campaigns Launch:** Get both new ad campaigns running:
         *   [ ] Meta retargeting conversion campaign (try launching a video ad using John's 15-second video, optimizing for "Initiate Checkout" / "Book Now" clicks targeting homepage visitors).
         *   [x] Google Visual / Performance Max campaign (Launched June 29; Asset Group finalized with photography selects/logos and copywriting matrix configured).
-*   [ ] **Video Edit / Recap:** John delivered the recap video (turns out to be 15 seconds). Review and provide feedback today (June 29).
+*   [x] **Video Edit / Recap (Tailwind Media):** Peter Logue got back with edits to a vertical 15s and horizontal 15s video. We are testing these in our Google PMax ad campaign.
 *   [/] **Custom Analytics Dashboard (New Project):** Define and design a custom analytics dashboard web application to replace Looker Studio, starting with design planning and requirements gathering.
 *   [ ] **Sonia Email Reply (High Priority - Today):** Email Sonia back to inform her that Ben has taken on Google Ads himself and there is currently no job opening for the AdWords/Newsletter proposal.
-*   [ ] **Onboard Ann Swardlick (Outreach & Directory Listings - First Thing):** Onboard Ann Swardlick to work through the transitioned list. Create a one-sheet for her to guide how to talk about Lantern Camp.
+*   [/] **Onboard Ann & David Swardlick (Outreach & Community Affiliations):** Onboarded Ann and David to review the community affiliations sheet and find low-hanging fruit (warm connections). Created the outreach [lantern-camp-one-sheet.md](#/docs/lantern-camp-one-sheet) to guide their messaging.
 
 ---
 
@@ -40,7 +47,7 @@ All technical architecture, infrastructure settings, tags, triggers, and unresol
     *   [/] Verify purchase event reporting and conversion attribution in Ads Manager once the Purchase-optimized conversion campaign is launched. (GTM container & Mews purchase trigger verified running correctly; "incomplete/unverified" warnings are expected for a new tag and will clear automatically with the first live booking conversion).
     *   [ ] Customize Ads Manager reporting columns to display Purchases, Conversion Value, and ROAS side-by-side.
     *   [/] **Direct Booking Attribution:** Continue to investigate and implement methods to attribute direct Mews bookings to paid channels to justify ROAS.
-        *   [ ] Addison to reach out to guests from compiled direct bookings sheet (emailed on June 29) to determine if they saw an ad or how they found out about us.
+        *   [x] Addison contacted guests from the compiled direct bookings sheet in real-time (responded to their notes and asked how they heard about Lantern Camp). Awaiting guest responses to see if any attribute to ad spend.
 
 ---
 
@@ -51,6 +58,7 @@ All technical architecture, infrastructure settings, tags, triggers, and unresol
     *   [ ] Follow up / make contact with Carla Tracy (haven't heard since last week).
 *   [ ] **April (Maine Famous):** Await response to outreach to April to discuss potential promotion collaboration. (No outreach sent yet; deferring until Carla is onboarded to get her insight).
 *   [ ] **Newsletter Content Pipeline:** Establish a structured content calendar aiming for a bi-weekly cadence.
+*   [ ] **New Logo Design:** Internal appetite for a new logo noted in marketing meeting (low priority/future consideration).
 
 ---
 
@@ -59,7 +67,8 @@ All technical architecture, infrastructure settings, tags, triggers, and unresol
 ### 🚀 Projects & Strategy
 *   [ ] **Launch Marketing Campaign:** Plan and execute the launch marketing campaign with the $50-75k budget.
 *   [ ] **Community Relationship Tracking:** Maintain and expand the LC Community Relationships database.
-*   [/] **Website Redesign (Homepage):** Gather homepage design comps and keep working on a new homepage layout for lanterncamp.com (competitor reference: [48° Nord](https://hotel48nord.com/)).
+*   [/] **Website Redesign (Homepage & Booking Widget):** Gather homepage design comps and keep working on a new homepage layout for lanterncamp.com (competitor reference: [48° Nord](https://hotel48nord.com/)).
+    *   **Concept Updates (June 30, 2026):** High enthusiasm for initial homepage concepts, specifically the minimalist booking widget integration (the rest of the homepage layout remains up in the air). Cinematic "Push-Through-The-Window" transition, container queries, and media asset optimizations are implemented and under review.
 
 ---
 
@@ -99,6 +108,13 @@ All technical architecture, infrastructure settings, tags, triggers, and unresol
 *   **GA4 Reporting API Automation:** Enabled Google Analytics Data API and created service account for python-based reporting.
 *   **Digital Press Kit - Missing Cabin Interior Details:** Sourced and uploaded missing cabin interior detail photos (bathroom, sink, close-up details).
 *   **Mews Booking Notifications:** Resolved issue where booking notifications were silent. (Notifications are now working successfully).
+*   **Website Redesign & Homepage Concept Updates (June 29, 2026):**
+    *   *Cinematic "Push-Through-The-Window" Transition:* Designed and implemented a loading-to-scroll hero intro transition in `src/app/page.js`. Simulates a cinematic zoom from the cabin interior, moving through a realistic transparent window sash layer out to the dynamic forest/fields background video.
+    *   *Piaule Minimalist Booking Widget Integration:* Integrated the sentence-based booking widget directly into the new Hero/Landing page concept. Replaced native date input picker with the custom, theme-aware `<InlineCalendar>` component. Implemented full-widget blurred dark overlay behavior for the date picker so it stays completely within the bounds of the booking pane.
+    *   *Proportional Sizing & Container Query Responsiveness:* Added container queries (`container-type: size; container-name: pane;`) to widget pane wrappers in both the landing and laboratory pages. Replaced fixed px/rem spacing, font sizes, spinners, input fields, and buttons with clamped container query units (`cqw` and `cqh`) via CSS `clamp()` so the entire widget scales fluidly inside its physical window frame pane without overflows.
+    *   *Media Asset Performance Optimization:* Optimized large visual assets to resolve latency/loading bottlenecks: Converted high-resolution background video loop from `.mov` (25MB) to high-quality `.webm` (~5MB). Compressed `bed_trans.png` (7.3MB) into `bed_trans.webp` (272KB). Compressed furniture/decor layers (`chair.webp`, `wicker_basket.webp`, and the dark window frames) to performant WebP formats.
+    *   *Audition Labs & Layout sandboxes:* Created `src/app/labs/physical-window/page.js` to test various window asset coordinates, lighting layers, and interactive sash states. Created `src/app/labs/font-combos/page.js` to preview and experiment with typography layouts and combinations.
+    *   *Brand & Design Documentation:* Authored core documentation files to lay down design rules: `brand_design_system.md`, `design_inspiration_moodboard.md`, and `design_decisions_framework.md`.
 
 ### Decided / Cancelled / Not Moving Forward
 *   **Press for Success Review:** Decided not to use this service.
