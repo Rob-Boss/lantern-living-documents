@@ -9,15 +9,33 @@ This document serves as a quick-reference guide and source of approved copy for 
 | Attribute | Details |
 | :--- | :--- |
 | **Name** | Lantern Camp |
-| **Location** | Orland, Maine (located on a former 166-acre blueberry farm) |
+| **Location** | Orland, Maine (166-acre property situated down a dirt road, up on a high ridge) |
 | **Accommodation** | 24 premium, solar-powered, design-forward cabins (12 field, 12 forest) |
 | **Design Concept** | "Plain-modern" Scandinavian-inspired minimalist architecture |
-| **Key Architect** | Addison Godine |
+| **Founders** | Addison Godine & Tony Pell |
 | **Target Launch** | Summer 2026 |
 | **Proximity** | Easy turn-key access to Acadia National Park, Bar Harbor, and the Blue Hill Peninsula (located just outside the heavy tourist congestion) |
-| **Property Highlights** | 100+ acres to explore (including private forest trails), private fire pits, wood-fired sauna, guided stargazing, and 100-mile views extending to Penobscot Bay |
+| **Property Highlights** | 33 acres of wild lowbush Maine blueberries, private fire pits, wood-fired sauna, guided stargazing, and 100-mile views extending to Penobscot Bay and Mt. Katahdin |
 | **Dog Friendliness** | Fully dog-friendly cabins and trails |
 | **Booking Site** | [lanterncamp.com](http://lanterncamp.com) (Direct bookings managed via MEWS) |
+
+---
+
+## 📖 Origin Story & Vision
+
+*   **Founding:** Co-founders Addison Godine and Tony Pell met through mutual friends and established Lantern Camp in **summer 2023**.
+*   **The Name:** "Lantern Camp" evokes a warm glow in the dark, a welcoming light in the wilderness—recalling the classic lantern as the essential camping area-illumination typology.
+*   **The Location Journey:** The founders originally intended to develop the property near Fort Ticonderoga in the Adirondacks (stewarded by Tony's family since the 1820s). After local zoning restrictions proved insurmountable, they shifted their search to Maine. Addison discovered an undeveloped 166-acre parcel in Orland formerly owned by Wyman's Blueberry, boasting 33 acres of wild lowbush blueberries, high-ridge seclusion, and spectacular prospects.
+*   **The Vision:** Create an immersive natural getaway that feels private, wild, and isolated from neighbors, giving guests space to open their imaginations and find inspiration.
+
+---
+
+## 🏷️ The "Landscape Hotel" Concept
+
+*   **Definition:** A lodging experience specifically designed to facilitate a direct, immersive connection with the surrounding natural environment. 
+*   **Origin:** The term was coined by Norwegian architects Jensen & Skodvin for the famous **Juvet Landscape Hotel** (Valldal, Norway, 2008 – featured in the film *Ex Machina* and TV series *Succession*).
+*   **The Vibe:** Low-impact and wild. Think wildflower meadows, long grasses, and wild lowbush blueberries instead of manicured lawns; think clean, contemporary detailing and expansive windows instead of traditional rustic decor (no window doilies or doormats). 
+*   **Regional Inspiration:** Takes inspiration from coastal Maine designs (like *Little House on the Ferry* and *The Cabins at Currier Landing*) and the Canadian maritime architecture of Mackay-Lyons Sweetapple Architects.
 
 ---
 
@@ -40,9 +58,21 @@ We offer two distinct cabin styles designed to frame the natural beauty of the p
 
 ---
 
+## 👥 Founder Bios
+
+### Addison Godine (Co-Founder & Chief Architect)
+*   **Maine Roots:** Addison grew up with his family's off-grid camp on Bremen Long Island, Maine, where he hosted annual trips for friends. His path in hospitality is rooted in sharing the natural beauty of Maine.
+*   **Getaway / Postcard Cabins:** Addison was the chief architect and designer for the tiny-cabin lodging startup **Getaway** (now Postcard Cabins). He designed and scaled the brand from its initial prototypes to 300 cabins across 10 properties nationwide (which ultimately grew to 1,200 cabins across 30 properties and was acquired by Marriott's outdoor collection).
+*   **Sustainability Focus:** Addison worked for OPAL Build (now NotchSB), a Maine-based modular construction company focused on high-efficiency envelope design. He returned to tiny-cabin development to build a refined version of his previous lodging concepts in his home state.
+
+### Tony Pell (Co-Founder)
+*   **Historic Stewardship:** Tony's family has stewarded Fort Ticonderoga in the Adirondacks since the 1820s. Tony has a deep appreciation for heritage tourism and historical land preservation, which inspired his entry into outdoor hospitality.
+
+---
+
 ## 🎯 Core Value Propositions & Story Angles
 
-When pitching or speaking about Lantern Camp, align your conversation with these three primary angles:
+When pitching or speaking about Lantern Camp, align your conversation with these four primary angles:
 
 ### 1. The Acadia-Adjacent Sanctuary (Escape the Crowds)
 *   **The Hook:** Enjoy the best of Acadia National Park and Mount Desert Island (MDI) by day, but return to a quiet, crowd-free forest retreat by night.
@@ -50,7 +80,7 @@ When pitching or speaking about Lantern Camp, align your conversation with these
 
 ### 2. Design-Forward, Low-Impact Architecture (The "Landscape Hotel")
 *   **The Hook:** Architecturally designed cabins that frame the natural beauty of the Maine wilderness rather than distracting from it.
-*   **Why it Matters:** Designed by architect Addison Godine, who was previously the chief architect and designer at Postcard Cabins (formerly Getaway) before the company sold to Marriott's outdoor collection. Addison spun off with co-founder Tony Pell to start Lantern Camp. The cabins feature clean architectural lines, large glass windows, and minimalist Scandinavian styling. They are built on low-impact foundations using humble local materials and powered by silent solar energy, showcasing that premium comfort can coexist with environmental stewardship.
+*   **Why it Matters:** Designed by architect Addison Godine, the cabins feature clean architectural lines, large glass windows, and minimalist Scandinavian styling. They are built on low-impact foundations using humble local materials and powered by silent solar energy, showcasing that premium comfort can coexist with environmental stewardship.
 
 ### 3. A Vacation for You and Your Dog (Dog-Friendly Luxury)
 *   **The Hook:** A premium nature retreat where dogs are treated as valued guests, not just allowed.
