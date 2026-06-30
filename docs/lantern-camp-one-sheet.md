@@ -27,8 +27,7 @@ This document serves as a quick-reference guide and source of approved copy for 
 ## 📖 Origin Story & Vision
 
 *   **Founding:** Co-founders Addison Godine and Tony Pell met through mutual friends and established Lantern Camp in **summer 2023**.
-*   **The Name:** "Lantern Camp" evokes a warm glow in the dark, a welcoming light in the wilderness—recalling the classic lantern as the essential camping area-illumination typology.
-*   **The Location Journey:** The founders originally intended to develop the property near Fort Ticonderoga in the Adirondacks (stewarded by Tony's family since the 1820s). After local zoning restrictions proved insurmountable, they shifted their search to Maine. Addison discovered an undeveloped 166-acre parcel in Orland formerly owned by Wyman's Blueberry, boasting 33 acres of wild lowbush blueberries, high-ridge seclusion, and spectacular prospects.
+*   **The Location Journey:** Co-founder Tony Pell wanted to provide expanded lodging options in and around Fort Ticonderoga (stewarded by his family since the 1820s). Together with architect Addison Godine, they founded Lantern Camp and shifted their focus to Maine. They discovered an undeveloped 166-acre parcel in Orland formerly owned by Wyman's Blueberry, boasting 33 acres of wild lowbush blueberries, high-ridge seclusion, and spectacular 100-mile views.
 *   **The Vision:** Create an immersive natural getaway that feels private, wild, and isolated from neighbors, giving guests space to open their imaginations and find inspiration.
 
 ---
@@ -37,7 +36,7 @@ This document serves as a quick-reference guide and source of approved copy for 
 
 *   **Definition:** A lodging experience specifically designed to facilitate a direct, immersive connection with the surrounding natural environment. 
 *   **Origin:** The term was coined by Norwegian architects Jensen & Skodvin for the famous **Juvet Landscape Hotel** (Valldal, Norway, 2008 – featured in the film *Ex Machina* and TV series *Succession*).
-*   **The Vibe:** Low-impact and wild. Think wildflower meadows, long grasses, and wild lowbush blueberries instead of manicured lawns; think clean, contemporary detailing and expansive windows instead of traditional rustic decor (no window doilies or doormats). 
+*   **The Vibe:** Low-impact and wild. Think wildflower meadows, long grasses, and wild lowbush blueberries instead of manicured lawns; think clean, contemporary detailing, plush linens, and expansive windows that strip away the clutter so guests can focus on what matters (unfussy design, unmatched peace). 
 *   **Regional Inspiration:** Takes inspiration from coastal Maine designs (like *Little House on the Ferry* and *The Cabins at Currier Landing*) and the Canadian maritime architecture of Mackay-Lyons Sweetapple Architects.
 
 ---
@@ -49,7 +48,7 @@ We offer two distinct cabin styles designed to frame the natural beauty of the p
 ### 1. Field Cabins (12 total, 1 accessible)
 *   **Layout:** 1 queen bed, 2 twin beds, 1 full bath, 1 full kitchen, and a sitting & dining area.
 *   **Bedside Window:** A large picture window next to the primary bed presses guests up to the edge of 100-mile views to the north and west. Designed to let guests enjoy the sunset, the gloaming, and the stars from a place of comfort and safety.
-*   **Bed Nook:** Tucked in off the entryway, this space features two twin beds that fold up against the wall, with privacy curtains to section it off from the main space. Standard double queen hotel rooms lack sectioned-off space for a child's crib (forcing parents to go to bed when their child does). The bed nook is specifically designed to solve this problem, and also doubles as a great spot for a dog while guests go out for dinner.
+*   **Bed Nook:** Tucked in off the entryway, this space features two twin beds that fold up against the wall, with privacy curtains to section off the main space. Any young parent who has traveled knows well the dysfunction of the standard double queen room—with no sectioned-off space to put the crib, bedtime for your child becomes bedtime for you, too. Our bed nook is specifically designed to solve this problem. It also doubles as a great spot for a pup while you go out for dinner.
 
 ### 2. Forest Cabins (12 total)
 *   **Layout:** 1 queen bed, 1 bunk bed, 1 full kitchen, and a dining table.
