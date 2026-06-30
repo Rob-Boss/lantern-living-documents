@@ -31,7 +31,7 @@ We offer two distinct cabin styles designed to frame the natural beauty of the p
 *   **Bed Nook:** Tucked in off the entryway, this space features two twin beds that fold up against the wall, with privacy curtains to section it off from the main space. Standard double queen hotel rooms lack sectioned-off space for a child's crib (forcing parents to go to bed when their child does). The bed nook is specifically designed to solve this problem, and also doubles as a great spot for a dog while guests go out for dinner.
 
 ### 2. Forest Cabins (12 total)
-*   **Layout:** 1 queen bed, 1 bunk bed, 1 full kitchen, and an eating table.
+*   **Layout:** 1 queen bed, 1 bunk bed, 1 full kitchen, and a dining table.
 *   **Minimal Visual Impact (Black exterior):** Because forests are naturally places of shadow, we selected black for the cabin exteriors to minimize their visual impact and blend them into the wooded landscape.
 
 ### All Cabins Feature:
