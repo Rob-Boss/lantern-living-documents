@@ -9,6 +9,7 @@ Use this document to track assignments, to-dos, hygiene, and projects.
 ### 📋 To-Dos & Assignments
 *   [/] **Grand Opening Press Release:** Erinne Magee confirmed she has made progress with the provided info; anticipating the first draft of the press release soon. Media photos/logos have been compiled and shared.
 *   [/] **PR Pitching (Deborah Spark & Maine Home & Design):** Addison is spearheading the relationship with Deborah Spark, who has offered to pitch Lantern Camp to *Maine Home & Design* (receptive to story ideas). Support Addison with the digital press kit and photo selects.
+*   [ ] **Carla Tracy Bio Package:** Compile and send co-founder bios (Addison & Tony) and opening details to Carla Tracy for the launch press release (due by July 6 when she returns from OOO).
 *   [ ] **Airbnb Setup & Listing Strategy:** Poke Addison again about rates/pricing strategy, coordinate ownership review, and execute listing optimizations as detailed in [airbnb-tracker-and-strategy.md](#/docs/airbnb-tracker-and-strategy). (Delegated to Lucy Larson to assist with setup/optimizations on Wednesday).
 *   [ ] **Follow up on Promised Reel & Invoice (High Priority - Today):** Poke Addison to pay the outstanding invoice and nudge Michelle about the promised Reel.
 *   [ ] **Press Release (Wire) Strategy:**
