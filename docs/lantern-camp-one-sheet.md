@@ -65,7 +65,7 @@ We offer two distinct cabin styles designed to frame the natural beauty of the p
 ### Addison Godine (Co-Founder & Chief Architect)
 *   **Maine Roots:** Addison grew up with his family's off-grid camp on Bremen Long Island, Maine, where he hosted annual trips for friends. His path in hospitality is rooted in sharing the natural beauty of Maine.
 *   **Getaway / Postcard Cabins:** Addison was the chief architect and designer for the tiny-cabin lodging startup **Getaway** (now Postcard Cabins). He designed and scaled the brand from its initial prototypes to 300 cabins across 10 properties nationwide (which ultimately grew to 1,200 cabins across 30 properties and was acquired by Marriott's outdoor collection).
-*   **Sustainability Focus:** Addison worked for OPAL Build (now NotchSB), a Maine-based modular construction company focused on high-efficiency envelope design. He returned to tiny-cabin development to build a refined version of his previous lodging concepts in his home state.
+*   **Sustainability Focus:** Addison worked for OPAL Build (now NotchSB), a Maine-based modular construction company focused on high-efficiency envelope design. He returned to tiny-cabin development to build a refined version of his previous lodging concepts in Maine.
 
 ### Tony Pell (Co-Founder)
 *   **Historic Stewardship:** Tony's family has stewarded Fort Ticonderoga in the Adirondacks since the 1820s. Tony has a deep appreciation for heritage tourism and historical land preservation, which inspired his entry into outdoor hospitality.
@@ -77,8 +77,8 @@ We offer two distinct cabin styles designed to frame the natural beauty of the p
 When pitching or speaking about Lantern Camp, align your conversation with these four primary angles:
 
 ### 1. The Founders' Journey & Vision (The Next Generation of Outdoor Hospitality)
-*   **The Hook:** A tiny-cabin pioneer returns to his home state to build a refined version of design-forward, low-impact lodging.
-*   **Why it Matters:** Co-founder and architect Addison Godine was the chief architect and designer for Getaway (now Postcard Cabins), scaling the brand from its initial prototypes to 300 cabins nationwide. His passion for hospitality is rooted in his childhood memories of hosting friends at his family's off-grid camp on Bremen Long Island, Maine. Returning home to build a more permanent, design-forward version of outdoor lodging, Addison teamed up with co-founder Tony Pell—whose family has historically stewarded Fort Ticonderoga in the Adirondacks since the 1820s. Together, they established Lantern Camp in 2023 to bring a brand-new level of architectural harmony and landscape-led hospitality to Maine.
+*   **The Hook:** A seasoned tiny-cabin designer returns to Maine to build a refined version of design-forward, low-impact lodging.
+*   **Why it Matters:** Co-founder and architect Addison Godine was the chief architect and designer for Getaway (now Postcard Cabins), scaling the brand from its initial prototypes to 300 cabins nationwide. His passion for hospitality is rooted in his childhood memories of hosting friends at his family's off-grid camp on Bremen Long Island, Maine. Returning to Maine to build a more permanent, design-forward version of outdoor lodging, Addison teamed up with co-founder Tony Pell—whose family has historically stewarded Fort Ticonderoga in the Adirondacks since the 1820s. Together, they established Lantern Camp in 2023 to bring a brand-new level of architectural harmony and landscape-led hospitality to Maine.
 
 ### 2. The Acadia-Adjacent Sanctuary (Escape the Crowds)
 *   **The Hook:** Enjoy the best of Acadia National Park and Mount Desert Island (MDI) by day, but return to a quiet, crowd-free forest retreat by night.
