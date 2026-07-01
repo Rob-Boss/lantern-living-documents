@@ -28,6 +28,25 @@ To manage expectations, value, and placement goals, we slot our pitch angles ont
     *   *Direct Bookings:* High/Fast (converts reader interest directly into cabin bookings).
     *   *Targets:* Weekend getaway sections, local travel roundups, family/camp blogs, Substack travel newsletters.
 
+## 👥 Target Guest Profile & Psychographic Core
+
+Our marketing and outreach targeting is built around two primary demographic segments and a specific psychographic mindset:
+
+### 1. Demographic Profiles & Feeder Markets
+*   **The Younger Affluent Cohort (Gen Z / Millennials - Age 18–32):** This represents the single largest segment by revenue (roughly 44% in 2025). Gen Z glampers spend an average of $266 per day—the highest of any demographic. They are design-savvy, highly active on social media, and view lodging as an identity signal.
+*   **The Family & Wellness Cohort (Age 33–50):** A smaller but faster-growing segment that spends the most per trip overall. This group is driven by family glamping, couples' anniversary trips, and mid-life wellness retreats.
+*   **Feeder Markets:** Approximately 50% of our target guests prefer locations within a 4-hour drive. Our primary feeder markets are **Boston**, the **NYC/Tri-State area**, and the **DC Corridor**.
+*   **Booking Preferences:** Couples represent roughly 55% of bookings. Solo travel (particularly solo female travel, which grew 28% from 2022 to 2023) and families represent the rest. Direct bookings account for 54.7% of bookings in this category, showing that guests actively seek to book direct once they discover a property via design/travel media.
+*   **Wi-Fi Connectivity:** Nearly 18 million US digital nomads were active in 2024, and 48% of campers cite Wi-Fi as their most important amenity. Our target guests want natural connection paired with digital connectivity, not true off-grid disconnection.
+
+### 2. The Psychographic Core (Why Landscape Hotels?)
+Guests choosing Lantern Camp over a traditional hotel, campground, or generic Airbnb are optimizing for:
+*   **Design Literacy as Identity:** They follow modern architecture accounts, read design publications (like *Dwell* or *Dezeen*), and purchase stays for their aesthetic and visual appeal.
+*   **"Nature without Negotiation":** They desire the raw sensory benefits of the wilderness (dark skies, forest trails, waterside views) without sacrificing high-end beds, running water, climate control, or high-speed Wi-Fi.
+*   **Restoration & Wellness Framing:** 83% of campers express interest in forest bathing, and 57% prioritize waterside relaxation for wellbeing. Stays should be pitched around stillness and restoration rather than high-intensity outdoor adventure.
+*   **Low-Friction Sustainability:** They value eco-conscious builds (light footprints, solar power) but expect sustainability to be seamless and comfortable rather than austere.
+*   **Curated, Quiet Social Currency:** While they share their experiences online, they seek "quiet-luxury minimalism" and editorial stillness rather than loud, resort-style content.
+
 ---
 
 ## 🎯 Core Pitch Angles & Stories
@@ -79,83 +98,36 @@ We organize our stories along this spectrum. To ensure a balanced outreach pipel
 
 ---
 
-## 📰 Target Publications & Outlets
+## 🗺️ Media Placement & Directory Outreach
 
-We are focusing our pitching efforts on tier-one regional publications, national travel journals, and specialized Maine outlets:
+Our outreach campaigns are categorized into distinct publication tiers (Design & Architecture, Travel & Experiential, Hospitality Trade, and Curated Listing Platforms) mapping back to our Pitch Spectrum (L1/L2/L3). 
 
-*   **The Boston Globe (Travel):** The primary regional travel sections covering weekend getaways and New England destinations. Highly influential for the Massachusetts/New England demographic.
-*   **National Geographic (Travel):** High-profile national features focusing on eco-tourism, unique stays, and natural wonders.
-*   **Yankee Magazine:** Deeply focused on New England travel, heritage, and lifestyle.
-*   **Down East Magazine / Decor Maine / Maine Home + Design:** Local authorities on Maine lifestyle, interior design, architecture, and premium cabin aesthetics.
-*   **The Ellsworth American / Mount Desert Islander:** Prominent local publications covering business, planning, and municipal developments near Orland and the DownEast Acadia region.
-*   **Bangor Daily News:** Major regional daily newspaper covering municipal development and tourism growth in Hancock County and Northern/Eastern Maine.
-*   **Portland Press Herald / Maine Trust for Local News:** The largest daily newspaper in Maine, featuring offbeat and in-depth stories on local tourism, hospitality trends, and community highlights.
----
+Rather than maintaining static lists of publications, writers, listings, and personal network connections in this strategy guide, we manage our working pipelines in two dedicated sheets:
+*   **PR & Media Tracker:** Monitor editorial pitch statuses, writer contact details, priority, and spectrum classifications in the **[PR & Media Outreach Tracker](#/docs/media-outreach-tracker)**.
+*   **Community & Listings Tracker:** Monitor platform directory submissions, local sponsorships, and regional business connections in the **[Community Affiliation Tracker](#/docs/community-affiliation-tracker)**.
+*   **PR Writing & Templates:** For practical guidelines on writing, formatting, and structural press templates, refer to the dedicated **[PR Writing & Formatting Guide](#/docs/pr-writing-and-formatting-guide)**.
 
-For practical guidelines on writing, formatting, and structural press templates, refer to the dedicated [PR Writing & Formatting Guide](#/docs/pr-writing-and-formatting-guide).
-
----
-
-## ✍️ PR Outlets & Writer Pitch List
-
-Below is our running list of travel writers, freelancers, and staff editors, along with their focus areas and contact info:
-
-| Name | Role / Publication | Focus & Specialties | Notes & Links |
-| :--- | :--- | :--- | :--- |
-| **Erinne Magee** | Freelance Writer (Boston Globe, National Geographic) | Maine travel, hotels, outdoor adventures | Freelances widely. Writes major Maine roundups. <br>• [LinkedIn](https://www.linkedin.com/in/erinnemagee/) <br>• [Portfolio](https://www.erinnemagee.com/portfolio) |
-| **Hilary Nangle** | Freelance Writer / Editor (Maine Travel Maven) | Deep expertise on Maine & the Blue Hill Peninsula | Longtime guidebook author and local expert. <br>• [LinkedIn](https://www.linkedin.com/in/hilarynangle/) <br>• [Blue Hill Peninsula Guide](https://www.mainetravelmaven.com/maines-blue-hill-peninsula/) |
-| **Christopher Muther** | Staff Travel Writer (The Boston Globe) | Global and regional travel trends, features, columns | The primary face of Boston Globe Travel. <br>• [Boston Globe Profile](https://www.bostonglobe.com/about/staff-list/staff/christopher-muther/) |
-| **Necee Regis** | Regular Contributor (The Boston Globe) | Travel and food; writes weekly "Here, There and Everywhere" column | Based in Wellfleet, MA. Also writes for WaPo and Yankee Magazine. |
-| **Jon Gorey** | Freelance Writer (Boston Globe / Globe Magazine) | Family travel, real estate, home improvement, lifestyle | Boston-based. Focuses on family-oriented excursions. |
-| **Sandra Ebejer** | Freelance Writer (Boston Globe, Washington Post) | Lifestyle, regional travel features | Based in Albany, NY. |
-| **Chris Tree** | Regular Contributor (The Boston Globe) | New England travel, New Hampshire, Vermont, Maine | Longtime contributor with extensive regional focus. |
-| **Leslie Bridgers** | Feature Writer (Portland Press Herald / Maine Trust for Local News) | Offbeat features, local news, travel and community interest profiles in Maine | Maine-based. Focuses on unique local business proposals and local lodging. <br>• [Portland Press Herald Profile](https://www.pressherald.com/) |
-
----
-
-## 🤝 Personal Connections & Warm Leads
-
-We have a strong network of warm personal connections, family friends, and professional relationships across New England's media landscape. This network represents high-likelihood opportunities that do not require PR agency spending.
-
-### 🌟 Debra Spark (Family Friend & Author)
-*   **Role & Bio:** Author and magazine contributing author who has written for *Dwell*, *Decor Maine*, *Maine Home + Design*, *Yankee*, the *New York Times*, and others.
-*   **Feedback & Strategy:** 
-    *   **PR Firm vs. Direct Pitches:** Editors do not favor pitches from PR firms over property owners, architects, or independent writers. In fact, she is personally turned off by overly packaged PR pitches.
-    *   **Inverting the Process:** She advises against writing articles first and then pitching them (editors want to choose their own framing, and word count constraints are critical).
-    *   **Direct Support:** Willing to provide **warm introductions to her contacts for free (no cost)**. She has strong, confident leads at:
-        *   *Decor Maine*
-        *   *Downeast*
-        *   *Maine Home + Design*
-
-### 📞 Core Media Contacts & Personal Network
-
-Below is a summary of our direct personal connections and warm publication leads:
-
-| Publication | Contact Name | Relationship / Access | Status & Notes |
-| :--- | :--- | :--- | :--- |
-| **Decor Maine** | Through Debra Spark | Family friend / Warm Intro | Strong probability of interest. |
-| **Maine Home + Design** | Through Debra Spark | Family friend / Warm Intro | **Active Pitching**: Deborah Spark offered to pitch Lantern Camp to an MH&D contact who reached out to her directly for story ideas. Addison is spearheading communication with Deborah; team is backing them up with digital press kit assets. |
-| **Dwell** | Through Debra Spark | Family friend / Warm Intro | High-value national architecture target. |
-| **Downeast** | Addison's Dad's Connection | Family Connection / Warm Intro | Strong local Maine publication. |
-| **Boston Globe** | David Arnold, Dan Wasserman | Personal Network / Direct Access | Key travel audience contacts. |
-| **Yankee Magazine** | Ian Aldrich, Mel Allen | Personal Network / Direct Access | Premier New England heritage & travel magazine. |
-| **Midcoast Villager** | Will Bleakely (CEO) | Direct Connection | Local Midcoast Maine exposure. |
-| **New England Monthly** | Danny Okrent | Personal Network / Direct Access | Regional monthly lifestyle perspective. |
-| **Maine Famous** | April | Professional Lead (Tailwind referral) | Former NYC ad agency veteran; authority on Maine business promo. Addison has initiated outreach. |
-| **Carla Tracy** (Solo Publicist) | Carla Tracy | Selected for Summer Consulting | **Selected**. Approved for summer consulting starting July at $1,000/mo. Expecting a delayed start as she is currently on the road. |
-| **Press for Success** (PR Coaching) | Press for Success Team | Connected via Nancy Marshall | DIY PR classes/community (~$80/mo). Website reviewed; looks interesting. |
+### 🌟 High-Level Network & Sourcing Methodology
+*   **Direct Founder-Led Outreach:** Editors consistently favor pitches coming directly from property owners, architects, or independent designers over canned agency packaging. Our strategy prioritizes Addison pitching design/architecture platforms directly, owning the conversation.
+*   **Leveraging Personal Networks:** We bypass standard editor inbox filters by coordinating warm introductions through family connections and professional relationships (e.g. author Debra Spark’s relationships at *Dwell*, *Decor Maine*, and *Maine Home + Design*).
+*   **Story Sourcing Over Ready Copies:** In line with advice from media professionals, we pitch the story angle and offer primary developer/architect sources first, allowing publications to choose their own framing rather than submitting pre-written articles.
 
 ---
 
 ## 🔍 Industry Benchmarks
 
-We look to regional peers who have successfully positioned premium rustic/modern stays:
+We look to regional and national peers who have successfully trained the Northeast traveler to seek out design-forward, rustic-modern landscape hotels:
 
+*   **Terramor Outdoor Resort (Bar Harbor, ME):**
+    *   *Concept:* Tents-forward glamping resort at Acadia's doorstep.
+    *   *Takeaway:* Proves that our target audience exists and is willing to pay premium rates right next to us. Because Terramor features tents, Lantern Camp occupies the "next rung up"—permanent, architecturally distinctive cabins with superior comfort, while remaining well short of a full-service inn. Reviewing their TripAdvisor feedback reveals what this specific Acadia-bound audience values (Wi-Fi, quiet) and complains about.
 *   **Piaule Catskill (Catskill, NY):**
     *   *Developer:* Nolan McHugh & Trevor Briggs (with Garrison Architects).
-    *   *Concept:* Minimalist landscape hotel featuring prefabricated, elevated cabins immersed in nature.
+    *   *Concept:* Prefabricated, elevated minimalist cabins immersed in the Catskill woods.
     *   *Link:* [Piaule](https://piaule.com)
-    *   *Takeaway:* A great benchmark for clean design aesthetics, low-impact site design, and target audience alignment.
+    *   *Takeaway:* Excellent benchmark for clean design aesthetics, low-impact site design, high room rates, and editorial coverage (AD, Vogue, WSJ).
+*   **Other Category Leaders:** *AutoCamp*, *Collective Retreats*, and *Getaway House*.
+    *   *Takeaway:* These platforms have educated our target demographic on the "landscape hotel" concept. Lantern Camp does not need to build category awareness from scratch; we simply need to position ourselves as "the Maine option, next to Acadia."
 
 ---
 
@@ -184,15 +156,19 @@ To support our media pitches with a formal announcement and capture broad syndic
 
 ## 📋 Immediate Action Items
 
-- `[ ]` **PR Newswire Account Verification:** Complete the verification call with PR Newswire (expecting call week of June 22).
+- `[ ]` **Directory Submissions:** Apply for property listings on Room + Wild, Canopy & Stars, and Design Hotels (Nature collection).
+- `[ ]` **Regional Pitching (Down East & Yankee):** Pitch editors directly with the wild-blueberry-barrens + lake-adjacent hook (distinct from Catskills/Bar Harbor competitors).
+- `[ ]` **National Parks Pitching (Nat Geo):** Pitch National Geographic's glamping/national parks travel desk comparing Lantern Camp's cabin style to traditional glamping tents (e.g. Terramor).
+- `[ ]` **SEO & Content Optimization:** Create an SEO plan and write content targeting "landscape hotel Maine" and "Acadia landscape hotel" keywords to capture early search volume.
+- `[x]` **PR Newswire Account Verification:** *Cancelled* (using reseller eReleases instead).
 - `[ ]` **Draft Launch Press Release:** Draft a 400-500 word press release detailing the summer launch, Scandinavian-style cabins, and eco-friendly design-led concept.
-- `[ ]` **Select Distribution Wire:** Decide between PR Newswire direct or eReleases (PR Newswire network reseller) based on account setup timeline and final quotes.
+- `[ ]` **Select Distribution Wire:** Decide between eReleases (PR Newswire network reseller) and alternative wires.
 - `[ ]` **Refine Pitch Outlines:** Draft 2-3 specific email pitch templates matching the angles outlined above.
 - `[ ]` **Establish Connections:** Reach out to Erinne Magee and Hilary Nangle to introducing Lantern Camp.
 - `[ ]` **Collaborate on Strategy/Contacts:** Coordinate with Ann and David Swardlick to leverage their Maine media contacts and PR strategy.
 - `[ ]` **Prep Pitch Package (Media Kit):**
     - `[ ]` Weigh hosting options: unlisted Squarespace page (branded look) vs. public Google Drive/Dropbox folder (frictionless download).
     - `[ ]` Select and package photos: follow up on Addison's headshot, select cabin/landscape rendering selects, and logo files.
-- `[ ]` **Target Assistant Tasks:** Work with Lucy Larson (upon onboarding) to build out the contact spreadsheet and track follow-ups.
-- [/] **Carla Tracy Learning Call:** Scheduled learning call with Carla Tracy for Wednesday, June 24, 2026 @ 1:00 PM EDT; ask about lump-sum sourcing options for a prestigious article placement.
-- `[ ]` **Press for Success Evaluation:** Decide if we want to sign up for Press for Success ($80/mo) for DIY PR coaching and community.
+- `[ ]` **Target Assistant Tasks:** Work with Lucy Larson to update and maintain the [Media Outreach Tracker](#/docs/media-outreach-tracker).
+- `[x]` **Carla Tracy Learning Call:** Completed learning call with Carla Tracy on June 24.
+- `[x]` **Press for Success Evaluation:** *Cancelled* (decided not to use).
