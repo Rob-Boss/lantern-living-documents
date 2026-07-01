@@ -56,6 +56,7 @@ All technical architecture, infrastructure settings, tags, triggers, and unresol
 ### 📋 To-Dos & Assignments
 *   [/] **PR Prep & Launch Support (Ben & Carla):**
     *   [ ] Follow up / make contact with Carla Tracy (haven't heard since last week).
+    *   [ ] **Media Placement & Directory Outreach:** Track pitch status on the [PR & Media Tracker](#/docs/media-outreach-tracker) (Yankee, Down East, Nat Geo) and directory listings on the [Community Affiliation Tracker](#/docs/community-affiliation-tracker) (Room + Wild, Canopy & Stars, etc.).
 *   [ ] **April (Maine Famous):** Await response to outreach to April to discuss potential promotion collaboration. (No outreach sent yet; deferring until Carla is onboarded to get her insight).
 *   [ ] **Newsletter Content Pipeline:** Establish a structured content calendar aiming for a bi-weekly cadence.
 *   [ ] **New Logo Design:** Internal appetite for a new logo noted in marketing meeting (low priority/future consideration).
