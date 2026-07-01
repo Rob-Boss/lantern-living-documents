@@ -76,17 +76,17 @@ We offer two distinct cabin styles designed to frame the natural beauty of the p
 
 When pitching or speaking about Lantern Camp, align your conversation with these four primary angles:
 
-### 1. The Acadia-Adjacent Sanctuary (Escape the Crowds)
+### 1. The Founders' Journey & Vision (The Next Generation of Outdoor Hospitality)
+*   **The Hook:** A tiny-cabin pioneer returns to his home state to build a refined version of design-forward, low-impact lodging.
+*   **Why it Matters:** Co-founder and architect Addison Godine was the chief architect and designer for Getaway (now Postcard Cabins), scaling the brand from its initial prototypes to 300 cabins nationwide. His passion for hospitality is rooted in his childhood memories of hosting friends at his family's off-grid camp on Bremen Long Island, Maine. Returning home to build a more permanent, design-forward version of outdoor lodging, Addison teamed up with co-founder Tony Pell—whose family has historically stewarded Fort Ticonderoga in the Adirondacks since the 1820s. Together, they established Lantern Camp in 2023 to bring a brand-new level of architectural harmony and landscape-led hospitality to Maine.
+
+### 2. The Acadia-Adjacent Sanctuary (Escape the Crowds)
 *   **The Hook:** Enjoy the best of Acadia National Park and Mount Desert Island (MDI) by day, but return to a quiet, crowd-free forest retreat by night.
 *   **Why it Matters:** Bar Harbor and Acadia are heavily congested during the summer season. Lantern Camp offers a peaceful basecamp in the Orland woods—just minutes away from the park, but far from the traffic and tourist hubs.
 
-### 2. Design-Forward, Low-Impact Architecture (The "Landscape Hotel")
-*   **The Hook:** Architecturally designed cabins that frame the natural beauty of the Maine wilderness rather than distracting from it.
+### 3. Design-Forward, Low-Impact Architecture (The "Landscape Hotel")
+*   **The Hook:** Modern cabins designed to frame the natural beauty of the Maine wilderness rather than distracting from it.
 *   **Why it Matters:** Designed by architect Addison Godine, the cabins feature clean architectural lines, large glass windows, and minimalist Scandinavian styling. They are built on low-impact foundations using humble local materials and powered by silent solar energy, showcasing that premium comfort can coexist with environmental stewardship.
-
-### 3. A Vacation for You and Your Dog (Dog-Friendly Luxury)
-*   **The Hook:** A premium nature retreat where dogs are treated as valued guests, not just allowed.
-*   **Why it Matters:** Finding upscale lodging that accommodates pets is a major challenge for travelers. Lantern Camp features fully dog-friendly cabins and over 100 acres to explore (including private forest trails) with your pet.
 
 ### 4. The Upscale Family Nature Escape (Family-Friendly Getaway)
 *   **The Hook:** A premium outdoor experience built to accommodate the whole family, with modern comforts that make traveling with children seamless.
