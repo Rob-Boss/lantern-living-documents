@@ -77,6 +77,9 @@ All technical architecture, infrastructure settings, tags, triggers, and unresol
 
 ## 🏛️ Historical Archive / Changelog
 
+### Completed in July 2026
+*   **July Retainer Invoice:** Submitted July retainer invoice for combined Marketing & PR ($6,500.00 total, representing the $3,500.00 marketing retainer + $3,000.00 in-house PR retainer).
+
 ### Completed in June 2026
 *   **Traveling Mainers Contract:** Evaluated and decided it was not a good deal (not moving forward).
 *   **Send Resume:** Email Addison your resume.
