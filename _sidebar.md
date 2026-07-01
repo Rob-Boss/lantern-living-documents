@@ -11,6 +11,8 @@
 * **Public Relations (PR)**
   * [PR Agency Evaluation](docs/pr-agency-evaluation.md)
   * [In-House PR & Media Strategy](docs/pr-outreach-strategy.md)
+  * [PR & Media Outreach Tracker](docs/media-outreach-tracker.md)
+  * [Community Affiliation & Listings](docs/community-affiliation-tracker.md)
 
 * **Paid Ads & Technical Setup**
   * [Meta Ad Creative & Copy](docs/meta-ad-copy.md)
