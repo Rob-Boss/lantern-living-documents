@@ -86,7 +86,7 @@ When pitching or speaking about Lantern Camp, align your conversation with these
 
 ### 3. Design-Forward, Low-Impact Architecture (The "Landscape Hotel")
 *   **The Hook:** Modern cabins designed to frame the natural beauty of the Maine wilderness rather than distracting from it.
-*   **Why it Matters:** Designed by architect Addison Godine, the cabins feature clean architectural lines, large glass windows, and minimalist Scandinavian styling. They are built on low-impact foundations using humble local materials and powered by silent solar energy, showcasing that premium comfort can coexist with environmental stewardship.
+*   **Why it Matters:** Designed by architect Addison Godine, the cabins draw inspiration from the celebrated Canadian maritime architecture of Brian MacKay-Lyons, featuring clean lines, large glass windows, and minimalist Scandinavian styling. They are built on low-impact foundations using humble local materials and powered by silent solar energy, showcasing that premium comfort can coexist with environmental stewardship.
 
 ### 4. The Upscale Family Nature Escape (Family-Friendly Getaway)
 *   **The Hook:** A premium outdoor experience built to accommodate the whole family, with modern comforts that make traveling with children seamless.
