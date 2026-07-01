@@ -32,7 +32,7 @@ Use this document to track assignments, to-dos, hygiene, and projects.
 *   [x] **Video Edit / Recap (Tailwind Media):** Peter Logue got back with edits to a vertical 15s and horizontal 15s video. We are testing these in our Google PMax ad campaign.
 *   [/] **Custom Analytics Dashboard (New Project):** Define and design a custom analytics dashboard web application to replace Looker Studio, starting with design planning and requirements gathering.
 *   [ ] **Sonia Email Reply (High Priority - Today):** Email Sonia back to inform her that Ben has taken on Google Ads himself and there is currently no job opening for the AdWords/Newsletter proposal.
-*   [/] **Onboard Ann & David Swardlick (Outreach & Community Affiliations):** Onboarded Ann and David to review the community affiliations sheet and find low-hanging fruit (warm connections). Created the outreach [lantern-camp-one-sheet.md](#/docs/lantern-camp-one-sheet) to guide their messaging.
+*   [x] **Onboard Ann & David Swardlick (Outreach & Community Affiliations):** Onboarded Ann and David to review the community affiliations sheet. Completed and published the outreach [lantern-camp-one-sheet.md](#/docs/lantern-camp-one-sheet) (ready for review).
 
 ---
 
@@ -56,7 +56,7 @@ All technical architecture, infrastructure settings, tags, triggers, and unresol
 
 ### 📋 To-Dos & Assignments
 *   [/] **PR Prep & Launch Support (Ben & Carla):**
-    *   [ ] Follow up / make contact with Carla Tracy (haven't heard since last week).
+    *   [x] Follow up with Carla Tracy (re-engaged; OOO until July 3; co-founder bio package sent for launch press release).
     *   [ ] **Media Placement & Directory Outreach:** Track pitch status on the [PR & Media Tracker](#/docs/media-outreach-tracker) (Yankee, Down East, Nat Geo) and directory listings on the [Community Affiliation Tracker](#/docs/community-affiliation-tracker) (Room + Wild, Canopy & Stars, etc.).
 *   [ ] **April (Maine Famous):** Await response to outreach to April to discuss potential promotion collaboration. (No outreach sent yet; deferring until Carla is onboarded to get her insight).
 *   [ ] **Newsletter Content Pipeline:** Establish a structured content calendar aiming for a bi-weekly cadence.
@@ -71,6 +71,7 @@ All technical architecture, infrastructure settings, tags, triggers, and unresol
 *   [ ] **Community Relationship Tracking:** Maintain and expand the LC Community Relationships database.
 *   [/] **Website Redesign (Homepage & Booking Widget):** Gather homepage design comps and keep working on a new homepage layout for lanterncamp.com (competitor reference: [48° Nord](https://hotel48nord.com/)).
     *   **Concept Updates (June 30, 2026):** High enthusiasm for initial homepage concepts, specifically the minimalist booking widget integration (the rest of the homepage layout remains up in the air). Cinematic "Push-Through-The-Window" transition, container queries, and media asset optimizations are implemented and under review.
+    *   **Squarespace Updates (July 1, 2026):** Implemented direct booking widget (custom button replacing standard BOOK nav link, preselecting cabin type/stay and redirecting straight to MEWS step 3), added transparent header gradient CSS for nav link readability, and optimized mobile background layout.
 
 ---
 
